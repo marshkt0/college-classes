@@ -1,0 +1,626 @@
+CRN,Subj,Num,Sec,Title,Hours,Faculty,Days,Beg,End,Days.2,Beg.2,End.2,Location,Limit,Enr,Av.Seats,Additional.Info,General.Education
+American Studies,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45419,AMST,333,A,Junior Seminar,4,J Berebitsky,M,1400,1630,,NA,NA,Walsh-Ellett Hall 312,15,7,Available: 8,Consent of professor required for late entry,
+45671,ARTH,212,A,American Animation, 1910-1960,4,G Clark,TR,800,915,,NA,NA,Carnegie Hall 302,20,21,Closed,Reserved Seats: returning freshmen-8 (1 available); Consent of professor required for late entry,G2: Understanding the Arts
+45704,ENGL,330,A,The Life and Literature of Tennessee Williams,4,V Craighill,MW,1300,1415,,NA,NA,Gailor Hall 130,25,24,Available: 1,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45715,ENGL,378,A,American Literature II,4,E Grammer,TR,1330,1445,,NA,NA,Gailor Hall 110,20,22,Closed,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45888,ENGL,392,A,Modern American Fiction,4,T Carlson,TR,1100,1215,,NA,NA,duPont Library 215,15,13,Available: 2,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45718,ENGL,397,A,Contemporary American Fiction,4,T Carlson,W,1400,1630,,NA,NA,duPont Library 215,15,14,Available: 1,Writing Intensive; Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45719,ENGL,398,A,Contemporary American Poetry,4,W Prunty,M,1400,1630,,NA,NA,Gailor Hall 202,15,15,Closed,Writing Intensive; Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45769,HIST,202,A,History of the United States II,4,H Roberson,TR,930,1045,,NA,NA,Walsh-Ellett Hall 202,25,28,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45855,HIST,322,A,Southern Lives,4,J Willis,MW,1300,1415,,NA,NA,Walsh-Ellett Hall 202,15,16,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Waitlist - contact instructor,
+45867,HIST,347,A,The American Civil Rights Movement,4,H Roberson,W,1430,1700,,NA,NA,Walsh-Ellett Hall 310,15,14,Available: 1,Community Engagement; Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45882,HIST,493,A,The Civil War and American Historical Memory,4,J McCardell,T,1900,2300,,NA,NA,Walsh-Ellett Hall 204,15,18,Closed,Open only to seniors; Consent of professor required for late entry,
+45580,POLS,203,A,The Presidency,4,A Hatcher,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 210,25,26,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45584,POLS,331,A,Constitutional Law: Balancing Powers,4,A Hatcher,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 304,25,24,Available: 1,Not open to freshmen; Consent of professor required for late entry,
+45571,PSYC,403,A,Psychology and Popular Culture in the U.S.,4,N Barenbaum,M,1400,1700,,NA,NA,Woods Laboratories 340,12,11,Available: 1,Prerequisites: Four courses in any combination from psychology and American studies; Consent of professor required for late entry,
+45554,WMST,100,A,Introduction to Women's and Gender Studies,4,J Berebitsky,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 202,18,20,Closed,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+Anthropology,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45543,ANTH,104,B,Introductory Cultural Anthropology,4,R O'Connor,MWF,900,950,,NA,NA,Woods Laboratories 342,15,14,Available: 1,Writing Intensive; Community Engagement; Consent of professor required for late entry,G4: Exploring Past and Present
+45544,ANTH,104,C,Introductory Cultural Anthropology,4,R O'Connor,MWF,1000,1050,,NA,NA,Woods Laboratories 342,15,15,Closed,Writing Intensive; Community Engagement; Consent of professor required for late entry,G4: Exploring Past and Present
+45545,ANTH,106,A,Introductory Physical Anthropology and Archaeology,4,S Sherwood,TR,800,915,,NA,NA,Snowden Hall 215,24,22,Available: 2 Reserved,Reserved Seats: returning freshmen-15 (3 available); Consent of professor required for late entry,G4: Exploring Past and Present,G5: Observing-Experimenting-Modeling
+45546,ANTH,106,B,Introductory Physical Anthropology and Archaeology,4,S Sherwood,TR,1100,1215,,NA,NA,Snowden Hall 215,24,23,Available: 1 Reserved,Reserved Seats: returning freshmen-15 (3 available); Consent of professor required for late entry,G4: Exploring Past and Present,G5: Observing-Experimenting-Modeling
+45547,ANTH,109,A,World Prehistory,4,C Ray,TR,930,1045,,NA,NA,Walsh-Ellett Hall 210,19,19,Closed,Consent of professor required for late entry,G3: Seeking Meaning,G4: Exploring Past and Present
+45548,ANTH,109,B,World Prehistory,4,C Ray,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 210,19,21,Closed,Consent of professor required for late entry,G3: Seeking Meaning,G4: Exploring Past and Present
+45852,ANTH,303,A,The Anthropology of Europe,4,C Ray,TR,1500,1615,,NA,NA,Walsh-Ellett Hall 210,19,19,Closed,Consent of professor required for late entry,
+45549,ANTH,305,A,Cultures of Latin America,4,D Murdock,MWF,1000,1050,,NA,NA,Spencer Hall 262,16,14,Available: 2,Prerequisite: ANTH 104; Waitlist - contact instructor,
+45551,ANTH,316,A,Archaeology of the Cumberland Plateau,4,S Sherwood,F,1300,1630,,NA,NA,Woods Laboratories G9,9,9,Closed,Instructor permission required,
+45552,ANTH,391,A,Junior Tutorial,4,R O'Connor,W,1300,1530,,NA,NA,Woods Laboratories 342,15,8,Available: 7,Writing Intensive; Open only to students pursuing majors in anthropology; Prerequisite: ANTH 104; Consent of professor required for late entry,
+45553,ANTH,403,A,Social Theory,4,D Murdock,M,1330,1600,,NA,NA,Woods Laboratories 342,16,7,Available: 9,Open only to seniors pursuing majors in anthropology; Consent of professor required for late entry,
+Arabic,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45851,ARAB,104,A,Elementary Arabic II,4,L King,MWF,900,950,M,1000,1050,Gailor Hall 230,18,3,Available: 15,Prerequisite: ARAB 103; Consent of professor required for late entry,
+Art and Art History,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45675,ART,103,A,Introduction to Lens and Time-based Media,4,P Malde,W,1300,1630,,NA,NA,Carnegie Hall 311,14,14,Closed,Instructor permission required; Studio Art Fee-Malde: $350,
+45676,ART,104,A,Introduction to Three- and Four-Dimensional Media,4,C Lewis,TR,930,1045,F,1300,1350,Carnegie Hall 311,15,9,Available: 6,Instructor permission required; Studio Art Fee-Pond: $150,
+45677,ART,105,A,Introduction to Painting and Drawing Processes and Theory,4,J Wohl,W,1300,1630,,NA,NA,Nabit Art Building 102,16,15,Available: 1,Instructor permission required; Studio Art Fee-Wohl: $200,
+45922,ART,251,A,Intermediate Drawing,4,J Wohl,T,1330,1700,,NA,NA,Nabit Art Building 101,7,10,Closed,Prerequisites: ART 105 or ART 151; Consent of professor required for late entry; Studio Art Fee-Wohl: $275,G2: Understanding the Arts
+45679,ART,261,A,Intermediate Photography,4,P Malde,R,1330,1700,,NA,NA,Carnegie Hall 311,7,9,Closed,Prerequisites: ART 103 or ART 161; Instructor permission required; Studio Art Fee-Malde: $450,G2: Understanding the Arts
+45678,ART,282,A,Sustainable Structures,4,C Lewis,M,1200,1250,W,1300,1630,Carnegie Hall 311,16,11,Available: 5,Prerequisites: ART 104 or ENST 200; Consent of professor required for late entry; Studio Art Fee-Pond: $165,G2: Understanding the Arts
+45923,ART,351,A,Advanced Drawing,4,J Wohl,T,1330,1700,,NA,NA,Nabit Art Building 101,5,3,Available: 2,Prerequisite: ART 251; Consent of professor required for late entry; Studio Art Fee-Wohl: $275,
+45682,ART,361,A,Advanced Photography,4,P Malde,R,1330,1700,,NA,NA,Carnegie Hall 311,7,5,Available: 2,Writing Intensive; Community Engagement; Prerequisite: ART 261; Instructor permission required; Studio Art Fee-Malde: $450,
+45683,ART,381,A,Advanced Sculpture,4,C Lewis,T,1330,1700,,NA,NA,Nabit Art Building 116,15,5,Available: 10,Prerequisite: ART 281; Instructor permission required; Sculpture Fee: $275,
+45685,ART,419,A,Junior Tutorial in Art-II,4,J Wohl,M,1300,1630,,NA,NA,Nabit Art Building 103,14,12,Available: 2,Writing Intensive; Open only to students pursuing majors in art; Consent of professor required for late entry,
+45686,ART,430,A,Senior Seminar,4,P Malde,M,1300,1630,,NA,NA,Carnegie Hall 311,14,9,Available: 5,Writing Intensive; Open only to students pursuing majors in art; Consent of professor required for late entry,
+45668,ARTH,103,A,Survey of Western Art I,4,M Brennecke,TR,930,1045,,NA,NA,Carnegie Hall 306,20,22,Closed,Reserved Seats: returning freshmen-8 (none available); Consent of professor required for late entry,G2: Understanding the Arts
+45669,ARTH,103,B,Survey of Western Art I,4,M Brennecke,TR,1100,1215,,NA,NA,Carnegie Hall 306,20,23,Closed,Reserved Seats: returning freshmen-8 (none available); Consent of professor required for late entry,G2: Understanding the Arts
+45670,ARTH,104,A,Survey of Western Art II,4,J Thompson,TR,930,1045,,NA,NA,Carnegie Hall 302,20,21,Closed,Consent of professor required for late entry,G2: Understanding the Arts
+45421,ARTH,107,A,The Films of Alfred Hitchcock,4,L Richardson,TR,1100,1215,,NA,NA,Gailor Hall 011,20,20,Closed,Instructor permission required,
+45864,ARTH,202,A,History of Photography,4,J Thompson,MWF,1100,1150,,NA,NA,Carnegie Hall 302,18,20,Closed,Consent of professor required for late entry,
+45671,ARTH,212,A,American Animation, 1910-1960,4,G Clark,TR,800,915,,NA,NA,Carnegie Hall 302,20,21,Closed,Reserved Seats: returning freshmen-8 (1 available); Consent of professor required for late entry,G2: Understanding the Arts
+45673,ARTH,312,A,Greek and Roman Art and Architecture,4,G Clark,TR,1100,1215,,NA,NA,Carnegie Hall 302,20,21,Closed,Prerequisites: ARTH 103 or HUMN 102; Consent of professor required for late entry,
+45674,ARTH,325,A,Italian Renaissance Art and Architecture,4,G Clark,MW,1300,1415,,NA,NA,Carnegie Hall 302,20,14,Available: 6,Prerequisites: ARTH 103 or ARTH 104 or HUMN 102; Consent of professor required for late entry,
+45951,ARTH,333,A,French Art,4,M Brennecke,MW,1430,1545,,NA,NA,Carnegie Hall 306,18,14,Available: 4,Prerequisites: ARTH 104 or HUMN 201; Consent of professor required for late entry,G6FR: Comprehending Cross-Culturally (French Culture)
+Asian Studies,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45418,ASIA,204,A,Themes in New Chinese Cinema,4,W Yang,MW,1300,1415,,NA,NA,Carnegie Hall 306,20,17,Available: 3,Consent of professor required for late entry,G6CH: Comprehending Cross-Culturally (Chinese Culture)
+45970,ASIA,225,A,Bows, Blades, and Bushido:  The Samurai in Context,4,J Sather,TR,1100,1215,,NA,NA,Gailor Hall 224,20,18,Available: 2,Consent of professor required for late entry,
+45416,CHIN,104,A,Elementary Chinese II,4,W Yang,MWF,1000,1050,T,1230,1320,Gailor Hall 230,20,6,Available: 14,Prerequisites: CHIN 103 or placement; Consent of professor required for late entry,
+45417,CHIN,301,A,Advanced Chinese,4,W Yang,MWF,1100,1150,,NA,NA,Gailor Hall 230,20,5,Available: 15,Prerequisites: CHIN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45756,ECON,309,A,Women in the Economy,4,Y Mohiuddin,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 308,20,22,Closed,Community Engagement; Prerequisite: ECON 101; Consent of professor required for late entry,
+45782,HIST,388,A,The United States and Vietnam since 1945,4,H Goldberg,TR,1330,1445,M,1900,1950,Walsh-Ellett Hall 302,25,20,Available: 5,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45939,INGS,304,A,Politics and Society in Modern India,4,R Kalyan,TR,930,1045,,NA,NA,Gailor Hall 103,16,9,Available: 7,Writing Intensive; Consent of professor required for late entry,
+45732,JAPN,104,A,Elementary Japanese II,4,J Sather,MWF,1000,1050,T,1230,1320,Gailor Hall 102,20,2,Available: 18,Prerequisites: JAPN 103 or placement; Consent of professor required for late entry,
+45733,JAPN,301,A,Composition and Conversation,4,J Sather,MWF,1200,1250,,NA,NA,Gailor Hall 212,20,9,Available: 11,Prerequisites: JAPN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45661,RELG,162,A,Introduction to Asian Religions,4,D Mote,MWF,900,950,,NA,NA,Walsh-Ellett Hall 210,18,18,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45662,RELG,162,B,Introduction to Asian Religions,4,D Mote,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 210,18,20,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+Biology,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45885,BIOL,105,A,Biology and People,4,J Palisano,MWF,900,950,,NA,NA,Spencer Hall 251,18,18,Closed,Non-Lab Science; Consent of professor required for late entry,G5: Observing-Experimenting-Modeling
+45446,BIOL,118,A,Current Issues in Biology,4,L Jones,MW,1100,1215,,NA,NA,Spencer Hall 164,18,18,Closed,Non-Lab Science; Consent of professor required for late entry,G5: Observing-Experimenting-Modeling
+45432,BIOL,130,A,Field Investigations in Biology,4,D Haskell,M,1330,1700,,NA,NA,Woods Laboratories G10,18,20,Closed,Non-Lab Science; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45433,BIOL,130,B,Field Investigations in Biology,4,K Zigler,T,1330,1700,,NA,NA,Woods Laboratories G10,18,22,Closed,Non-Lab Science; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45434,BIOL,130,C,Field Investigations in Biology,4,D McGrath,W,1330,1700,,NA,NA,Woods Laboratories G10,18,20,Closed,Non-Lab Science; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45955,BIOL,130,D,Field Investigations in Biology,4,H Liere-Ardon,R,1330,1700,,NA,NA,Woods Laboratories G10,18,18,Closed,Non-Lab Science; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45967,BIOL,130,E,Field Investigations in Biology,4,H Liere-Ardon,F,1330,1700,,NA,NA,Woods Laboratories G10,18,16,Available: 2,Non-Lab Science; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45435,BIOL,133,A,Introductory Molecular Biology,4,M Farris,MWF,900,950,,NA,NA,Spencer Hall 257,18,18,Closed,Non-Lab Science; Open only to freshmen and sophomores; Reserved Seats: returning freshmen-9 (none available); Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45436,BIOL,133,B,Introductory Molecular Biology,4,M Farris,MWF,1000,1050,,NA,NA,Spencer Hall 257,18,20,Closed,Non-Lab Science; Open only to freshmen and sophomores; Reserved Seats: returning freshmen-9 (none available); Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45437,BIOL,133,C,Introductory Molecular Biology,4,E Kikis,MWF,1100,1150,,NA,NA,Spencer Hall 257,18,17,Available: 1,Non-Lab Science; Open only to freshmen and sophomores; Reserved Seats: returning freshmen-9 (none available); Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45445,BIOL,201,A,Ornithology (Lab),4,D Haskell,MWF,800,850,W,1330,1630,Woods Laboratories 128,16,18,Closed,Lab Science; Prerequisites: BIOL 130 or BIOL 131; Consent of professor required for late entry,
+45886,BIOL,222,A,Advanced Conservation Biology (Lab),4,J Evans,TR,1100,1215,T,1330,1630,Spencer Hall 173,16,19,Closed,Lab Science; Writing Intensive; Prerequisites: BIOL 130 or BIOL 131; Consent of professor required for late entry,
+45879,BIOL,232,A,Human Health and the Environment (Lab),4,D McGrath,TR,930,1045,R,1330,1630,Spencer Hall 251,14,20,Closed,Lab Science; Community Engagement; Prerequisite: BIOL 130; Consent of professor required for late entry,
+45439,BIOL,233,A,Intermediate Cell and Molecular Biology (Lab),4,A Summers,MWF,1000,1050,,NA,NA,Woods Laboratories 216,28,30,Closed,Lab Science; Writing Intensive; Prerequisites: BIOL 133 and CHEM 120; Instructor permission required,
+45440,BIOL,233,L1,Intermediate Cell and Molecular Biology (Lab),0,A Summers,T,1330,1630,,NA,NA,Spencer Hall 257,14,14,Closed,Lab Science; Writing Intensive; Prerequisites: BIOL 133 and CHEM 120; Instructor permission required,
+45441,BIOL,233,L2,Intermediate Cell and Molecular Biology (Lab),0,M Farris,R,1330,1630,,NA,NA,Spencer Hall 257,14,16,Closed,Lab Science; Writing Intensive; Prerequisites: BIOL 133 and CHEM 120; Instructor permission required,
+45448,BIOL,241,A,Rainforests and Coral Reefs,2,J Evans,TBA,NA,NA,,NA,NA,TBA,16,8,Available: 8,Consent of professor required for late entry,
+45442,BIOL,316,A,Biochemistry of Metabolism and Molecular Biology (Lab),0,E Kikis,MWF,1000,1050,M,1300,1600,Woods Laboratories 113,12,14,Closed,Lab Science; Prerequisites: BIOL 233 and CHEM 201; Instructor permission required,
+45883,BIOL,316,B,Biochemistry of Metabolism and Molecular Biology (Lab),0,E Kikis/B Seballos,MWF,1000,1050,T,1330,1630,Woods Laboratories 113,12,13,Closed,Lab Science; Prerequisites: BIOL 233 and CHEM 201; Instructor permission required,
+45444,BIOL,330,A,Immunology (Lab),4,J Palisano,TR,930,1045,W,1330,1630,Spencer Hall 164,16,8,Available: 8,Lab Science; Prerequisites: (BIOL 132 or BIOL 233) and (CHEM 102 or CHEM 111); Consent of professor required for late entry,
+45449,BIOL,333,A,Developmental Biology (Lab),4,K Zigler,MWF,900,950,M,1330,1630,Spencer Hall 164,16,16,Closed,Lab Science; Prerequisites: (BIOL 130 or BIOL 131) and (BIOL 132 or BIOL 233); Consent of professor required for late entry,
+45887,BIOL,388,A,Epigenetics,4,A Summers,R,1330,1630,,NA,NA,Spencer Hall 151,16,13,Available: 3,Non-Lab Science; Prerequisite: BIOL 233; Consent of professor required for late entry,
+Business,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45974,BUSI,216,A,Fundamentals of Managerial Accounting,4,C Heinemann,MW,1600,1715,,NA,NA,Walsh-Ellett Hall 308,20,10,Available: 10,Prerequisites: ACCT 215 or BUSI 215; Consent of professor required for late entry,
+45979,BUSI,217,A,Marketing Strategy,4,G Miller,TR,1500,1615,,NA,NA,Walsh-Ellett Hall 308,20,20,Closed,Prerequisite: ECON 101; Pre- or Corequisites: (PSYC 100 or PSYC 101 or ANTH 104); Consent of professor required for late entry,
+Chemistry,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45488,CHEM,102,A,General Chemistry II (Lab),4,E White,MWF,800,850,,NA,NA,Woods Laboratories BLACKMAN,40,29,Available: 11,Lab Science; Prerequisite: CHEM 101; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45489,CHEM,102,B,General Chemistry II (Lab),4,R Bachman,MWF,900,950,,NA,NA,Woods Laboratories BLACKMAN,40,41,Closed,Lab Science; Prerequisite: CHEM 101; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45490,CHEM,102,L1,General Chemistry II (Lab),0,D Miles,M,1300,1600,,NA,NA,Spencer Hall 269,17,17,Closed,Lab Science; Prerequisite: CHEM 101,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45491,CHEM,102,L2,General Chemistry II (Lab),0,E White,T,1330,1630,,NA,NA,Spencer Hall 269,17,17,Closed,Lab Science; Prerequisite: CHEM 101,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45492,CHEM,102,L3,General Chemistry II (Lab),0,J Shibata,W,1300,1600,,NA,NA,Spencer Hall 269,17,19,Closed,Lab Science; Prerequisite: CHEM 101,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45493,CHEM,102,L4,General Chemistry II (Lab),0,B Seballos,R,1330,1630,,NA,NA,Spencer Hall 269,17,17,Closed,Lab Science; Prerequisite: CHEM 101,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45494,CHEM,202,A,Organic Chemistry II (Lab),4,R Pongdee,MWF,1100,1150,,NA,NA,Woods Laboratories BLACKMAN,54,42,Available: 12,Lab Science; Prerequisite: CHEM 201; Consent of professor required for late entry,
+45495,CHEM,202,L1,Organic Chemistry II (Lab),0,R Pongdee,M,1300,1630,,NA,NA,Spencer Hall 268,18,18,Closed,Lab Science; Prerequisite: CHEM 201,
+45496,CHEM,202,L2,Organic Chemistry II (Lab),0,R Bachman,T,1330,1700,,NA,NA,Spencer Hall 268,18,6,Available: 12,Lab Science; Prerequisite: CHEM 201,
+45497,CHEM,202,L3,Organic Chemistry II (Lab),0,R Summers,W,1300,1630,,NA,NA,Spencer Hall 268,18,18,Closed,Lab Science; Prerequisite: CHEM 201,
+45850,CHEM,211,A,Environmental Chemistry,4,E White,MW,1300,1415,W,1415,1600,Spencer Hall 251,16,6,Available: 10,Non-Lab Science; Prerequisites: CHEM 102 or CHEM 111; Consent of professor required for late entry,
+45498,CHEM,301,A,Junior Seminar,2,R Pongdee,F,1330,1420,,NA,NA,Woods Laboratories 216,20,8,Available: 12,Open only to juniors pursuing majors in chemistry; Consent of professor required for late entry,
+45499,CHEM,311,A,Chemical Analysis (Lab),4,D Miles,MWF,900,950,R,1330,1700,Spencer Hall 262,15,8,Available: 7,Lab Science; Writing Intensive; Prerequisite: CHEM 102; Consent of professor required for late entry,
+45443,CHEM,316,A,Biochemistry of Metabolism and Molecular Biology (Lab),0,E Kikis,MWF,1000,1050,M,1300,1600,Woods Laboratories 113,12,14,Closed,Lab Science; Prerequisites: BIOL 233 and CHEM 201; Instructor permission required,
+45884,CHEM,316,B,Biochemistry of Metabolism and Molecular Biology (Lab),0,E Kikis/B Seballos,MWF,1000,1050,T,1330,1630,Woods Laboratories 113,12,13,Closed,Lab Science; Prerequisites: BIOL 233 and CHEM 201; Instructor permission required,
+45500,CHEM,352,A,Thermodynamics and Kinetics (Lab),4,J Shibata,TR,800,915,M,1300,1630,Woods Laboratories 216,20,18,Available: 2,Lab Science; Prerequisites: (CHEM 102 or CHEM 111) and MATH 102; Pre- or Corequisite: (PHYS 101 or PHYS 103); Consent of professor required for late entry,
+45501,CHEM,401,A,Senior Seminar,2,R Pongdee,F,1330,1420,,NA,NA,Woods Laboratories 216,20,4,Available: 16,Open only to seniors pursuing majors in chemistry; Consent of professor required for late entry,
+45502,CHEM,408,A,Advanced Topics in Inorganic Chemistry,4,R Bachman,MWF,1100,1150,,NA,NA,Spencer Hall 262,20,3,Available: 17,Non-Lab Science; Prerequisite: CHEM 308; Consent of professor required for late entry,
+45503,CHEM,417,A,Advanced Biochemistry,4,B Seballos,TR,1100,1215,,NA,NA,Spencer Hall 262,20,9,Available: 11,Non-Lab Science; Prerequisites: BIOL 306 or BIOL 316 or CHEM 306 or CHEM 307 or CHEM 316; Consent of professor required for late entry,
+Classics,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45504,CLST,101,A,Classical Mythology,4,C McDonough,TR,1330,1445,,NA,NA,Gailor Hall 011,50,52,Closed,Consent of professor required for late entry,
+45505,GREK,104,A,Elementary Greek II,4,D Holmes,MWF,1200,1250,T,1230,1320,Gailor Hall 019,20,7,Available: 13,Prerequisites: GREK 103 or placement; Consent of professor required for late entry,
+45506,GREK,403,A,Greek Comedy,4,D Holmes,MWF,1000,1050,,NA,NA,Gailor Hall 019,15,2,Available: 13,Prerequisite: GREK 301; Consent of professor required for late entry,G1: Reading Closely,G6: Comprehending Cross-Culturally (Language)
+45507,LATN,104,A,Elementary Latin II,4,T True,MWF,1200,1250,T,1230,1320,Gailor Hall 114,20,14,Available: 6,Prerequisites: LATN 103 or placement; Consent of professor required for late entry,
+45508,LATN,203,A,Intermediate Latin,4,D Huber,MWF,1100,1150,R,1230,1320,Gailor Hall 011,20,6,Available: 14,Prerequisites: LATN 104 or placement; Consent of professor required for late entry,
+45509,LATN,301,A,Introduction to Latin Epic,4,D Huber,MWF,1200,1250,,NA,NA,Gailor Hall 011,15,14,Available: 1,Prerequisites: LATN 203 or placement; Consent of professor required for late entry,G1: Reading Closely,G6: Comprehending Cross-Culturally (Language)
+45510,LATN,401,A,Roman Drama I,4,D Holmes,TR,1100,1215,,NA,NA,Gailor Hall 019,15,9,Available: 6,Prerequisite: LATN 301; Consent of professor required for late entry,G1: Reading Closely,G6: Comprehending Cross-Culturally (Language)
+45511,LATN,405,A,Medieval Latin,4,C McDonough,TR,930,1045,,NA,NA,Gailor Hall 019,20,14,Available: 6,Writing Intensive; Prerequisite: LATN 301; Consent of professor required for late entry,G1: Reading Closely,G6: Comprehending Cross-Culturally (Language)
+Computer Science,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45596,CSCI,101,A,Introduction to Computer Science,4,L Lankewicz,MWF,800,850,,NA,NA,Woods Laboratories 136,16,15,Available: 1,Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45597,CSCI,157,A,Introduction to Modeling and Programming,0,S Carl,MWF,1000,1050,T,1400,1700,Woods Laboratories 136,16,16,Closed,Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45598,CSCI,257,A,Data Structures,4,L Dale,TR,930,1045,,NA,NA,Woods Laboratories 136,16,7,Available: 9,Prerequisite: CSCI 157; Consent of professor required for late entry,
+45599,CSCI,284,A,Database Design with Web Applications,4,L Dale,MWF,1200,1250,,NA,NA,Woods Laboratories 136,16,3,Available: 13,Prerequisites: CSCI 101 or CSCI 157; Consent of professor required for late entry,
+45600,CSCI,290,A,Data Mining,4,L Lankewicz,MW,1430,1545,,NA,NA,Woods Laboratories 136,16,5,Available: 11,Prerequisites: CSCI 257 or CSCI 284; Consent of professor required for late entry,
+45601,CSCI,344,A,Robotics,4,L Dale,TR,1100,1215,,NA,NA,Woods Laboratories 136,16,4,Available: 12,Prerequisites: CSCI 257 and MATH 215; Consent of professor required for late entry,
+45602,CSCI,428,A,Operating Systems,4,S Carl,MWF,1100,1150,,NA,NA,Woods Laboratories 136,16,3,Available: 13,Prerequisites: CSCI 270 and MATH 215; Consent of professor required for late entry,
+Earth & Environmental Systems,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45628,FORS,121,A,Introduction to Forestry (Lab),4,S Torreano,TR,930,1045,R,1330,1630,Snowden Hall 202,18,19,Closed,Lab Science; Instructor permission required,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45629,FORS,230,A,Urban Forest Management,4,K Kuers,MWF,1100,1150,,NA,NA,Snowden Hall 202,20,19,Available: 1,Non-Lab Science; Prerequisite: FORS 121; Consent of professor required for late entry,G5: Observing-Experimenting-Modeling
+45630,FORS,260,A,Forest Watershed Measurements,2,K Kuers,W,1330,1630,,NA,NA,Snowden Hall 217,8,4,Available: 4,Prerequisites: FORS 121 or GEOL 121; Instructor permission required,
+45631,FORS,262,A,Forest and Watershed Restoration (Lab),4,K Smith,TR,1100,1215,T,1330,1630,Snowden Hall 202,16,27,Closed,Lab Science; Prerequisites: FORS 121 or GEOL 121 or BIOL 130 or BIOL 131; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45632,FORS,312,A,Silviculture (Lab),4,K Kuers/S Torreano,MWF,900,950,M,1330,1630,Snowden Hall 202,20,17,Available: 3,Lab Science; Prerequisite: FORS 121; Consent of professor required for late entry,
+45633,FORS,314,A,Hydrology (Lab),4,M Knoll,TR,930,1045,R,1330,1630,Snowden Hall 215,24,30,Closed,Lab Science; Prerequisite: GEOL 121; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45634,FORS,432,A,Senior Field Project,4,S Shaver/K Kuers,MWF,800,850,F,1330,1630,Snowden Hall 202,25,26,Closed,Open only to seniors pursuing majors in forestry, geology, natural resources, or natural resources and the environment; Consent of professor required for late entry; Senior Field Project Fee: $50,
+45636,GEOL,121,A,Physical Geology (Lab),4,B Potter,MWF,800,850,M,1330,1630,Snowden Hall 215,24,32,Closed,Lab Science; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45637,GEOL,121,B,Physical Geology (Lab),4,S Shaver,MWF,1100,1150,W,1330,1630,Snowden Hall 102,20,18,Available: 2,Lab Science; Waitlist - contact instructor,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45638,GEOL,215,A,Economic Geological Resources (Lab),4,S Shaver,TR,1100,1215,T,1330,1630,Snowden Hall 102,12,10,Available: 2,Lab Science; Open only to juniors or seniors pursuing majors in forestry, geology, or natural resources and the environment; Prerequisite: GEOL 121; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45639,GEOL,314,A,Hydrology (Lab),4,M Knoll,TR,930,1045,R,1330,1630,Snowden Hall 215,24,30,Closed,Lab Science; Prerequisite: GEOL 121; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45640,GEOL,315,A,Watershed Contaminant Hydrology,2,M Knoll,TBA,NA,NA,,NA,NA,Snowden Hall 211,12,13,Closed,Prerequisite: GEOL 314; Consent of professor required for late entry,
+45641,GEOL,325,A,Field and Structural Geology (Lab),4,B Potter,MWF,1000,1050,W,1330,1630,Snowden Hall 119,20,16,Available: 4,Lab Science; Prerequisite: GEOL 121; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45642,GEOL,432,A,Senior Field Project,4,S Shaver/K Kuers,MWF,800,850,F,1330,1630,Snowden Hall 202,25,26,Closed,Open only to seniors pursuing majors in forestry, geology, natural resources, or natural resources and the environment; Consent of professor required for late entry; Senior Field Project Fee: $50,
+Economics,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45747,ECON,101,A,Introduction to Economics,4,K Theyson,MWF,900,950,,NA,NA,Walsh-Ellett Hall 206,20,20,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45748,ECON,101,B,Introduction to Economics,4,B Ford,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 302,20,22,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45749,ECON,101,C,Introduction to Economics,4,B Ford,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 302,20,21,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45750,ECON,101,D,Introduction to Economics,4,R Gottfried,TR,930,1045,,NA,NA,Walsh-Ellett Hall 306,20,22,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45751,ECON,101,E,Introduction to Economics,4,M St-Pierre,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 310,20,22,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45752,ECON,301,A,Money and Banking,4,R Ott,TR,800,915,,NA,NA,Walsh-Ellett Hall 308,20,27,Closed,Prerequisite: ECON 101; Consent of professor required for late entry,
+45753,ECON,305,A,Microeconomic Theory,4,R Gottfried,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 306,20,19,Available: 1,Prerequisite: ECON 101; Consent of professor required for late entry,
+45754,ECON,306,A,Macroeconomic Theory,4,Y Mohiuddin,TR,930,1045,,NA,NA,Walsh-Ellett Hall 308,20,18,Available: 2,Prerequisite: ECON 101; Consent of professor required for late entry,
+45755,ECON,306,B,Macroeconomic Theory,4,Y Mohiuddin,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 308,20,22,Closed,Prerequisite: ECON 101; Consent of professor required for late entry,
+45756,ECON,309,A,Women in the Economy,4,Y Mohiuddin,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 308,20,22,Closed,Community Engagement; Prerequisite: ECON 101; Consent of professor required for late entry,
+45757,ECON,311,A,Health and Development,4,K Theyson,MW,1430,1545,,NA,NA,Walsh-Ellett Hall 206,20,25,Closed,Prerequisite: ECON 101; Consent of professor required for late entry,
+45759,ECON,335,A,Environmental Economics,4,B Ford,MWF,1200,1250,,NA,NA,Walsh-Ellett Hall 302,20,22,Closed,Prerequisite: ECON 101; Consent of professor required for late entry,
+45758,ECON,341,A,Game Theory,4,M St-Pierre,TR,930,1045,,NA,NA,Walsh-Ellett Hall 310,20,26,Closed,Prerequisites: ECON 101 and MATH 101; Consent of professor required for late entry,
+45760,ECON,344,A,International Finance,4,K Theyson,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 206,20,24,Closed,Prerequisite: ECON 101; Consent of professor required for late entry,
+45761,ECON,360,A,Finance I,4,R Ott,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 308,20,28,Closed,Prerequisites: ECON 101 and STAT 204; Consent of professor required for late entry,
+45762,ECON,362,A,Finance III,4,R Ott,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 306,20,13,Available: 7,Prerequisite: ECON 361; Consent of professor required for late entry,
+45763,ECON,410,A,Research Seminar,4,M St-Pierre,MW,1300,1415,,NA,NA,Walsh-Ellett Hall 310,20,18,Available: 2,Writing Intensive; Open only to seniors pursuing majors in economics; Prerequisite: ECON 333; Consent of professor required for late entry,
+45764,ECON,411,A,Policy Seminar,4,S Ford,MW,1300,1415,,NA,NA,Carnegie Hall 201,20,20,Closed,Writing Intensive; Open only to seniors pursuing majors in economics; Prerequisites: (ECON 201 or STAT 204) and ECON 305 and ECON 306; Consent of professor required for late entry,
+Education,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45512,EDUC,161,A,Introduction to Educational Psychology,4,M Wallace,TR,930,1045,,NA,NA,Carnegie Hall 013,18,18,Closed,Community Engagement; Reserved Seats: juniors-6 (4 available), sophomores-6 (none available), returning freshmen-6 (none available); Instructor permission required,
+45513,EDUC,161,C1,Introduction to Educational Psychology,0,M Wallace,M,1230,1500,,NA,NA,TBA,10,7,Available: 3,Community Engagement,
+45514,EDUC,161,C2,Introduction to Educational Psychology,0,M Wallace,T,1230,1500,,NA,NA,TBA,10,5,Available: 5,Community Engagement,
+45515,EDUC,161,C3,Introduction to Educational Psychology,0,M Wallace,W,1230,1500,,NA,NA,TBA,10,3,Available: 7,Community Engagement,
+45516,EDUC,161,C4,Introduction to Educational Psychology,0,M Wallace,R,1230,1500,,NA,NA,TBA,10,3,Available: 7,Community Engagement,
+45517,EDUC,201,A,Instructional Technology: Digital Literacy and Learning,4,L Lankewicz,R,1300,1600,,NA,NA,Woods Laboratories 136,15,8,Available: 7,Community Engagement; Consent of professor required for late entry,
+45518,EDUC,201,C1,Instructional Technology: Digital Literacy and Learning,0,L Lankewicz,M,1230,1500,,NA,NA,TBA,10,1,Available: 9,Community Engagement,
+45519,EDUC,201,C2,Instructional Technology: Digital Literacy and Learning,0,L Lankewicz,T,1230,1500,,NA,NA,TBA,10,2,Available: 8,Community Engagement,
+45520,EDUC,201,C3,Instructional Technology: Digital Literacy and Learning,0,L Lankewicz,W,1230,1500,,NA,NA,TBA,10,3,Available: 7,Community Engagement,
+45521,EDUC,201,C4,Instructional Technology: Digital Literacy and Learning,0,L Lankewicz,F,1000,1230,,NA,NA,TBA,10,1,Available: 9,Community Engagement,
+45522,EDUC,205,A,Introduction to Environmental Education,4,V Vollbrecht,M,1300,1600,,NA,NA,Carnegie Hall 013,18,17,Available: 1,Community Engagement; Consent of professor required for late entry,
+45523,EDUC,205,C1,Introduction to Environmental Education,0,V Vollbrecht,T,1430,1700,,NA,NA,TBA,10,10,Closed,Community Engagement,
+45525,EDUC,205,C2,Introduction to Environmental Education,0,V Vollbrecht,W,1430,1700,,NA,NA,TBA,10,4,Available: 6,Community Engagement,
+45526,EDUC,205,C3,Introduction to Environmental Education,0,V Vollbrecht,R,1430,1700,,NA,NA,TBA,10,3,Available: 7,Community Engagement,
+45527,EDUC,255,A,Introduction to Special Education,4,T Wiseman,R,1600,1900,,NA,NA,Carnegie Hall 013,18,10,Available: 8,Community Engagement; Prerequisite: EDUC 161; Consent of professor required for late entry,
+45528,EDUC,255,C1,Introduction to Special Education,0,T Wiseman,M,800,1030,,NA,NA,TBA,10,2,Available: 8,Community Engagement,
+45529,EDUC,255,C2,Introduction to Special Education,0,T Wiseman,T,1230,1500,,NA,NA,TBA,10,2,Available: 8,Community Engagement,
+45530,EDUC,255,C3,Introduction to Special Education,0,T Wiseman,W,800,1030,,NA,NA,TBA,10,1,Available: 9,Community Engagement,
+45531,EDUC,255,C4,Introduction to Special Education,0,T Wiseman,R,1230,1500,,NA,NA,TBA,10,5,Available: 5,Community Engagement,
+45532,EDUC,341,A,Methods and Materials of Teaching,4,P Hill,W,1600,1900,,NA,NA,Carnegie Hall 013,12,13,Closed,Community Engagement; Prerequisites: One course in education; Consent of professor required for late entry,
+45533,EDUC,341,C1,Methods and Materials of Teaching,0,P Hill,M,800,1030,,NA,NA,TBA,10,4,Available: 6,Community Engagement,
+45534,EDUC,341,C2,Methods and Materials of Teaching,0,P Hill,M,1230,1500,,NA,NA,TBA,10,5,Available: 5,Community Engagement,
+45535,EDUC,341,C3,Methods and Materials of Teaching,0,P Hill,T,1230,1500,,NA,NA,TBA,10,0,Available: 10,Community Engagement,
+45536,EDUC,341,C4,Methods and Materials of Teaching,0,P Hill,R,1230,1500,,NA,NA,TBA,10,4,Available: 6,Community Engagement,
+45537,EDUC,350,A,Issues and Innovations in Education,4,M Wallace,T,1330,1630,,NA,NA,Carnegie Hall 013,15,12,Available: 3,Community Engagement; Prerequisites: One course in education; Consent of professor required for late entry,
+45538,EDUC,350,C1,Issues and Innovations in Education,0,M Wallace,M,1430,1700,,NA,NA,TBA,6,6,Closed,Community Engagement,
+45539,EDUC,350,C2,Issues and Innovations in Education,0,M Wallace,W,1430,1700,,NA,NA,TBA,6,2,Available: 4,Community Engagement,
+45540,EDUC,350,C3,Issues and Innovations in Education,0,M Wallace,R,1430,1700,,NA,NA,TBA,6,3,Available: 3,Community Engagement,
+45541,EDUC,350,C4,Issues and Innovations in Education,0,M Wallace,F,1430,1700,,NA,NA,TBA,6,1,Available: 5,Community Engagement,
+English,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45687,ENGL,101,A,Literature and Composition,4,D Richardson,MWF,900,950,,NA,NA,Gailor Hall 110,15,15,Closed,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45688,ENGL,101,B,Literature and Composition,4,J Michael,MWF,900,950,,NA,NA,Gailor Hall 114,15,10,Available: 5,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45689,ENGL,101,C,Literature and Composition,4,J Lewin,MWF,900,950,,NA,NA,Gailor Hall 202,15,16,Closed,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45690,ENGL,101,D,Literature and Composition,4,K Malone,MWF,1000,1050,,NA,NA,Gailor Hall 110,15,15,Closed,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45691,ENGL,101,E,Literature and Composition,4,V Craighill,MWF,1000,1050,,NA,NA,Gailor Hall 114,15,15,Closed,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45692,ENGL,101,F,Literature and Composition,4,P Macfie,MWF,1100,1150,,NA,NA,Gailor Hall 110,15,12,Available: 3,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45693,ENGL,101,G,Literature and Composition,4,S Martin,TR,800,915,,NA,NA,Gailor Hall 202,15,15,Closed,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45695,ENGL,101,J,Literature and Composition,4,N Stogdill,TR,930,1045,,NA,NA,Gailor Hall 110,15,15,Closed,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45696,ENGL,101,K,Literature and Composition,4,E Grammer,TR,1100,1215,,NA,NA,Gailor Hall 110,15,13,Available: 2,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45697,ENGL,101,L,Literature and Composition,4,S Martin,TR,1100,1215,,NA,NA,Gailor Hall 202,15,14,Available: 1,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45699,ENGL,101,N,Literature and Composition,4,N Stogdill,TR,1330,1445,,NA,NA,Gailor Hall 224,15,15,Closed,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,GFWI: Foundational Writing Intensive
+45700,ENGL,200,A,Representative Masterpieces,4,J Lewin,MWF,1100,1150,,NA,NA,Gailor Hall 202,15,18,Closed,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45889,ENGL,200,C,Representative Masterpieces,4,T Carlson,TR,1400,1515,,NA,NA,duPont Library 215,15,15,Closed,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45863,ENGL,203,A,Roots of Western Literature,4,B Engel,TR,930,1045,,NA,NA,Gailor Hall 202,15,15,Closed,Writing Intensive; Prerequisites: ENGL 101 or (HUMN 101 and HUMN 102); Waitlist - contact instructor,
+45702,ENGL,210,A,Studies in Poetry,4,J Michael,T,1400,1630,,NA,NA,Gailor Hall 130,15,15,Closed,Writing Intensive; Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45703,ENGL,211,A,Studies in Fiction,4,K Wilson,TR,1100,1215,,NA,NA,Gailor Hall 114,20,22,Closed,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45828,ENGL,301,A,Anglo-Saxon Language and Literature,4,A Bruce,TR,930,1045,,NA,NA,Gailor Hall 102,15,6,Available: 9,Consent of professor required for late entry,
+45704,ENGL,330,A,The Life and Literature of Tennessee Williams,4,V Craighill,MW,1300,1415,,NA,NA,Gailor Hall 130,25,24,Available: 1,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45705,ENGL,351,A,Non-Chaucerian Medieval Literature,4,B Engel,W,1400,1630,,NA,NA,Gailor Hall 114,20,14,Available: 6,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45706,ENGL,352,A,Chaucer,4,B Engel,TR,1500,1615,,NA,NA,Gailor Hall 132,20,14,Available: 6,Prerequisites: ENGL 101 or HUMN 101; Waitlist - contact instructor,
+45707,ENGL,358,A,Shakespeare II,4,P Macfie,MWF,900,950,,NA,NA,Gailor Hall 130,20,12,Available: 8,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45708,ENGL,358,B,Shakespeare II,4,D Richardson,MWF,1100,1150,,NA,NA,Gailor Hall 130,20,20,Closed,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45709,ENGL,358,C,Shakespeare II,4,K Malone,TR,1100,1215,,NA,NA,Gailor Hall 130,20,19,Available: 1,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45710,ENGL,360,A,Renaissance Literature II,4,P Macfie,MWF,1200,1250,,NA,NA,Gailor Hall 202,15,12,Available: 3,Writing Intensive; Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45711,ENGL,362,A,Milton,4,N Stogdill,MWF,1300,1350,,NA,NA,Gailor Hall 110,20,19,Available: 1,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45712,ENGL,365,A,Restoration and Earlier 18th Century,4,D Richardson,TR,1330,1445,,NA,NA,Gailor Hall 128,25,24,Available: 1,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45713,ENGL,370,A,British Romanticism: the Early 19th Century,4,J Michael,TR,930,1045,,NA,NA,Gailor Hall 130,25,16,Available: 9,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45714,ENGL,374,A,Origins and Development of the English Novel II,4,J Lewin,TR,930,1045,,NA,NA,Gailor Hall 114,25,7,Available: 18,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45715,ENGL,378,A,American Literature II,4,E Grammer,TR,1330,1445,,NA,NA,Gailor Hall 110,20,22,Closed,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45716,ENGL,383,A,Contemporary British Fiction,4,S Martin,M,1300,1530,,NA,NA,Gailor Hall 102,20,11,Available: 9,Writing Intensive; Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45888,ENGL,392,A,Modern American Fiction,4,T Carlson,TR,1100,1215,,NA,NA,duPont Library 215,15,13,Available: 2,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45718,ENGL,397,A,Contemporary American Fiction,4,T Carlson,W,1400,1630,,NA,NA,duPont Library 215,15,14,Available: 1,Writing Intensive; Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45719,ENGL,398,A,Contemporary American Poetry,4,W Prunty,M,1400,1630,,NA,NA,Gailor Hall 202,15,15,Closed,Writing Intensive; Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45858,WRIT,205,A,Creative Writing: Poetry,4,W Prunty,T,1400,1630,,NA,NA,Gailor Hall 202,15,14,Available: 1,Writing Intensive; Consent of professor required for late entry,
+45829,WRIT,206,A,Creative Writing: Fiction,4,K Wilson,R,1400,1630,,NA,NA,Gailor Hall 202,15,14,Available: 1,Writing Intensive; Consent of professor required for late entry,
+45831,WRIT,307,A,Advanced Creative Writing: Playwriting,4,E Wilder,W,1400,1630,,NA,NA,Gailor Hall 202,15,7,Available: 8,Writing Intensive; Prerequisites: WRIT 207 or WRIT 411; Consent of professor required for late entry,
+Environmental Studies,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45921,ENST,140,A,Readings in Island Ecology,2,K Smith/K Zigler,F,1300,1500,F,1300,1500,Snowden Hall 202,12,11,Available: 1,Instructor permission required,
+45481,ENST,200,A,Introduction to Environmental Studies,4,D Carter,TR,930,1045,,NA,NA,Gailor Hall 011,20,23,Closed,Consent of professor required for late entry,
+45482,ENST,200,B,Introduction to Environmental Studies,4,K Smith,TR,930,1045,,NA,NA,Snowden Hall 102,20,25,Closed,Consent of professor required for late entry,
+45483,ENST,200,C,Introduction to Environmental Studies,4,J Willis,TR,930,1045,,NA,NA,Spencer Hall 262,20,22,Closed,Consent of professor required for late entry,
+45487,ENST,217,A,Fundamentals of GIS,4,C Van de Ven,MWF,900,950,M,1300,1600,Spencer Hall 172,12,12,Closed,Consent of professor required for late entry,
+45936,ENST,285,A,The Development of Aldo Leopold's Land Ethic,4,D McGranahan,TR,930,1045,,NA,NA,Snowden Hall 211,18,18,Closed,Not open to freshmen; Consent of professor required for late entry,
+45635,ENST,310,A,Comparative Watershed Studies,2,M Knoll,W,1200,1315,,NA,NA,Snowden Hall 215,20,20,Closed,Prerequisite: GEOL 121; Consent of professor required for late entry,
+45874,ENST,317,A,Advanced Applications of GIS,4,C Van de Ven,TR,930,1045,R,1330,1630,Spencer Hall 172,12,10,Available: 2,Prerequisite: ENST 217; Consent of professor required for late entry,
+45486,ENST,336,A,Environmental Land-Use Policy,4,D Carter,MW,1300,1415,,NA,NA,Spencer Hall 164,18,21,Closed,Consent of professor required for late entry,
+45485,ENST,400,A,Seminar in Environmental Studies,4,D Carter,T,1330,1630,,NA,NA,Spencer Hall 164,20,9,Available: 11,Open only to seniors; Consent of professor required for late entry,
+45966,ESCI,430,A,Watershed Science Capstone,4,M Knoll,TBA,NA,NA,,NA,NA,TBA,10,4,Available: 6,Instructor permission required,
+Film Studies,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45419,AMST,333,A,Junior Seminar,4,J Berebitsky,M,1400,1630,,NA,NA,Walsh-Ellett Hall 312,15,7,Available: 8,Consent of professor required for late entry,
+45675,ART,103,A,Introduction to Lens and Time-based Media,4,P Malde,W,1300,1630,,NA,NA,Carnegie Hall 311,14,14,Closed,Instructor permission required; Studio Art Fee-Malde: $350,
+45676,ART,104,A,Introduction to Three- and Four-Dimensional Media,4,C Lewis,TR,930,1045,F,1300,1350,Carnegie Hall 311,15,9,Available: 6,Instructor permission required; Studio Art Fee-Pond: $150,
+45421,ARTH,107,A,The Films of Alfred Hitchcock,4,L Richardson,TR,1100,1215,,NA,NA,Gailor Hall 011,20,20,Closed,Instructor permission required,
+45671,ARTH,212,A,American Animation, 1910-1960,4,G Clark,TR,800,915,,NA,NA,Carnegie Hall 302,20,21,Closed,Reserved Seats: returning freshmen-8 (1 available); Consent of professor required for late entry,G2: Understanding the Arts
+45730,FREN,415,A,The History of French Cinema,4,A Glacet,W,1400,1630,,NA,NA,Gailor Hall 112,15,18,Closed,Prerequisites: FREN 314 or placement; Consent of professor required for late entry,
+45454,GRMN,353,A,German Film,4,R Zachau,TR,930,1045,,NA,NA,Gailor Hall 212,25,17,Available: 8,Consent of professor required for late entry,
+French,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45720,FREN,104,A,Elementary French II,4,G Poe,MWF,800,850,T,1230,1320,Gailor Hall 112,20,11,Available: 9,Prerequisites: FREN 103 or placement; Consent of professor required for late entry,
+45721,FREN,104,B,Elementary French II,4,G Poe,MWF,900,950,T,1330,1420,Gailor Hall 112,20,18,Available: 2,Prerequisites: FREN 103 or placement; Consent of professor required for late entry,
+45722,FREN,203,A,Intermediate French,4,D Rung,MWF,1000,1050,T,1230,1320,Gailor Hall 112,20,18,Available: 2,Prerequisites: FREN 104 or placement; Consent of professor required for late entry,
+45723,FREN,203,B,Intermediate French,4,D Rung,MWF,1100,1150,T,1330,1420,Gailor Hall 112,20,17,Available: 3,Prerequisites: FREN 104 or placement; Consent of professor required for late entry,
+45724,FREN,300,A,Advanced French,4,L Ramsey,MWF,900,950,,NA,NA,Gailor Hall 128,20,11,Available: 9,Prerequisites: FREN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45725,FREN,300,B,Advanced French,4,L Ramsey,MWF,1100,1150,,NA,NA,Gailor Hall 128,20,20,Closed,Prerequisites: FREN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45726,FREN,313,A,Contemporary Language and Usage,4,L Ramsey,MW,1300,1415,,NA,NA,Gailor Hall 128,15,9,Available: 6,Writing Intensive; Prerequisites: FREN 300 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45727,FREN,314,A,Introduction to Literature of the French-Speaking World,4,A Glacet,MW,1100,1215,,NA,NA,Gailor Hall 103,15,16,Closed,Prerequisites: FREN 300, FREN 301, or placement; Consent of professor required for late entry,G1: Reading Closely,G6: Comprehending Cross-Culturally (Language)
+45728,FREN,403,A,The Seventeenth Century,4,D Rung,TR,930,1045,,NA,NA,Gailor Hall 112,15,12,Available: 3,Prerequisites: FREN 314 or placement; Consent of professor required for late entry,
+45729,FREN,410,A,French Senior Seminar,4,A Glacet,M,1400,1630,,NA,NA,Gailor Hall 103,15,3,Available: 12,Writing Intensive; Open only to seniors pursuing majors in French; Consent of professor required for late entry,
+45730,FREN,415,A,The History of French Cinema,4,A Glacet,W,1400,1630,,NA,NA,Gailor Hall 112,15,18,Closed,Prerequisites: FREN 314 or placement; Consent of professor required for late entry,
+45731,FREN,420,A,French Studies Senior Seminar,4,G Poe,M,1400,1630,,NA,NA,Gailor Hall 112,15,5,Available: 10,Writing Intensive; Open only to seniors pursuing majors in French studies; Consent of professor required for late entry,
+German,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45450,GRMN,104,A,Elementary German II,4,J Davidheiser,MWF,1000,1050,R,1230,1320,Gailor Hall 212,17,16,Available: 1,Prerequisites: GRMN 103 or placement; Consent of professor required for late entry,
+45451,GRMN,104,B,Elementary German II,4,J Davidheiser,MWF,1100,1150,R,1230,1320,Gailor Hall 212,17,14,Available: 3,Prerequisites: GRMN 103 or placement; Consent of professor required for late entry,
+45452,GRMN,309,A,Kastner and Fallada,4,R Zachau,MWF,1000,1050,,NA,NA,Gailor Hall 225,16,20,Closed,Prerequisites: GRMN 203 or higher or placement; Consent of professor required for late entry,
+45453,GRMN,310,A,The Fairy Tale in German Literature and Culture: From the Brothers Grimm to Kafka and Hesse,4,J Davidheiser,TR,1100,1215,,NA,NA,Gailor Hall 103,20,18,Available: 2,Prerequisites: GRMN 203 or higher or placement; Consent of professor required for late entry,
+45454,GRMN,353,A,German Film,4,R Zachau,TR,930,1045,,NA,NA,Gailor Hall 212,25,17,Available: 8,Consent of professor required for late entry,
+45455,GRMN,422,A,German Drama,4,R Zachau,MW,1430,1545,,NA,NA,Gailor Hall 019,12,7,Available: 5,Prerequisites: One course numbered GRMN 301-349 or placement; Consent of professor required for late entry,
+History,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45373,HIST,100,A,Topics in Western Civilization: Civil Disobedience from Ancient Greece to Modern Africa,4,H Roberson,TR,800,915,,NA,NA,Walsh-Ellett Hall 206,21,19,Available: 2,Consent of professor required for late entry,G4: Exploring Past and Present
+45766,HIST,100,B,Topics in Western Civilization: U.S. Environmental History,4,T Spence,MWF,900,950,,NA,NA,Walsh-Ellett Hall 302,21,20,Available: 1,Consent of professor required for late entry,G4: Exploring Past and Present
+45767,HIST,100,C,Topics in Western Civilization: Modern Times,4,J Willis,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 202,21,20,Available: 1,Consent of professor required for late entry,G4: Exploring Past and Present
+45768,HIST,100,D,Topics in Western Civilization: Imperialism, Colonialism and Decolonization,4,L Dallasheh,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 202,21,4,Available: 17,Consent of professor required for late entry,G4: Exploring Past and Present
+45378,HIST,100,E,Topics in Western Civilization: Religion and Power in the Pre-Modern West,4,S Ridyard,TR,930,1045,,NA,NA,Walsh-Ellett Hall 302,21,13,Available: 8,Consent of professor required for late entry,G4: Exploring Past and Present
+45372,HIST,100,G,Topics in Western Civilization: Age of Discovery,4,C McEvoy,TR,1100,1215,,NA,NA,duPont Library G10,21,22,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45380,HIST,100,H,Topics in Western Civilization: Revolution and Evolution: Europe since the Eighteenth Century,4,C Perry,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 306,21,21,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45379,HIST,100,J,Topics in Western Civilization: Children and Childhood in History,4,K Whitmer,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 308,21,19,Available: 2,Consent of professor required for late entry,G4: Exploring Past and Present
+45769,HIST,202,A,History of the United States II,4,H Roberson,TR,930,1045,,NA,NA,Walsh-Ellett Hall 202,25,28,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45770,HIST,206,A,History of England II,4,C Perry,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 306,25,27,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45771,HIST,209,A,Early Modern Europe,4,K Whitmer,MWF,900,950,,NA,NA,Walsh-Ellett Hall 304,25,24,Available: 1,Consent of professor required for late entry,
+45785,HIST,224,A,Latin American History Since 1826,4,C McEvoy,TR,1330,1445,,NA,NA,duPont Library G10,25,28,Closed,Consent of professor required for late entry,
+45772,HIST,297,A,History of the Middle East II,4,L Dallasheh,MWF,900,950,,NA,NA,Walsh-Ellett Hall 306,25,20,Available: 5,Consent of professor required for late entry,G4: Exploring Past and Present,G6AR: Comprehending Cross-Culturally (Arabic Culture)
+45873,HIST,302,A,Ancient Rome,4,S Ridyard,W,1400,1630,,NA,NA,Gailor Hall 103,15,15,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45938,HIST,319,A,The Arab-Israeli Conflict,4,L Dallasheh,T,1330,1600,,NA,NA,Gailor Hall 102,15,12,Available: 3,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45774,HIST,321,A,English Identities,4,C Perry,R,1400,1630,,NA,NA,Walsh-Ellett Hall 204,15,12,Available: 3,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45855,HIST,322,A,Southern Lives,4,J Willis,MW,1300,1415,,NA,NA,Walsh-Ellett Hall 202,15,16,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Waitlist - contact instructor,
+45776,HIST,333,A,Topics in American History: American West, 1500-present,4,T Spence,MWF,1300,1350,,NA,NA,Walsh-Ellett Hall 304,25,9,Available: 16,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45775,HIST,346,A,History of Socialism,4,H Goldberg,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 302,10,14,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45867,HIST,347,A,The American Civil Rights Movement,4,H Roberson,W,1430,1700,,NA,NA,Walsh-Ellett Hall 310,15,14,Available: 1,Community Engagement; Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45777,HIST,352,A,Junior Tutorial,4,R Levine,M,1400,1630,,NA,NA,Gailor Hall 114,8,9,Closed,Writing Intensive; Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45981,HIST,352,B,Junior Tutorial,4,T Spence,M,1400,1630,,NA,NA,Guerry Hall 204,8,8,Closed,Writing Intensive; Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45786,HIST,358,A,Women in Latin America,4,C McEvoy,W,1400,1630,,NA,NA,duPont Library G10,15,17,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45872,HIST,368,A,Saints and Society in Late Antiquity and the Middle Ages,4,S Ridyard,TR,1330,1445,,NA,NA,Gailor Hall 019,15,7,Available: 8,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45778,HIST,380,A,Crimes and Scandals in the Historical Imagination, 18th,4,A Mansker,T,1400,1630,,NA,NA,Walsh-Ellett Hall 204,15,15,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45779,HIST,380,B,Crimes and Scandals in the Historical Imagination, 18th,4,A Mansker,M,1400,1630,,NA,NA,Walsh-Ellett Hall 204,15,15,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45780,HIST,386,A,African Environmental History,4,R Levine,W,1400,1630,,NA,NA,Walsh-Ellett Hall 312,15,7,Available: 8,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45782,HIST,388,A,The United States and Vietnam since 1945,4,H Goldberg,TR,1330,1445,M,1900,1950,Walsh-Ellett Hall 302,25,20,Available: 5,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45781,HIST,389,A,European Cultural and Intellectual History, 1750-1890,4,A Mansker,TR,930,1045,,NA,NA,Walsh-Ellett Hall 304,24,14,Available: 10,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45783,HIST,390,A,Topics in European History: Monsters, Marvels, and Museums,4,K Whitmer,T,1400,1630,,NA,NA,Guerry Hall 204,15,12,Available: 3,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45784,HIST,397,A,The Origins and Conduct of World War II,4,H Goldberg,TR,800,915,,NA,NA,Walsh-Ellett Hall 302,25,28,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Instructor permission required,
+45983,HIST,440,A,Honors Seminar,4,J Willis,TBA,NA,NA,,NA,NA,TBA,15,6,Available: 9,Writing Intensive; Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Instructor permission required,
+45882,HIST,493,A,The Civil War and American Historical Memory,4,J McCardell,T,1900,2300,,NA,NA,Walsh-Ellett Hall 204,15,18,Closed,Open only to seniors; Consent of professor required for late entry,
+Humanities,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45833,HUMN,102,A,Tradition and Criticism in Western Culture--The Medieval World,4,D Huber,MWF,1000,1050,,NA,NA,Gailor Hall 011,15,14,Available: 1,Consent of professor required for late entry,GFWI: Foundational Writing Intensive
+45834,HUMN,102,B,Tradition and Criticism in Western Culture--The Medieval World,4,S MacLaren,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 204,15,12,Available: 3,Dept chair permission required,GFWI: Foundational Writing Intensive
+45835,HUMN,102,C,Tradition and Criticism in Western Culture--The Medieval World,4,C McDonough,MWF,1000,1050,,NA,NA,Gailor Hall 103,15,15,Closed,Dept chair permission required,GFWI: Foundational Writing Intensive
+45836,HUMN,102,D,Tradition and Criticism in Western Culture--The Medieval World,4,S Raulston,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 310,15,16,Closed,Dept chair permission required,GFWI: Foundational Writing Intensive
+45837,HUMN,202,A,Tradition and Criticism in Western Culture-The Modern World,4,A Moser,MWF,900,950,,NA,NA,Carnegie Hall 201,12,11,Available: 1,Consent of professor required for late entry,
+45838,HUMN,202,B,Tradition and Criticism in Western Culture-The Modern World,4,R Levine,MWF,900,950,,NA,NA,Walsh-Ellett Hall 312,12,12,Closed,Dept chair permission required,
+45839,HUMN,202,C,Tradition and Criticism in Western Culture-The Modern World,4,E Skomp,MWF,900,950,,NA,NA,Gailor Hall 019,12,11,Available: 1,Dept chair permission required,
+45840,HUMN,202,D,Tradition and Criticism in Western Culture-The Modern World,4,J Thompson,MWF,900,950,,NA,NA,Carnegie Hall 304,12,10,Available: 2,Dept chair permission required,
+International & Global Studies,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45852,ANTH,303,A,The Anthropology of Europe,4,C Ray,TR,1500,1615,,NA,NA,Walsh-Ellett Hall 210,19,19,Closed,Consent of professor required for late entry,
+45549,ANTH,305,A,Cultures of Latin America,4,D Murdock,MWF,1000,1050,,NA,NA,Spencer Hall 262,16,14,Available: 2,Prerequisite: ANTH 104; Waitlist - contact instructor,
+45418,ASIA,204,A,Themes in New Chinese Cinema,4,W Yang,MW,1300,1415,,NA,NA,Carnegie Hall 306,20,17,Available: 3,Consent of professor required for late entry,G6CH: Comprehending Cross-Culturally (Chinese Culture)
+45756,ECON,309,A,Women in the Economy,4,Y Mohiuddin,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 308,20,22,Closed,Community Engagement; Prerequisite: ECON 101; Consent of professor required for late entry,
+45757,ECON,311,A,Health and Development,4,K Theyson,MW,1430,1545,,NA,NA,Walsh-Ellett Hall 206,20,25,Closed,Prerequisite: ECON 101; Consent of professor required for late entry,
+45759,ECON,335,A,Environmental Economics,4,B Ford,MWF,1200,1250,,NA,NA,Walsh-Ellett Hall 302,20,22,Closed,Prerequisite: ECON 101; Consent of professor required for late entry,
+45760,ECON,344,A,International Finance,4,K Theyson,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 206,20,24,Closed,Prerequisite: ECON 101; Consent of professor required for late entry,
+45727,FREN,314,A,Introduction to Literature of the French-Speaking World,4,A Glacet,MW,1100,1215,,NA,NA,Gailor Hall 103,15,16,Closed,Prerequisites: FREN 300, FREN 301, or placement; Consent of professor required for late entry,G1: Reading Closely,G6: Comprehending Cross-Culturally (Language)
+45730,FREN,415,A,The History of French Cinema,4,A Glacet,W,1400,1630,,NA,NA,Gailor Hall 112,15,18,Closed,Prerequisites: FREN 314 or placement; Consent of professor required for late entry,
+45454,GRMN,353,A,German Film,4,R Zachau,TR,930,1045,,NA,NA,Gailor Hall 212,25,17,Available: 8,Consent of professor required for late entry,
+45770,HIST,206,A,History of England II,4,C Perry,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 306,25,27,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45771,HIST,209,A,Early Modern Europe,4,K Whitmer,MWF,900,950,,NA,NA,Walsh-Ellett Hall 304,25,24,Available: 1,Consent of professor required for late entry,
+45785,HIST,224,A,Latin American History Since 1826,4,C McEvoy,TR,1330,1445,,NA,NA,duPont Library G10,25,28,Closed,Consent of professor required for late entry,
+45772,HIST,297,A,History of the Middle East II,4,L Dallasheh,MWF,900,950,,NA,NA,Walsh-Ellett Hall 306,25,20,Available: 5,Consent of professor required for late entry,G4: Exploring Past and Present,G6AR: Comprehending Cross-Culturally (Arabic Culture)
+45938,HIST,319,A,The Arab-Israeli Conflict,4,L Dallasheh,T,1330,1600,,NA,NA,Gailor Hall 102,15,12,Available: 3,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45775,HIST,346,A,History of Socialism,4,H Goldberg,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 302,10,14,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45786,HIST,358,A,Women in Latin America,4,C McEvoy,W,1400,1630,,NA,NA,duPont Library G10,15,17,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45780,HIST,386,A,African Environmental History,4,R Levine,W,1400,1630,,NA,NA,Walsh-Ellett Hall 312,15,7,Available: 8,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45780,HIST,386,A,African Environmental History,4,R Levine,W,1400,1630,,NA,NA,Walsh-Ellett Hall 312,15,7,Available: 8,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45782,HIST,388,A,The United States and Vietnam since 1945,4,H Goldberg,TR,1330,1445,M,1900,1950,Walsh-Ellett Hall 302,25,20,Available: 5,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45781,HIST,389,A,European Cultural and Intellectual History, 1750-1890,4,A Mansker,TR,930,1045,,NA,NA,Walsh-Ellett Hall 304,24,14,Available: 10,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45784,HIST,397,A,The Origins and Conduct of World War II,4,H Goldberg,TR,800,915,,NA,NA,Walsh-Ellett Hall 302,25,28,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Instructor permission required,
+45603,INGS,200,A,Introduction to International and Global Studies,4,S Wilson,TR,930,1045,,NA,NA,Walsh-Ellett Hall 206,25,18,Available: 7,Open only to sophomores; Consent of professor required for late entry,
+45604,INGS,200,B,Introduction to International and Global Studies,4,S Wilson,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 206,25,28,Closed,Open only to sophomores; Consent of professor required for late entry,
+45606,INGS,302,A,Global Cities,4,R Kalyan,TR,1330,1445,,NA,NA,Gailor Hall 212,16,14,Available: 2,Consent of professor required for late entry,
+45607,INGS,302,B,Global Cities,4,R Kalyan,TR,1500,1615,,NA,NA,Gailor Hall 212,16,11,Available: 5,Consent of professor required for late entry,
+45939,INGS,304,A,Politics and Society in Modern India,4,R Kalyan,TR,930,1045,,NA,NA,Gailor Hall 103,16,9,Available: 7,Writing Intensive; Consent of professor required for late entry,
+45583,POLS,318,A,Comparative Politics: South America and Mexico,4,M Dragojevic,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 304,25,24,Available: 1,Consent of professor required for late entry,
+45583,POLS,318,A,Comparative Politics: South America and Mexico,4,M Dragojevic,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 304,25,24,Available: 1,Consent of professor required for late entry,
+45862,POLS,329,A,Comparative African Politics,4,A Patterson,TR,930,1045,,NA,NA,Woods Laboratories 121,25,17,Available: 8,Not open to freshmen; Consent of professor required for late entry,
+45862,POLS,329,A,Comparative African Politics,4,A Patterson,TR,930,1045,,NA,NA,Woods Laboratories 121,25,17,Available: 8,Not open to freshmen; Consent of professor required for late entry,
+45861,POLS,363,A,Comparative Democratization,4,A Patterson,MW,1300,1415,,NA,NA,Gailor Hall 019,15,9,Available: 6,Writing Intensive; Not open to freshmen; Consent of professor required for late entry,
+45870,POLS,370,A,International Law in International Relations,4,T Ehresman,MWF,900,950,,NA,NA,Woods Laboratories 113,25,15,Available: 10,Consent of professor required for late entry,
+45871,POLS,382,A,International Environmental Policy,4,T Ehresman,MWF,1100,1150,,NA,NA,Woods Laboratories 113,25,26,Closed,Consent of professor required for late entry,
+45871,POLS,382,A,International Environmental Policy,4,T Ehresman,MWF,1100,1150,,NA,NA,Woods Laboratories 113,25,26,Closed,Consent of professor required for late entry,
+45586,POLS,430,A,Research Seminar: Topics in International Security,4,R Manacsa,W,1400,1630,,NA,NA,Spencer Hall 262,15,14,Available: 1,Writing Intensive; Open only to juniors and seniors; Consent of professor required for late entry,
+45661,RELG,162,A,Introduction to Asian Religions,4,D Mote,MWF,900,950,,NA,NA,Walsh-Ellett Hall 210,18,18,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45662,RELG,162,B,Introduction to Asian Religions,4,D Mote,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 210,18,20,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45664,RELG,220,A,Holocaust, Religion, Morality,4,T Parker,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 204,18,18,Closed,Consent of professor required for late entry,
+45667,RELG,344,A,Religion and Violence,4,T Parker,W,1300,1600,,NA,NA,Walsh-Ellett Hall 204,15,9,Available: 6,Consent of professor required for late entry,
+45469,SPAN,302,A,Introduction to Spanish Literature II,4,T Spaccarelli,MWF,800,850,,NA,NA,Gailor Hall 233,18,15,Available: 3,Prerequisites: One 300-level course in Spanish or placement; Consent of professor required for late entry,G1: Reading Closely
+45470,SPAN,304,A,Introduction to Latin American Literature II,4,M Chinchilla,MWF,900,950,,NA,NA,Gailor Hall 233,18,18,Closed,Prerequisites: One 300-level course in Spanish or placement; Consent of professor required for late entry,G1: Reading Closely
+45471,SPAN,313,A,Latin American Culture and Civilization II,4,M Chinchilla,MWF,1100,1150,,NA,NA,Gailor Hall 233,18,19,Closed,Prerequisites: one 300 level course in Spanish or placement; Consent of professor required for late entry,G4: Exploring Past and Present,G6: Comprehending Cross-Culturally (Language)
+45473,SPAN,350,A,Cultural Icons in Latin America,4,B Sandlin,TR,930,1045,,NA,NA,Gailor Hall 233,18,19,Closed,Prerequisites: One course in Spanish numbered 300 or higher; Consent of professor required for late entry,
+45475,SPAN,405,A,Spanish-American Novel,4,M Chinchilla,TR,1330,1445,,NA,NA,Gailor Hall 233,18,8,Available: 10,Writing Intensive; Prerequisites: one 300 level course in Spanish or placement; Consent of professor required for late entry,
+Italian,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45832,ITAL,104,A,Elementary Italian II,4,L Richardson,MWF,1200,1250,T,1230,1320,Gailor Hall 128,15,13,Available: 2,Prerequisites: ITAL 103 or placement; Consent of professor required for late entry,
+45420,ITAL,301,A,Introduction to Italian Literature,4,L Richardson,MWF,1000,1050,,NA,NA,Gailor Hall 128,15,13,Available: 2,Prerequisites: ITAL 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+Library Resources,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45848,LIBR,101,A,Library Resources,2,H Syler,W,1400,1600,,NA,NA,duPont Library G31,15,19,Closed,Consent of professor required for late entry,
+Mathematics,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45608,MATH,100,A,Topics in Mathematics: Secret Messages,4,K Cavagnaro,MWF,1000,1050,,NA,NA,Woods Laboratories 123,20,20,Closed,Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45609,MATH,100,B,Topics in Mathematics: Secret Messages,4,K Cavagnaro,MWF,1100,1150,,NA,NA,Woods Laboratories 123,20,21,Closed,Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45610,MATH,100,C,Topics in Mathematics: Heart of Mathematics,4,J Cunningham,TR,930,1045,,NA,NA,Woods Laboratories 123,20,24,Closed,Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45611,MATH,100,D,Topics in Mathematics: Heart of Mathematics,4,J Cunningham,TR,1100,1215,,NA,NA,Woods Laboratories 123,20,21,Closed,Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45612,MATH,101,A,Calculus I,4,D Drinen,MWF,900,950,,NA,NA,Woods Laboratories 121,30,31,Closed,Prerequisites: Placement; Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45613,MATH,101,B,Calculus I,4,C Parrish,MWF,1000,1050,,NA,NA,Woods Laboratories 121,25,16,Available: 9,Prerequisites: Placement; Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45614,MATH,101,C,Calculus I,4,C Parrish,MWF,1100,1150,,NA,NA,Woods Laboratories 121,25,17,Available: 8,Prerequisites: Placement; Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45615,MATH,102,A,Calculus II,4,F Croom,TR,930,1045,,NA,NA,Woods Laboratories 113,25,16,Available: 9,Prerequisites: MATH 101 or placement; Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45616,MATH,102,B,Calculus II,4,F Croom,TR,1100,1215,,NA,NA,Woods Laboratories 113,25,16,Available: 9,Prerequisites: MATH 101 or placement; Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45618,MATH,210,A,Linear Algebra,4,F Croom,MWF,900,950,,NA,NA,Woods Laboratories 134,20,13,Available: 7,Prerequisites: MATH 102 or placement; Consent of professor required for late entry,
+45619,MATH,215,A,Discrete Mathematical Structures,4,D Drinen,MWF,800,850,,NA,NA,Woods Laboratories 121,20,14,Available: 6,Prerequisites: MATH 101 or higher or placement; Consent of professor required for late entry,
+45620,MATH,306,A,Abstract Algebra II,4,K Cavagnaro,TR,930,1045,,NA,NA,Woods Laboratories 125,15,1,Available: 14,Prerequisite: MATH 305; Consent of professor required for late entry,
+45621,MATH,330,A,History of Mathematics,4,J Cunningham,TR,800,915,,NA,NA,Woods Laboratories 121,15,7,Available: 8,Prerequisite: MATH 102; Consent of professor required for late entry,
+45622,MATH,334,A,Partial Differential Equations and Modeling,4,M Rudd,MWF,1000,1050,,NA,NA,Woods Laboratories 134,15,10,Available: 5,Prerequisites: MATH 207 and MATH 212; Consent of professor required for late entry,
+45623,MATH,401,A,Analysis II,4,E Puckette,MWF,1100,1150,,NA,NA,Woods Laboratories 125,15,1,Available: 14,Prerequisite: MATH 303; Consent of professor required for late entry,
+Music,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45587,MUSC,101,A,Music of Western Civilization,4,S Miller,MWF,900,950,,NA,NA,Guerry Hall 131,18,18,Closed,Consent of professor required for late entry,G2: Understanding the Arts
+45588,MUSC,101,B,Music of Western Civilization,4,S Miller,MWF,1100,1150,,NA,NA,Guerry Hall 131,18,21,Closed,Consent of professor required for late entry,G2: Understanding the Arts
+45890,MUSC,102,A,Music Fundamentals I: Chords and Keys,2,K Wright,MWF,1100,1150,,NA,NA,Guerry Hall 129,14,13,Available: 1,Consent of professor required for late entry,
+45589,MUSC,103,A,Music Fundamentals II: Composing for the Keyboard,2,J Carlson,R,1330,1445,,NA,NA,Guerry Hall 129,14,7,Available: 7,Prerequisite: MUSC 102; Consent of professor required for late entry,G2: Understanding the Arts
+45590,MUSC,213,A,From Ragtime to Radiohead: Music in the Era of Recordings,4,S Miller,MW,1430,1545,,NA,NA,Guerry Hall 131,16,20,Closed,Prerequisites: MUSC 101 or MUSC 105 or MUSC 141 or MUSC 151; Consent of professor required for late entry,
+45591,MUSC,214,A,Electronic Music: Synthesis & Digital Recording,4,J Carlson,W,1300,1630,,NA,NA,Guerry Hall 129,10,9,Available: 1,Prerequisite: MUSC 102; Consent of professor required for late entry,
+45940,MUSC,233,A,Toward the Great War: Impressionism and Modernism,4,R Delcamp,TR,1100,1215,,NA,NA,Guerry Hall 131,16,6,Available: 10,Consent of professor required for late entry,
+45935,MUSC,241,A,Jazz Language I: Beginning Improvisation,2,K Wright,R,1500,1615,,NA,NA,Guerry Hall 129,14,3,Available: 11,Prerequisite: MUSC 260; Pre- or Corequisite: MUSC 257; Consent of professor required for late entry,
+45012,MUSC,251,A,University Choir,1,R Delcamp,MTWR,1700,1800,U,1000,1200,Guerry Hall 220,99,19,Available: 80,,
+45013,MUSC,253,A,University Orchestra,1,J Lee,T,1900,2100,,NA,NA,Guerry Hall AUD,99,17,Available: 82,,
+45319,MUSC,257,A,University Jazz Ensemble,1,K Wright,T,1630,1800,,NA,NA,TBA,99,7,Available: 92,,
+45320,MUSC,271,A,Piano,1,B Lo,TBA,NA,NA,,NA,NA,TBA,8,7,Available: 1,Pre- or Corequisite: MUSC 102 or MUSC 103; Consent of professor required for late entry,
+45321,MUSC,273,A,Applied Organ,1,R Delcamp,TBA,NA,NA,,NA,NA,TBA,8,5,Available: 3,Pre- or Corequisite: MUSC 102 or MUSC 103; Consent of professor required for late entry,
+45322,MUSC,275,A,Applied Voice,1,S Rupert,TBA,NA,NA,,NA,NA,TBA,50,5,Available: 45,Pre- or Corequisite: MUSC 102 or MUSC 103; Consent of professor required for late entry; Music-Accompanist Fee: $50,
+45956,MUSC,276,A,Applied Broadway Singing,1,S Rupert,TBA,NA,NA,,NA,NA,TBA,50,10,Available: 40,Pre- or Corequisite: MUSC 102 or MUSC 103; Consent of professor required for late entry; Music-Accompanist Fee: $50,
+45323,MUSC,277,A,Applied Strings,1,K Lehman,TBA,NA,NA,,NA,NA,TBA,8,3,Available: 5,Pre- or Corequisite: MUSC 102 or MUSC 103; Consent of professor required for late entry,
+45324,MUSC,277,B,Applied Strings,1,S Miller,TBA,NA,NA,,NA,NA,TBA,8,3,Available: 5,Pre- or Corequisite: MUSC 102 or MUSC 103; Consent of professor required for late entry,
+45325,MUSC,277,C,Applied Strings,1,S Miller,TBA,NA,NA,,NA,NA,TBA,16,19,Closed,Pre- or Corequisite: MUSC 102 or MUSC 103; Consent of professor required for late entry; Lessons Fee: $480,
+45593,MUSC,278,A,Applied Fiddle,1,C Duncan,MW,1300,1350,,NA,NA,TBA,12,4,Available: 8,Pre- or Corequisite: MUSC 102 or MUSC 103; Consent of professor required for late entry,
+45594,MUSC,278,B,Applied Fiddle,1,C Duncan,MW,1200,1250,,NA,NA,TBA,12,4,Available: 8,Pre- or Corequisite: MUSC 102 or MUSC 103; Consent of professor required for late entry,
+45845,MUSC,279,A,Applied Winds,1,S Miller,TBA,NA,NA,,NA,NA,TBA,8,2,Available: 6,Pre- or Corequisite: MUSC 102 and MUSC 103; Instructor permission required,
+45942,MUSC,345,A,Advanced Arranging for Ensembles,4,J Carlson,T,1330,1600,,NA,NA,Guerry Hall 129,8,5,Available: 3,Prerequisite: MUSC 260; Consent of professor required for late entry,
+45595,MUSC,360,A,Advanced Chromatic Harmony,4,J Carlson,TR,930,1045,,NA,NA,Guerry Hall 129,16,5,Available: 11,Prerequisite: MUSC 260; Consent of professor required for late entry,
+45326,MUSC,371,A,Applied Piano,2,B Lo,TBA,NA,NA,,NA,NA,TBA,8,1,Available: 7,Prerequisites: MUSC 261 and MUSC 360; Consent of professor required for late entry,
+45327,MUSC,373,A,Applied Organ,2,R Delcamp,TBA,NA,NA,,NA,NA,TBA,8,1,Available: 7,Prerequisites: MUSC 261 and MUSC 360; Consent of professor required for late entry,
+45328,MUSC,375,A,Applied Voice,2,S Rupert,TBA,NA,NA,,NA,NA,TBA,50,2,Available: 48,Prerequisites: MUSC 261 and MUSC 360; Consent of professor required for late entry,
+45329,MUSC,377,A,Applied Strings,2,K Lehman,TBA,NA,NA,,NA,NA,TBA,8,0,Available: 8,Prerequisites: MUSC 261 and MUSC 360; Consent of professor required for late entry,
+45330,MUSC,377,B,Applied Strings,2,S Miller,TBA,NA,NA,,NA,NA,TBA,8,0,Available: 8,Prerequisites: MUSC 261 and MUSC 360; Consent of professor required for late entry,
+45592,MUSC,470,A,Recital,2,S Miller,TBA,NA,NA,,NA,NA,TBA,8,2,Available: 6,Open only to students pursuing majors in music; Consent of professor required for late entry,
+Philosophy,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45735,PHIL,101,A,Topics in Philosophy: The Philosophical Life,4,E Bradfield,TR,930,1045,,NA,NA,Carnegie Hall 201,18,18,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45788,PHIL,101,B,Topics in Philosophy: The Philosophical Life,4,E Bradfield,TR,1100,1215,,NA,NA,Carnegie Hall 201,18,19,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45736,PHIL,101,C,Topics in Philosophy: The Ethics of Honor,4,J Peterman,MW,1300,1415,,NA,NA,Guerry Hall 205,18,20,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45737,PHIL,101,D,Topics in Philosophy: Classical Theories and Comtemporary Issues,4,J Peters,TR,930,1045,,NA,NA,Guerry Hall 204,18,17,Available: 1,Consent of professor required for late entry,G3: Seeking Meaning
+45738,PHIL,201,A,Logic,4,C Conn,MWF,1100,1150,,NA,NA,Carnegie Hall 013,18,13,Available: 5,Consent of professor required for late entry,
+45739,PHIL,204,A,Modern Philosophy,4,C Conn,WF,1300,1415,,NA,NA,Carnegie Hall 013,18,11,Available: 7,Consent of professor required for late entry,G3: Seeking Meaning
+45865,PHIL,210,A,Philosophical Issues in Christianity,4,C Conn,TR,1500,1615,,NA,NA,Carnegie Hall 201,18,17,Available: 1,Consent of professor required for late entry,
+45866,PHIL,220,A,The Self,4,A Moser,WF,1430,1545,,NA,NA,Carnegie Hall 201,18,18,Closed,Consent of professor required for late entry,
+45876,PHIL,224,A,Philosophy of Film,4,E Bradfield,TR,1330,1445,,NA,NA,Carnegie Hall 201,18,20,Closed,Consent of professor required for late entry,
+45742,PHIL,232,A,Business Ethics,4,A Moser,MWF,1100,1150,,NA,NA,Carnegie Hall 201,18,26,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45743,PHIL,235,A,Medical Ethics,4,J Peterman,TR,930,1045,,NA,NA,Guerry Hall 205,18,16,Available: 2,Community Engagement; Consent of professor required for late entry,G3: Seeking Meaning
+45877,PHIL,337,A,Philosophy of Science,4,C Conn,TR,1100,1215,,NA,NA,Carnegie Hall 013,18,8,Available: 10,Consent of professor required for late entry,
+Physical Education,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45790,PHED,103,A,Weight Exercise,0,T Evangelista,MW,1000,1050,,NA,NA,Fowler Center DANCE,20,15,Available: 5,Consent of professor required for late entry,
+45791,PHED,106,A,Beginning Fencing,0,B Engel,TR,1900,2000,,NA,NA,Fowler Center AEROBICS,14,13,Available: 1,Consent of professor required for late entry,
+45792,PHED,108,A,Beginning Handball,0,L Glenn,TR,1300,1350,,NA,NA,Fowler Center HANDBALL,8,9,Closed,Consent of professor required for late entry; Handball Fee: $40,
+45793,PHED,110,A,Aerobics,0,W Wilson,TR,1000,1050,,NA,NA,Fowler Center AEROBICS,25,3,Available: 22,Consent of professor required for late entry; Physical Education Fee: $175,
+45794,PHED,111,A,Zumba,0,W Wilson,TR,1200,1250,,NA,NA,Fowler Center AEROBICS,25,10,Available: 15,Consent of professor required for late entry; Physical Education Fee: $175,
+45795,PHED,115,A,Beginning Riding,0,J Harcus/B Ford,TBA,NA,NA,,NA,NA,Equestrian Center STABLES,15,9,Available: 6,Consent of professor required for late entry; Riding Fee: $650,
+45796,PHED,125,A,Lifetime of Fitness: Running,0,T Laurendine,TR,1100,1150,,NA,NA,Fowler Center ,20,12,Available: 8,Consent of professor required for late entry,
+45797,PHED,125,B,Lifetime of Fitness: Running,0,N Ladd,MW,1500,1550,,NA,NA,Fowler Center ,20,23,Closed,Consent of professor required for late entry,
+45798,PHED,128,A,Lifetime of Fitness: Mountain Biking,0,J Heitzenrater,TR,800,850,,NA,NA,Fowler Center ,15,2,Available: 13,Consent of professor required for late entry,
+45799,PHED,132,A,Lifetime of Fitness: Badminton,0,H Camp,TR,1000,1050,,NA,NA,Fowler Center ,8,8,Closed,Consent of professor required for late entry,
+45800,PHED,154,A,Beginning Modern Dance,0,D Herriott,MW,1300,1415,,NA,NA,Tennessee Williams Center 014,15,7,Available: 8,Consent of professor required for late entry,
+45801,PHED,155,A,Advanced Beginning Riding,0,J Harcus/B Ford,TBA,NA,NA,,NA,NA,Equestrian Center STABLES,15,8,Available: 7,Consent of professor required for late entry; Riding Fee: $650,
+45802,PHED,165,A,Beginning Jumping,0,J Harcus/B Ford,TBA,NA,NA,,NA,NA,Equestrian Center STABLES,15,5,Available: 10,Consent of professor required for late entry; Riding Fee: $650,
+45804,PHED,166,A,Introduction to Hunter Seat Equitation,0,J Harcus,TBA,NA,NA,,NA,NA,Equestrian Center STABLES,15,6,Available: 9,Consent of professor required for late entry; Riding Fee: $650,
+45803,PHED,167,A,Schooling the Hunter,0,J Harcus,TBA,NA,NA,,NA,NA,Equestrian Center STABLES,15,6,Available: 9,Consent of professor required for late entry; Riding Fee: $650,
+45805,PHED,171,A,Introduction to Hatha Yoga,0,W Wilson,TR,1100,1150,,NA,NA,Fowler Center AEROBICS,20,18,Available: 2,Consent of professor required for late entry; Physical Education Fee: $175,
+45806,PHED,171,B,Introduction to Hatha Yoga,0,W Wilson,TR,1300,1350,,NA,NA,Fowler Center AEROBICS,20,18,Available: 2,Consent of professor required for late entry; Physical Education Fee: $175,
+45807,PHED,172,A,Pilates,0,K Butters,TR,830,920,,NA,NA,Fowler Center DANCE,15,3,Available: 12,Consent of professor required for late entry; Physical Education Fee: $175,
+45808,PHED,172,B,Pilates,0,K Butters,TR,1330,1420,,NA,NA,Fowler Center DANCE,15,15,Closed,Consent of professor required for late entry; Physical Education Fee: $175,
+45809,PHED,173,A,Intermediate Pilates,0,K Butters,TR,1500,1550,,NA,NA,Fowler Center DANCE,15,7,Available: 8,Prerequisite: PHED 172; Consent of professor required for late entry; Physical Education Fee: $175,
+45810,PHED,175,A,Novice Riding,0,J Harcus,TBA,NA,NA,,NA,NA,Equestrian Center STABLES,15,5,Available: 10,Consent of professor required for late entry; Riding Fee: $650,
+45811,PHED,180,A,Sport Aviation,0,N Ladd,R,1300,1600,,NA,NA,Sewanee Airport TERMINAL,8,6,Available: 2,Consent of professor required for late entry; Aviation Fee: $1600,
+45812,PHED,200,A,Martial Arts,0,P Johnston,TR,1100,1150,,NA,NA,Fowler Center DANCE,20,10,Available: 10,Consent of professor required for late entry,
+45813,PHED,204,A,Intermediate Ballet,0,D Herriott,MWF,1100,1215,,NA,NA,Tennessee Williams Center 014,15,4,Available: 11,Consent of professor required for late entry,
+45814,PHED,215,A,Intermediate Riding,0,J Harcus,TBA,NA,NA,,NA,NA,Equestrian Center STABLES,15,10,Available: 5,Consent of professor required for late entry; Riding Fee: $650,
+45815,PHED,229,A,Lifetime of Wellness: Recreational Sports,0,S Laurendine,MW,1300,1400,,NA,NA,Fowler Center ,15,13,Available: 2,Consent of professor required for late entry,
+45816,PHED,230,A,Lifetime of Wellness: Table Tennis,0,N Ladd,TBA,1800,1850,,NA,NA,Fowler Center AEROBICS,12,13,Closed,Consent of professor required for late entry,
+45818,PHED,252,A,Advanced Scuba,0,D Backlund,W,1800,2200,,NA,NA,Tennessee Williams Center 114,15,4,Available: 11,Instructor permission required; Physical Education Fee: $250,
+45819,PHED,253,A,Rescue Scuba,0,D Backlund,W,1800,2200,,NA,NA,Tennessee Williams Center 114,10,0,Available: 10,Instructor permission required; Physical Education Fee: $225,
+45343,PHED,262,A,Alpine Mountaineering Traverse in Colorado,0,J Benson,TBA,NA,NA,,NA,NA,TBA,99,8,Available: 91,Instructor permission required,
+45344,PHED,263,A,Marathon and Half-Marathon Runs,0,J Benson,TBA,NA,NA,,NA,NA,TBA,99,27,Available: 72,Consent of professor required for late entry,
+45345,PHED,264,A,Canoeing the Rio Grande,0,J Benson,TBA,NA,NA,,NA,NA,TBA,99,0,Available: 99,Instructor permission required,
+45892,PHED,270,A,T'ai Chi,0,C Jiang,MR,1600,1700,,NA,NA,Fowler Center DANCE,18,17,Available: 1,Consent of professor required for late entry; Physical Education Fee: $175,
+45820,PHED,306,A,Advanced Fencing,0,B Engel,TR,2000,2100,,NA,NA,Fowler Center AEROBICS,14,8,Available: 6,Consent of professor required for late entry,
+45821,PHED,308,A,Advanced Handball,0,J Reishman,TR,1400,1450,,NA,NA,Fowler Center HANDBALL,8,4,Available: 4,Consent of professor required for late entry; Handball Fee: $40,
+45822,PHED,315,A,Advanced Riding,0,J Harcus,TBA,NA,NA,,NA,NA,Equestrian Center STABLES,15,4,Available: 11,Consent of professor required for late entry; Riding Fee: $650,
+45193,PHED,328,M,Men's Rugby Club Team,0,D Carter,TBA,NA,NA,,NA,NA,TBA,99,8,Available: 91,Consent of professor required for late entry,
+45037,PHED,330,A,Crew Team,0,D Jones,TBA,NA,NA,,NA,NA,TBA,99,11,Available: 88,Consent of professor required for late entry,
+45403,PHED,331,A,Squash Club Team,0,D Rung,TBA,NA,NA,,NA,NA,TBA,99,9,Available: 90,Consent of professor required for late entry,
+45825,PHED,350,A,Skill Training for Emergency Medical Technicians,0,N Ladd,TBA,NA,NA,,NA,NA,TBA,20,2,Available: 18,Instructor permission required,
+45826,PHED,351,A,American Red Cross Lifeguard,0,M Obermiller,MW,1300,1500,,NA,NA,Fowler Center POOL,10,4,Available: 6,Consent of professor required for late entry; Physical Education Fee: $150,
+45827,PHED,366,A,Hunter Seat Equitation,0,J Harcus,TBA,NA,NA,,NA,NA,Equestrian Center STABLES,15,6,Available: 9,Prerequisites: PHED 215 or PHED 315; Consent of professor required for late entry; Riding Fee: $650,
+45823,PHED,403,A,Advanced Weight Training,0,C Shank,MWF,1500,1700,,NA,NA,Fowler Center WEIGHT,20,12,Available: 8,Instructor permission required,
+45824,PHED,403,B,Advanced Weight Training,0,C Shank,TR,1500,1700,,NA,NA,Fowler Center WEIGHT,20,5,Available: 15,Instructor permission required,
+45038,PHED,449,A,Cheerleading,0,J Hawkins,TBA,NA,NA,,NA,NA,TBA,99,1,Available: 98,Consent of professor required for late entry,
+45194,PHED,450,A,Varsity Swimming/Diving,0,M Obermiller,TBA,NA,NA,,NA,NA,TBA,99,35,Available: 64,Consent of professor required for late entry,
+45195,PHED,451,M,Men's Varsity Tennis,0,J Shackelford,TBA,NA,NA,,NA,NA,TBA,99,2,Available: 97,Consent of professor required for late entry,
+45196,PHED,451,W,Women's Varsity Tennis,0,C Shackelford,TBA,NA,NA,,NA,NA,TBA,99,16,Available: 83,Consent of professor required for late entry,
+45197,PHED,452,A,Men's Varsity Baseball,0,S Baker,TBA,NA,NA,,NA,NA,TBA,99,5,Available: 94,Consent of professor required for late entry,
+45198,PHED,453,M,Men's Varsity Basketball,0,R Smith,TBA,NA,NA,,NA,NA,TBA,99,6,Available: 93,Consent of professor required for late entry,
+45199,PHED,453,W,Women's Varsity Basketball,0,D McCarthy,TBA,NA,NA,,NA,NA,TBA,99,5,Available: 94,Consent of professor required for late entry,
+45200,PHED,454,M,Men's Varsity Golf,0,N Ladd,TBA,NA,NA,,NA,NA,TBA,99,2,Available: 97,Consent of professor required for late entry,
+45245,PHED,454,W,Women's Varsity Golf,0,N Ladd,TBA,NA,NA,,NA,NA,TBA,99,1,Available: 98,Consent of professor required for late entry,
+45187,PHED,455,M,Men's Varsity Soccer,0,D Poggi,TBA,NA,NA,,NA,NA,TBA,99,2,Available: 97,Consent of professor required for late entry,
+45188,PHED,455,W,Women's Varsity Soccer,0,P Johnston,TBA,NA,NA,,NA,NA,TBA,99,3,Available: 96,Consent of professor required for late entry,
+45201,PHED,456,A,Varsity Track and Field,0,J Heitzenrater,TBA,NA,NA,,NA,NA,TBA,99,14,Available: 85,Consent of professor required for late entry,
+45316,PHED,457,M,Men's Varsity Lacrosse,0,M Watters,TBA,NA,NA,,NA,NA,TBA,99,14,Available: 85,Consent of professor required for late entry,
+45317,PHED,457,W,Women's Varsity Lacrosse,0,M Dombrowski,TBA,NA,NA,,NA,NA,TBA,99,16,Available: 83,Consent of professor required for late entry,
+45189,PHED,458,A,Men's Varsity Football,0,T Laurendine,TBA,NA,NA,,NA,NA,TBA,99,8,Available: 91,Consent of professor required for late entry,
+45190,PHED,459,A,Women's Varsity Field Hockey,0,M Dombrowski,TBA,NA,NA,,NA,NA,TBA,99,0,Available: 99,Consent of professor required for late entry,
+45192,PHED,461,A,Women's Varsity Volleyball,0,S Laurendine,TBA,NA,NA,,NA,NA,TBA,99,0,Available: 99,Consent of professor required for late entry,
+45202,PHED,462,A,Women's Varsity Softball,0,A Gilliam,TBA,NA,NA,,NA,NA,TBA,99,6,Available: 93,Consent of professor required for late entry,
+45039,PHED,463,A,Varsity Equestrian,0,J Harcus,TBA,NA,NA,,NA,NA,TBA,99,30,Available: 69,Consent of professor required for late entry,
+Physics and Astronomy,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45643,PHYS,102,A,General Physics II (Lab),4,F Hart,TR,930,1045,T,1400,1700,Woods Laboratories 216,16,16,Closed,Lab Science; Prerequisite: PHYS 101; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45644,PHYS,102,B,General Physics II (Lab),4,F Hart,TR,930,1045,R,1400,1700,Woods Laboratories 216,16,16,Closed,Lab Science; Prerequisite: PHYS 101; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45645,PHYS,104,A,Electric and Magnetic Interactions (Lab),4,B Szapiro,MWF,1100,1250,,NA,NA,Woods Laboratories 227,20,11,Available: 9,Lab Science; Open only to freshmen; Prerequisite: PHYS 103; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45646,PHYS,105,A,Energy and the Environment,4,F Hart/R Peterson,TR,1100,1215,,NA,NA,Woods Laboratories 216,30,26,Available: 4,Non-Lab Science; Consent of professor required for late entry,
+45647,PHYS,149,A,Survey of Astronomy,4,D Durig,TR,1500,1615,,NA,NA,Woods Laboratories 134,14,12,Available: 2,Non-Lab Science; Consent of professor required for late entry,G5: Observing-Experimenting-Modeling
+45648,PHYS,202,A,Thermodynamics,4,R Peterson,MWF,1100,1150,,NA,NA,Woods Laboratories 217,20,8,Available: 12,Non-Lab Science; Consent of professor required for late entry,
+45649,PHYS,204,A,Intermediate Electricity and Magnetism II,4,R Peterson,MWF,900,950,,NA,NA,Woods Laboratories 217,12,6,Available: 6,Non-Lab Science; Prerequisite: PHYS 203; Consent of professor required for late entry,
+45650,PHYS,251,A,Stellar and Galactic Astronomy (Lab),4,D Durig,MWF,1430,1520,T,1900,2200,Woods Laboratories 134,14,4,Available: 10,Lab Science; Consent of professor required for late entry,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45651,PHYS,304,A,Theoretical Mechanics,4,B Szapiro,MWF,1000,1050,,NA,NA,Woods Laboratories 227,20,0,Available: 20,Non-Lab Science; Prerequisite: PHYS 303; Consent of professor required for late entry,
+45652,PHYS,306,A,Advanced Laboratory II,2,R Peterson,MR,1400,1700,,NA,NA,Woods Laboratories 228,14,5,Available: 9,Writing Intensive; Prerequisite: PHYS 305; Consent of professor required for late entry,
+45653,PHYS,312,A,Junior Seminar,2,R Peterson,W,1900,2000,,NA,NA,Woods Laboratories 216,14,5,Available: 9,Consent of professor required for late entry,
+45654,PHYS,349,A,Readings in Cosmology,4,D Durig,MF,1300,1415,,NA,NA,Woods Laboratories 217,14,4,Available: 10,Prerequisites: PHYS 102 or PHYS 104 or PHYS 149 or PHYS 250 or PHYS 251; Consent of professor required for late entry,
+45655,PHYS,401,A,Quantum Mechanics,4,B Szapiro,TBA,NA,NA,,NA,NA,TBA,14,3,Available: 11,Non-Lab Science; Consent of professor required for late entry,
+45656,PHYS,412,A,Senior Seminar,2,R Peterson,W,1900,2000,,NA,NA,Woods Laboratories 216,14,4,Available: 10,Prerequisite: PHYS 312; Consent of professor required for late entry,
+Politics,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45574,POLS,101,A,American Government and Politics,4,M Crowder-Meyer,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 304,25,24,Available: 1,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+45575,POLS,101,B,American Government and Politics,4,M Crowder-Meyer,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 304,25,25,Closed,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+45859,POLS,101,C,American Government and Politics,4,P Schneider,TR,1100,1215,,NA,NA,Gailor Hall 128,25,24,Available: 1,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+45576,POLS,103,A,Comparative Politics,4,M Dragojevic,TR,800,915,,NA,NA,Guerry Hall 131,25,11,Available: 14,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+45577,POLS,103,B,Comparative Politics,4,M Dragojevic,TR,930,1045,,NA,NA,Guerry Hall 131,25,23,Available: 2,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+45578,POLS,150,A,World Politics,4,R Manacsa,TR,930,1045,,NA,NA,Guerry Hall 1,25,25,Closed,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+45579,POLS,150,B,World Politics,4,R Manacsa,TR,1100,1215,,NA,NA,Guerry Hall 1,25,25,Closed,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+45860,POLS,150,C,World Politics,4,A Patterson,MWF,900,950,,NA,NA,Walsh-Ellett Hall 308,25,14,Available: 11,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+45580,POLS,203,A,The Presidency,4,A Hatcher,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 210,25,26,Closed,Consent of professor required for late entry,G4: Exploring Past and Present
+45878,POLS,260,A,Political Theory of the Environment,4,T Ehresman,TR,1330,1445,,NA,NA,Spencer Hall 262,25,18,Available: 7,Consent of professor required for late entry,G4: Exploring Past and Present
+45581,POLS,305,A,Politics of Everyday Life,4,S Wilson,MW,1300,1415,,NA,NA,Walsh-Ellett Hall 206,25,21,Available: 4,Consent of professor required for late entry,
+45582,POLS,307,A,Women in American Politics,4,M Crowder-Meyer,M,1430,1700,,NA,NA,Walsh-Ellett Hall 208,15,14,Available: 1,Writing Intensive; Consent of professor required for late entry,
+45583,POLS,318,A,Comparative Politics: South America and Mexico,4,M Dragojevic,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 304,25,24,Available: 1,Consent of professor required for late entry,
+45862,POLS,329,A,Comparative African Politics,4,A Patterson,TR,930,1045,,NA,NA,Woods Laboratories 121,25,17,Available: 8,Not open to freshmen; Consent of professor required for late entry,
+45584,POLS,331,A,Constitutional Law: Balancing Powers,4,A Hatcher,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 304,25,24,Available: 1,Not open to freshmen; Consent of professor required for late entry,
+45861,POLS,363,A,Comparative Democratization,4,A Patterson,MW,1300,1415,,NA,NA,Gailor Hall 019,15,9,Available: 6,Writing Intensive; Not open to freshmen; Consent of professor required for late entry,
+45870,POLS,370,A,International Law in International Relations,4,T Ehresman,MWF,900,950,,NA,NA,Woods Laboratories 113,25,15,Available: 10,Consent of professor required for late entry,
+45871,POLS,382,A,International Environmental Policy,4,T Ehresman,MWF,1100,1150,,NA,NA,Woods Laboratories 113,25,26,Closed,Consent of professor required for late entry,
+45585,POLS,409,A,Religion and American Politics,4,A Hatcher,W,1330,1600,,NA,NA,Walsh-Ellett Hall 208,15,8,Available: 7,Writing Intensive; Open only to juniors and seniors; Consent of professor required for late entry,
+45586,POLS,430,A,Research Seminar: Topics in International Security,4,R Manacsa,W,1400,1630,,NA,NA,Spencer Hall 262,15,14,Available: 1,Writing Intensive; Open only to juniors and seniors; Consent of professor required for late entry,
+Psychology,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45556,PSYC,100,A,Introduction to Psychology (Lab),4,N Barenbaum/H Craft,MWF,900,950,M,1400,1700,Woods Laboratories 341,23,26,Closed,Lab Science; Reserved Seats: sophomores-11 (none available), returning freshmen-11 (none available); Waitlist - contact instructor,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45842,PSYC,101,A,Principles of Psychology,4,J Siegel,MWF,1000,1050,,NA,NA,Woods Laboratories 324,19,23,Closed,Non-Lab Science; Reserved Seats: juniors-1 (none available), sophomores-4 (none available), returning freshmen-14 (none available); Waitlist - contact instructor,G5: Observing-Experimenting-Modeling
+45562,PSYC,201,A,Psychology of Personality,4,N Barenbaum,TR,930,1045,,NA,NA,Woods Laboratories 341,23,26,Closed,Non-Lab Science; Prerequisites: PSYC 100 or PSYC 101; Waitlist - contact instructor,G5: Observing-Experimenting-Modeling
+45563,PSYC,202,A,Abnormal Behavior,4,N West,MWF,1000,1050,,NA,NA,Woods Laboratories 341,23,25,Closed,Prerequisites: PSYC 100 or PSYC 101; Waitlist - contact instructor,
+45969,PSYC,202,B,Abnormal Behavior,4,N Noffsinger-Frazier,MWF,1000,1050,,NA,NA,Woods Laboratories 340,26,21,Available: 5,Prerequisites: PSYC 100 or PSYC 101; Instructor permission required,
+45564,PSYC,206,A,Industrial Psychology,4,C Peyser,TR,1100,1215,,NA,NA,Woods Laboratories 324,20,17,Available: 3,Prerequisites: PSYC 100 or 101 or junior standing; Consent of professor required for late entry,
+45854,PSYC,218,A,Psychology of Violence,4,S Hamby,TR,1100,1215,,NA,NA,Woods Laboratories 341,23,26,Closed,Non-Lab Science; Reserved Seats: sophomores-7 (none available); Prerequisites: PSYC 100 or PSYC 101; Waitlist - contact instructor,G5: Observing-Experimenting-Modeling
+45565,PSYC,221,A,Adolescence,4,H Bateman,TR,930,1045,,NA,NA,Woods Laboratories 340,23,25,Closed,Non-Lab Science; Prerequisites: PSYC 100 or PSYC 101; Waitlist - contact instructor,G5: Observing-Experimenting-Modeling
+45843,PSYC,251,A,Research Methods and Data Analysis,4,C Peyser/A Bardi,MWF,900,950,T,1400,1700,Woods Laboratories 324,16,20,Closed,Lab Science; Prerequisites: PSYC 100 or PSYC 101; Waitlist - contact instructor,G5E: Observing-Experimenting-Modeling (Experimental/Experiential)
+45567,PSYC,276,A,Pseudopsychology,4,C Peyser,MWF,1100,1150,,NA,NA,Woods Laboratories 324,20,16,Available: 4,Non-Lab Science; Prerequisites: PSYC 100 or 101 or junior standing; Consent of professor required for late entry,
+45568,PSYC,358,A,Cognitive Psychology (Lab),4,K Yu,TR,1100,1215,T,1400,1700,Woods Laboratories 340,14,14,Closed,Lab Science; Writing Intensive; Prerequisites: (PSYC 100 or PSYC 101) and PSYC 251; Consent of professor required for late entry,
+45569,PSYC,359,A,Advanced Behavioral Neuroscience (Lab),4,J Siegel,TR,930,1045,R,1400,1700,Woods Laboratories 324,14,6,Available: 8,Lab Science; Writing Intensive; Prerequisites: (PSYC 100 or PSYC 101) and PSYC 251 and PSYC 254; Consent of professor required for late entry,
+45566,PSYC,363,A,Advanced Research Seminar in Psychology,4,A Bardi,W,1400,1700,,NA,NA,Woods Laboratories 315,8,9,Closed,Prerequisite: PSYC 251; Instructor permission required,
+45570,PSYC,402,A,Community Psychology,4,H Bateman,T,1400,1700,,NA,NA,Woods Laboratories 341,12,13,Closed,Community Engagement; Prerequisites: Four courses in psychology; Consent of professor required for late entry,
+45571,PSYC,403,A,Psychology and Popular Culture in the U.S.,4,N Barenbaum,M,1400,1700,,NA,NA,Woods Laboratories 340,12,11,Available: 1,Prerequisites: Four courses in any combination from psychology and American studies; Consent of professor required for late entry,
+45572,PSYC,408,A,Seminar in Abnormal Behavior,4,A Bardi,R,1400,1700,,NA,NA,Woods Laboratories 340,11,11,Closed,Prerequisites: PSYC 202 and three other courses in psychology; Consent of professor required for late entry,
+45881,PSYC,430,A,Child, Family, and Community Development in Rural Appalachia,4,K Yu/L Mayes,MW,1300,1415,,NA,NA,Spencer Hall 151,12,13,Closed,Prerequisites: One course in psychology, one community engagement course, and sophomore standing or above; Instructor permission required,
+Religious Studies,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45657,RELG,111,A,Introduction to Religion,4,L Carden,MWF,800,850,,NA,NA,Walsh-Ellett Hall 208,18,19,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45658,RELG,111,B,Introduction to Religion,4,T Parker,TR,930,1045,,NA,NA,Walsh-Ellett Hall 204,18,18,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45659,RELG,144,A,Introduction to the Bible II: New Testament,4,E Thurman,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 208,18,16,Available: 2,Consent of professor required for late entry,G1: Reading Closely,G3: Seeking Meaning
+45660,RELG,144,B,Introduction to the Bible II: New Testament,4,E Thurman,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 208,18,18,Closed,Consent of professor required for late entry,G1: Reading Closely,G3: Seeking Meaning
+45937,RELG,151,A,Philosophy of Religion,4,L Carden,MWF,900,950,,NA,NA,Walsh-Ellett Hall 208,18,19,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45661,RELG,162,A,Introduction to Asian Religions,4,D Mote,MWF,900,950,,NA,NA,Walsh-Ellett Hall 210,18,18,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45662,RELG,162,B,Introduction to Asian Religions,4,D Mote,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 210,18,20,Closed,Consent of professor required for late entry,G3: Seeking Meaning
+45663,RELG,201,A,The Spirit and Forms of Anglicanism,4,J Gatta,MWF,900,950,,NA,NA,Walsh-Ellett Hall 204,18,8,Available: 10,Consent of professor required for late entry,G3: Seeking Meaning
+45664,RELG,220,A,Holocaust, Religion, Morality,4,T Parker,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 204,18,18,Closed,Consent of professor required for late entry,
+45952,RELG,221,A,Evangelicalism,4,P Cochran,TR,1100,1215,,NA,NA,Gailor Hall 112,20,10,Available: 10,Consent of professor required for late entry,
+45665,RELG,222,A,Gender and Sex in the New Testament,4,E Thurman,MW,1300,1415,,NA,NA,Walsh-Ellett Hall 210,18,20,Closed,Prerequisites: One course in religion, philosophy, or humanities; Consent of professor required for late entry,
+45953,RELG,227,A,Food, Faith, and Feminism,4,P Cochran,T,1330,1630,,NA,NA,Walsh-Ellett Hall 312,15,15,Closed,Instructor permission required,
+45844,RELG,228,A,Ancestors: The Living Dead,4,D Mote,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 208,18,18,Closed,Consent of professor required for late entry,
+45666,RELG,322,A,Issues in Contemporary Religious Thought: The Reality of God,4,L Carden,TR,930,1045,,NA,NA,Walsh-Ellett Hall 208,18,17,Available: 1,Consent of professor required for late entry,
+45667,RELG,344,A,Religion and Violence,4,T Parker,W,1300,1600,,NA,NA,Walsh-Ellett Hall 204,15,9,Available: 6,Consent of professor required for late entry,
+Russian,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45477,RUSN,104,A,Elementary Russian II,4,M Preslar,MWF,900,950,T,1230,1320,Gailor Hall 224,18,19,Closed,Prerequisites: RUSN 103 or placement; Consent of professor required for late entry,
+45478,RUSN,301,A,Advanced Russian,4,E Skomp,MWF,1100,1150,,NA,NA,Gailor Hall 224,18,12,Available: 6,Prerequisites: RUSN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45479,RUSN,362,A,Dostoevsky in English Translation,4,M Preslar,TR,930,1045,,NA,NA,Gailor Hall 224,15,21,Closed,Writing Intensive; Consent of professor required for late entry,G1: Reading Closely,G3: Seeking Meaning
+45480,RUSN,401,A,The 19th Century,4,E Skomp,MWF,1000,1050,,NA,NA,Gailor Hall 224,18,5,Available: 13,Prerequisites: One course in Russian numbered 300 or higher; Consent of professor required for late entry,G1: Reading Closely,G6: Comprehending Cross-Culturally (Language)
+45849,RUSN,420,A,Senior Seminar,4,M Preslar,WF,1100,1150,,NA,NA,Gailor Hall 114,5,4,Available: 1,Writing Intensive; Open only to seniors pursuing majors in Russian; Consent of professor required for late entry,
+School of Theology,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45934,ANGL,337,A,C.S. Lewis: Author, Apologist, and Anglican,3,R MacSwain,T,1330,1530,,NA,NA,Hamilton Hall 235,4,4,Closed,Instructor permission required,
+45846,BIBL,332,A,Elementary Biblical Hebrew II,3,B Wright,MWF,1330,1420,,NA,NA,Hamilton Hall 235,15,1,Available: 14,Prerequisite: BIBL 331; Consent of professor required for late entry,
+45847,BIBL,334,A,Intermediate Biblical Hebrew II,3,B Wright/L Treadway,M,1430,1630,,NA,NA,Hamilton Hall 238,15,0,Available: 15,Prerequisite: BIBL 332; Consent of professor required for late entry,
+Spanish,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45456,SPAN,104,A,Elementary Spanish II,4,S Raulston,MTRF,800,850,,NA,NA,Gailor Hall 225,18,17,Available: 1,Prerequisites: SPAN 103; Consent of professor required for late entry,
+45457,SPAN,104,B,Elementary Spanish II,4,S Raulston,MF,900,950,TR,930,1020,Gailor Hall 225,18,19,Closed,Prerequisites: SPAN 103; Consent of professor required for late entry,
+45869,SPAN,113,A,Elementary Spanish: Accelerated Review Course,4,B Sandlin,MF,1200,1250,TR,1230,1320,Gailor Hall 130,18,19,Closed,Prerequisites: Placement; Consent of professor required for late entry,
+45458,SPAN,203,A,Intermediate Spanish,4,A Jordan,MTRF,800,850,,NA,NA,Gailor Hall 132,18,21,Closed,Prerequisites: SPAN 104 or SPAN 113 or placement; Consent of professor required for late entry,
+45459,SPAN,203,B,Intermediate Spanish,4,A Jordan,MF,900,950,TR,930,1020,Gailor Hall 132,18,16,Available: 2,Prerequisites: SPAN 104 or SPAN 113 or placement; Consent of professor required for late entry,
+45460,SPAN,203,C,Intermediate Spanish,4,A Jordan,MTRF,1100,1150,,NA,NA,Gailor Hall 132,18,19,Closed,Prerequisites: SPAN 104 or SPAN 113 or placement; Consent of professor required for late entry,
+45461,SPAN,203,D,Intermediate Spanish,4,C Kroll,MF,1200,1250,TR,1230,1320,Gailor Hall 132,18,21,Closed,Prerequisites: SPAN 104 or SPAN 113 or placement; Consent of professor required for late entry,
+45462,SPAN,203,E,Intermediate Spanish,4,C Kroll,MF,1300,1350,TR,1330,1420,Gailor Hall 132,18,17,Available: 1,Prerequisites: SPAN 104 or SPAN 113 or placement; Consent of professor required for late entry,
+45853,SPAN,203,F,Intermediate Spanish,4,K Fort,MF,1300,1350,TR,1330,1420,Gailor Hall 114,18,19,Closed,Prerequisites: SPAN 104 or SPAN 113 or placement; Consent of professor required for late entry,
+45463,SPAN,300,A,Introduction to Hispanic Literature,4,P Bonds,MWF,800,850,,NA,NA,Gailor Hall 102,15,6,Available: 9,Prerequisites: SPAN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45464,SPAN,300,B,Introduction to Hispanic Literature,4,P Bonds,MWF,900,950,,NA,NA,Gailor Hall 102,15,9,Available: 6,Prerequisites: SPAN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45465,SPAN,300,C,Introduction to Hispanic Literature,4,B Sandlin,MWF,1000,1050,,NA,NA,Gailor Hall 132,18,20,Closed,Prerequisites: SPAN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45466,SPAN,300,D,Introduction to Hispanic Literature,4,C Kroll,TR,800,915,,NA,NA,Gailor Hall 110,15,20,Closed,Prerequisites: SPAN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45467,SPAN,300,E,Introduction to Hispanic Literature,4,K Fort,TR,930,1045,,NA,NA,Gailor Hall 128,15,17,Closed,Prerequisites: SPAN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45468,SPAN,300,F,Introduction to Hispanic Literature,4,K Fort,TR,1100,1215,,NA,NA,Gailor Hall 212,15,16,Closed,Prerequisites: SPAN 203 or placement; Consent of professor required for late entry,G6: Comprehending Cross-Culturally (Language)
+45469,SPAN,302,A,Introduction to Spanish Literature II,4,T Spaccarelli,MWF,800,850,,NA,NA,Gailor Hall 233,18,15,Available: 3,Prerequisites: One 300-level course in Spanish or placement; Consent of professor required for late entry,G1: Reading Closely
+45470,SPAN,304,A,Introduction to Latin American Literature II,4,M Chinchilla,MWF,900,950,,NA,NA,Gailor Hall 233,18,18,Closed,Prerequisites: One 300-level course in Spanish or placement; Consent of professor required for late entry,G1: Reading Closely
+45471,SPAN,313,A,Latin American Culture and Civilization II,4,M Chinchilla,MWF,1100,1150,,NA,NA,Gailor Hall 233,18,19,Closed,Prerequisites: one 300 level course in Spanish or placement; Consent of professor required for late entry,G4: Exploring Past and Present,G6: Comprehending Cross-Culturally (Language)
+45472,SPAN,332,A,Advanced Grammar and Composition,4,T Spaccarelli,MWF,1300,1350,,NA,NA,Gailor Hall 233,18,18,Closed,Prerequisites: One course in Spanish numbered 300 or higher; Consent of professor required for late entry,
+45973,SPAN,334,A,Comparative Linguistics of English and Spanish,4,P Bonds,MWF,1100,1150,,NA,NA,Gailor Hall 102,15,7,Available: 8,Prerequisites: One course in Spanish numbered 300 or higher; Consent of professor required for late entry,
+45473,SPAN,350,A,Cultural Icons in Latin America,4,B Sandlin,TR,930,1045,,NA,NA,Gailor Hall 233,18,19,Closed,Prerequisites: One course in Spanish numbered 300 or higher; Consent of professor required for late entry,
+45474,SPAN,381,A,Poetry of the Iberian World,4,T Spaccarelli,MWF,1000,1050,,NA,NA,Gailor Hall 233,18,5,Available: 13,Prerequisite: NOND 380; Consent of professor required for late entry,
+45475,SPAN,405,A,Spanish-American Novel,4,M Chinchilla,TR,1330,1445,,NA,NA,Gailor Hall 233,18,8,Available: 10,Writing Intensive; Prerequisites: one 300 level course in Spanish or placement; Consent of professor required for late entry,
+Statistics,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45624,STAT,204,A,Elementary Statistics,4,E Puckette,TR,800,915,R,1330,1445,Woods Laboratories 113,20,18,Available: 2,Waitlist - contact instructor,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45625,STAT,204,B,Elementary Statistics,4,E Puckette,TR,800,915,F,1300,1415,Woods Laboratories 113,20,22,Closed,Waitlist - contact instructor,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45626,STAT,204,C,Elementary Statistics,4,M Rudd,TR,930,1045,T,1330,1445,Woods Laboratories BLACKMAN,20,23,Closed,Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+45627,STAT,204,D,Elementary Statistics,4,M Rudd,TR,930,1045,W,1300,1415,Woods Laboratories BLACKMAN,20,23,Closed,Consent of professor required for late entry,G5Q: Observing-Experimenting-Modeling (Quantitative/Algorithmic/Abstract Logical Reasoning)
+Theatre and Dance,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45422,THTR,101,A,Introduction to Theatre,4,M Cook,TR,800,915,,NA,NA,duPont Library G26,20,20,Closed,Consent of professor required for late entry,G2: Understanding the Arts
+45880,THTR,103,A,Playing Shakespeare: From School to Stage,4,D Landon,T,1400,1700,,NA,NA,Tennessee Williams Center 014,12,17,Closed,Consent of professor required for late entry,G2: Understanding the Arts
+45423,THTR,112,A,Elements of Performance,4,P Smith,TR,930,1045,,NA,NA,Tennessee Williams Center 115,15,14,Available: 1,Open only to freshmen and sophomores; Instructor permission required,
+45424,THTR,114,A,Elements of Design,4,D Backlund,TR,930,1045,T,1400,1700,Tennessee Williams Center 114,9,11,Closed,Open only to freshmen and sophomores; Instructor permission required,
+45427,THTR,234,A,The Physical Actor: From Neutrality to Clown,4,D Landon,R,1400,1700,,NA,NA,Tennessee Williams Center 014,12,20,Closed,Prerequisite: THTR 231; Instructor permission required,
+45428,THTR,235,A,Voice and Interpretation,4,P Smith,TR,1100,1215,,NA,NA,Tennessee Williams Center 014,10,6,Available: 4,Instructor permission required,
+45429,THTR,240,A,Costume Technology,4,J Matthews,MWF,1000,1050,M,1400,1700,Tennessee Williams Center 018,10,2,Available: 8,Prerequisite: THTR 111; Consent of professor required for late entry,
+45868,THTR,344,A,Lighting Design,4,D Backlund,TR,1100,1215,R,1400,1700,Tennessee Williams Center 114,9,3,Available: 6,Prerequisite: THTR 114; Instructor permission required,
+45430,THTR,361,A,Costume Design,4,J Matthews,MWF,1100,1150,W,1400,1700,Tennessee Williams Center 018,10,7,Available: 3,Consent of professor required for late entry,
+45431,THTR,431,A,Projects in Performance,4,P Smith,TBA,NA,NA,,NA,NA,TBA,10,1,Available: 9,Open only to juniors and seniors; Instructor permission required,
+Women's and Gender Studies,,NA,,,NA,,,NA,NA,,NA,NA,,NA,NA,,,
+45756,ECON,309,A,Women in the Economy,4,Y Mohiuddin,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 308,20,22,Closed,Community Engagement; Prerequisite: ECON 101; Consent of professor required for late entry,
+45704,ENGL,330,A,The Life and Literature of Tennessee Williams,4,V Craighill,MW,1300,1415,,NA,NA,Gailor Hall 130,25,24,Available: 1,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45707,ENGL,358,A,Shakespeare II,4,P Macfie,MWF,900,950,,NA,NA,Gailor Hall 130,20,12,Available: 8,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45709,ENGL,358,C,Shakespeare II,4,K Malone,TR,1100,1215,,NA,NA,Gailor Hall 130,20,19,Available: 1,Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45710,ENGL,360,A,Renaissance Literature II,4,P Macfie,MWF,1200,1250,,NA,NA,Gailor Hall 202,15,12,Available: 3,Writing Intensive; Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45716,ENGL,383,A,Contemporary British Fiction,4,S Martin,M,1300,1530,,NA,NA,Gailor Hall 102,20,11,Available: 9,Writing Intensive; Prerequisites: ENGL 101 or HUMN 101; Consent of professor required for late entry,
+45379,HIST,100,J,Topics in Western Civilization: Children and Childhood in History,4,K Whitmer,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 308,21,19,Available: 2,Consent of professor required for late entry,G4: Exploring Past and Present
+45786,HIST,358,A,Women in Latin America,4,C McEvoy,W,1400,1630,,NA,NA,duPont Library G10,15,17,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45778,HIST,380,A,Crimes and Scandals in the Historical Imagination, 18th–20th Centuries,4,A Mansker,T,1400,1630,,NA,NA,Walsh-Ellett Hall 204,15,15,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45779,HIST,380,B,Crimes and Scandals in the Historical Imagination, 18th–20th Centuries,4,A Mansker,M,1400,1630,,NA,NA,Walsh-Ellett Hall 204,15,15,Closed,Prerequisites: HIST 100 or (HUMN 101 and HUMN 102); Consent of professor required for late entry,
+45582,POLS,307,A,Women in American Politics,4,M Crowder-Meyer,M,1430,1700,,NA,NA,Walsh-Ellett Hall 208,15,14,Available: 1,Writing Intensive; Consent of professor required for late entry,
+45583,POLS,318,A,Comparative Politics: South America and Mexico,4,M Dragojevic,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 304,25,24,Available: 1,Consent of professor required for late entry,
+45854,PSYC,218,A,Psychology of Violence,4,S Hamby,TR,1100,1215,,NA,NA,Woods Laboratories 341,23,26,Closed,Non-Lab Science; Reserved Seats: sophomores-7 (none available); Prerequisites: PSYC 100 or PSYC 101; Waitlist - contact instructor,G5: Observing-Experimenting-Modeling
+45659,RELG,144,A,Introduction to the Bible II: New Testament,4,E Thurman,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 208,18,16,Available: 2,Consent of professor required for late entry,G1: Reading Closely,G3: Seeking Meaning
+45660,RELG,144,B,Introduction to the Bible II: New Testament,4,E Thurman,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 208,18,18,Closed,Consent of professor required for late entry,G1: Reading Closely,G3: Seeking Meaning
+45665,RELG,222,A,Gender and Sex in the New Testament,4,E Thurman,MW,1300,1415,,NA,NA,Walsh-Ellett Hall 210,18,20,Closed,Prerequisites: One course in religion, philosophy, or humanities; Consent of professor required for late entry,
+45953,RELG,227,A,Food, Faith, and Feminism,4,P Cochran,T,1330,1630,,NA,NA,Walsh-Ellett Hall 312,15,15,Closed,Instructor permission required,
+45554,WMST,100,A,Introduction to Women's and Gender Studies,4,J Berebitsky,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 202,18,20,Closed,Not open to seniors; Consent of professor required for late entry,G4: Exploring Past and Present
+45787,WMST,111,A,Introduction to Lesbian, Gay, Bisexual, and Transgender Studies,4,P Schneider,TR,1330,1445,,NA,NA,Walsh-Ellett Hall 202,20,20,Closed,Consent of professor required for late entry,
+45555,WMST,448,A,Women's and Gender Studies Seminar,4,J Berebitsky,W,1730,2030,,NA,NA,Walsh-Ellett Hall 202,17,16,Available: 1,Open only to students pursuing minors in women's and gender studies; Consent of professor required for late entry,

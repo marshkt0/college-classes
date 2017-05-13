@@ -1,0 +1,533 @@
+CRN,Subj,Num,Sec,Title,Hours,Faculty,Days,Beg,End,Days.2,Beg.2,End.2,Location,Limit,Enr,Av.Seats,Additional.Info,General.Education
+American Studies,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10376,AMST,420,A,Senior Research Seminar,4,W Register,W,1400,1630,,NA,NA,Walsh-Ellett Hall 206,20,5,Available: 15,Writing Intensive; Open only to seniors pursuing majors in American studies,NA
+10712,ANTH,411,A,Research Seminar: Campus Life and Academic Culture,4,R O'Connor,T,1400,1630,,NA,NA,Woods Laboratories 342,15,4,Available: 11,Instructor permission required,NA
+10386,ARTH,212,A,American Animation, 1910-1960,4,G Clark,TR,1230,1345,,NA,NA,Carnegie Hall 302,20,21,Closed,Reserved Seats: seniors-4 (none available), juniors-4 (none available), sophomores-4 (none available), returning freshmen-8 (2 available),NA
+10387,ARTH,212,B,American Animation, 1910-1960,4,G Clark,TR,1400,1515,,NA,NA,Carnegie Hall 302,20,21,Closed,Reserved Seats: seniors-4 (2 available), juniors-4 (none available), sophomores-4 (none available), returning freshmen-8 (6 available),NA
+10391,ARTH,340,A,American Art,4,M Brennecke,TR,930,1045,,NA,NA,Carnegie Hall 304,15,14,Available: 1,Prerequisites: ARTH 104 or HUMN 202,NA
+10392,ARTH,340,B,American Art,4,M Brennecke,TR,1100,1215,,NA,NA,Carnegie Hall 304,15,18,Closed,Prerequisites: ARTH 104 or HUMN 202,NA
+10545,ENGL,377,A,American Literature I,4,J Grammer,MWF,900,950,,NA,NA,St. Luke's 202,25,16,Available: 9,,NA
+10547,ENGL,391,A,Modern American Poetry,4,B Clarkson,MWF,900,950,,NA,NA,St. Luke's 204,25,26,Closed,,NA
+10548,ENGL,393,A,Faulkner,4,T Carlson,W,1400,1630,,NA,NA,duPont Library 215,15,13,Available: 2,Writing Intensive,NA
+10568,HIST,201,A,History of the United States I,4,C Israel,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 306,25,27,Closed,,NA
+10569,HIST,232,A,African-American History since 1865,4,H Roberson,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 202,20,17,Available: 3,,NA
+10570,HIST,238,A,Women in U.S. History, 1870 to the Present,4,J Berebitsky,TR,930,1045,,NA,NA,St. Luke's 102,22,20,Available: 2,,NA
+10574,HIST,317,A,African-American Intellectual History,4,H Roberson,M,1400,1630,,NA,NA,Walsh-Ellett Hall 204,15,13,Available: 2,,NA
+10573,HIST,394,A,Reconstructing the South,4,J Willis,TR,1100,1215,,NA,NA,Woods Laboratories 238,15,14,Available: 1,Writing Intensive,NA
+10475,MUSC,223,A,American Music,4,S Miller,TR,1100,1215,,NA,NA,Guerry Hall 1,20,20,Closed,Prerequisites: MUSC 101 or HUMN 202,NA
+10605,POLS,322,A,United States Foreign Policy,4,B Ward,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 302,25,29,Closed,,NA
+10611,POLS,331,A,Introduction to Constitutional Law,4,R Pearigen,TR,800,915,,NA,NA,Walsh-Ellett Hall 210,25,13,Available: 12,,NA
+10608,POLS,344,A,Myth America,4,G McKeen,MW,1400,1515,,NA,NA,Walsh-Ellett Hall 304,25,23,Available: 2,,NA
+10632,RELG,343,A,Popular Culture and Religion in America,4,J Smith,MWF,900,950,,NA,NA,duPont Library G31,15,17,Closed,,NA
+10633,RELG,393,A,Rural Religion,4,J Smith,MW,1100,1215,R,1300,1600,duPont Library G31,12,20,Closed,,NA
+Anthropology,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10378,ANTH,104,A,Introductory Cultural Anthropology,4,R O'Connor,MWF,900,950,,NA,NA,Woods Laboratories 342,20,21,Closed,Reserved Seats: sophomores-6 (none available), returning freshmen-10 (3 available),NA
+10379,ANTH,104,B,Introductory Cultural Anthropology,4,W Leggett,TR,1100,1215,,NA,NA,Woods Laboratories 342,20,27,Closed,Reserved Seats: sophomores-6 (none available), returning freshmen-10 (2 available),NA
+10692,ANTH,107,A,Human Evolution and Variation,4,D Murdock,TR,800,915,,NA,NA,Woods Laboratories 342,20,19,Available: 1,Reserved Seats: sophomores-6 (none available), returning freshmen-10 (none available),NA
+10693,ANTH,107,B,Human Evolution and Variation,4,D Murdock,TR,930,1045,,NA,NA,Woods Laboratories 342,15,20,Closed,Reserved Seats: sophomores-6 (none available), returning freshmen-5 (1 available),NA
+10380,ANTH,204,A,Anthropology of Education,4,M Wallace,M,1300,1530,,NA,NA,Woods Laboratories 340,12,12,Closed,Writing Intensive; Instructor permission required; Addl 2 hrs per week in local school TBA,NA
+10381,ANTH,298,A,Environmental Anthropology,4,C Ray,MW,1100,1215,,NA,NA,Woods Laboratories 340,15,19,Closed,,NA
+10382,ANTH,304,A,Peoples and Cultures of Africa,4,J Hamer,TR,930,1045,,NA,NA,Woods Laboratories 340,15,15,Closed,,NA
+10711,ANTH,305,A,Cultures of Latin America,4,D Murdock,MWF,1000,1050,,NA,NA,Woods Laboratories 342,15,16,Closed,,NA
+10383,ANTH,310,A,Topics in Archaeology and Historic Preservation,4,M McCollough,W,1530,1830,,NA,NA,Woods Laboratories 301,15,1,Available: 14,Prerequisites: ANTH 106 and (ANTH 307 or ANTH 309 or ANTH 313); Instructor permission required,NA
+10384,ANTH,313,A,Method and Theory in Archaeology,4,M McCollough,W,1530,1830,,NA,NA,Woods Laboratories 301,15,0,Available: 15,Prerequisite: ANTH 106; Instructor permission required,NA
+10385,ANTH,401,A,Anthropological Field Methods,4,C Ray,M,1400,1630,,NA,NA,Woods Laboratories 342,15,8,Available: 7,Writing Intensive; Open only to students pursuing majors in anthropology,NA
+10712,ANTH,411,A,Research Seminar: Campus Life and Academic Culture,4,R O'Connor,T,1400,1630,,NA,NA,Woods Laboratories 342,15,4,Available: 11,Instructor permission required,NA
+Art and Art History,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10643,ART,103,A,Introduction to Lens and Time-based Media,4,P Malde,TR,1100,1215,M,1400,1600,duPont Library G31,15,14,Available: 1,Instructor permission required; Studio Art Fee-Malde: $150,NA
+10646,ART,143,A,Beginning Video Production,4,G Pond,TR,930,1045,,NA,NA,duPont Library G26,13,15,Closed,Reserved Seats: returning freshmen-6 (1 available),NA
+10636,ART,151,A,Beginning Drawing,4,E Carlos,W,1300,1700,,NA,NA,Carnegie Hall 201,10,16,Closed,Reserved Seats: students pursuing majors in art-5 (2 available); Reserved: FR/SO-5, MAJORS-5,NA
+10637,ART,151,B,Beginning Drawing,4,E Carlos,F,1300,1700,,NA,NA,Carnegie Hall 201,10,18,Closed,Reserved Seats: students pursuing majors in art-5 (4 available); Reserved: FR/SO-5, MAJORS-5,NA
+10640,ART,181,A,Beginning Sculpture,4,G Pond,R,1400,1700,,NA,NA,Dairy Sculpture Studio ,11,13,Closed,Sculpture Fee: $175,NA
+10641,ART,243,A,Intermediate Video Production,4,G Pond,W,1400,1700,,NA,NA,duPont Library G26,10,7,Available: 3,Prerequisite: ART 143; Instructor permission required,NA
+10690,ART,261,A,Intermediate Photography,4,P Malde,R,1400,1630,,NA,NA,Carnegie Hall 306,10,11,Closed,Prerequisite: ART 161; Studio Art Fee-Malde: $75,NA
+10638,ART,291,A,Intermediate Painting,4,E Carlos,R,1300,1700,,NA,NA,Carnegie Hall 203,10,4,Available: 6,Prerequisite: ART 191,NA
+10310,ART,342,A,Scene Design,4,D Backlund,TR,930,1045,R,1400,1700,Tennessee Williams Center ,9,4,Available: 5,Prerequisite: THTR 114,NA
+10642,ART,343,A,Advanced Video Production,4,G Pond,W,1400,1700,,NA,NA,duPont Library G26,10,1,Available: 9,Prerequisite: ART 143; Instructor permission required,NA
+10705,ART,361,A,Advanced Photography,4,P Malde,R,1400,1630,,NA,NA,Carnegie Hall 306,5,0,Available: 5,Prerequisite: ART 261; Studio Art Fee-Malde: $75,NA
+10639,ART,391,A,Advanced Painting,4,E Carlos,R,1300,1700,,NA,NA,Carnegie Hall 203,10,3,Available: 7,Prerequisite: ART 291,NA
+10644,ART,418,A,Junior Tutorial in Art-I,4,P Malde,T,1400,1630,,NA,NA,Carnegie Hall 306,25,2,Available: 23,Open only to students pursuing majors in art,NA
+10645,ART,420,A,Seminar in Creativity,4,P Malde,T,1400,1630,,NA,NA,Carnegie Hall 306,25,14,Available: 11,Open only to students pursuing majors in art,NA
+10389,ARTH,104,A,Survey of Western Art II,4,C Mansfield,MWF,800,850,,NA,NA,Carnegie Hall 306,25,26,Closed,Reserved Seats: returning freshmen-10 (none available),NA
+10390,ARTH,104,B,Survey of Western Art II,4,C Mansfield,MWF,1100,1150,,NA,NA,Carnegie Hall 306,25,27,Closed,Reserved Seats: returning freshmen-10 (3 available),NA
+10694,ARTH,207,A,The Arts of Asia,4,M Oba,MWF,1000,1050,,NA,NA,Carnegie Hall 302,24,22,Available: 2 Reserved,Reserved Seats: returning freshmen-4 (2 available),NA
+10386,ARTH,212,A,American Animation, 1910-1960,4,G Clark,TR,1230,1345,,NA,NA,Carnegie Hall 302,20,21,Closed,Reserved Seats: seniors-4 (none available), juniors-4 (none available), sophomores-4 (none available), returning freshmen-8 (2 available),NA
+10387,ARTH,212,B,American Animation, 1910-1960,4,G Clark,TR,1400,1515,,NA,NA,Carnegie Hall 302,20,21,Closed,Reserved Seats: seniors-4 (2 available), juniors-4 (none available), sophomores-4 (none available), returning freshmen-8 (6 available),NA
+10391,ARTH,340,A,American Art,4,M Brennecke,TR,930,1045,,NA,NA,Carnegie Hall 304,15,14,Available: 1,Prerequisites: ARTH 104 or HUMN 202,NA
+10392,ARTH,340,B,American Art,4,M Brennecke,TR,1100,1215,,NA,NA,Carnegie Hall 304,15,18,Closed,Prerequisites: ARTH 104 or HUMN 202,NA
+10388,ARTH,402,A,Senior Seminar,4,G Clark,M,1330,1600,,NA,NA,Carnegie Hall 304,12,4,Available: 8,Writing Intensive; Open only to seniors pursuing majors in art history; Prerequisites: ARTH 103 and ARTH 104,NA
+Asian Studies,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10694,ARTH,207,A,The Arts of Asia,4,M Oba,MWF,1000,1050,,NA,NA,Carnegie Hall 302,24,22,Available: 2 Reserved,Reserved Seats: returning freshmen-4 (2 available),NA
+10792,ASIA,110,A,Asian American Experience,4,W Leggett,TR,1300,1415,,NA,NA,Woods Laboratories 103,15,14,Available: 1,Writing Intensive,NA
+10722,ASIA,311,A,Modern China in Literature and Films: Memory, Identity, and Modern Narratives,4,J Xiao,TR,1100,1215,,NA,NA,duPont Library 217,25,3,Available: 22,,NA
+10796,ASIA,444,E,Independent Study,2 - 4,M Oba,TBA,NA,NA,,NA,NA,TBA,99,0,Available: 99,,NA
+10374,CHIN,103,A,Elementary Chinese I,4,J Xiao,MWF,900,950,T,1400,1450,duPont Library 217,20,4,Available: 16,,NA
+10375,CHIN,203,A,Intermediate Chinese,4,J Xiao,MWF,1400,1450,R,1400,1450,duPont Library 217,20,8,Available: 12,Prerequisite: CHIN 104,NA
+10328,ECON,310,A,Economic Development in the Third World,4,Y Mohiuddin,TR,930,1045,,NA,NA,Walsh-Ellett Hall 306,15,18,Closed,Prerequisite: ECON 101,NA
+10567,HIST,211,A,History of China and East Asia I,4,H Goldberg,TR,930,1045,,NA,NA,Walsh-Ellett Hall 308,22,25,Closed,,NA
+10580,HIST,375,A,British India,4,A Knoll,M,1400,1630,,NA,NA,Walsh-Ellett Hall 312,15,13,Available: 2,,NA
+10372,JAPN,103,A,Elementary Japanese I,4,M Oba,MWF,1300,1350,R,1300,1350,Guerry Hall 129,20,14,Available: 6,,NA
+10373,JAPN,203,A,Intermediate Japanese,4,M Oba,MWF,1200,1250,R,1400,1450,Guerry Hall 129,20,4,Available: 16,Prerequisite: JAPN 104,NA
+10476,MUSC,241,A,Listening to Asia,4,J Oba,TR,1230,1345,,NA,NA,St. Luke's 214,20,5,Available: 15,Prerequisites: MUSC 101 or MUSC 105 or ASIA 100,NA
+10630,RELG,262,A,Buddhism,4,S Brown,MW,1400,1515,,NA,NA,Walsh-Ellett Hall 208,18,19,Closed,,NA
+10334,THTR,226,A,Asian Theatre,4,D Backlund,T,1400,1700,,NA,NA,Tennessee Williams Center ,18,9,Available: 9,,NA
+Biology,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10393,BIOL,105,A,Biology and People,4,C Butler,MWF,800,850,,NA,NA,Woods Laboratories 113,24,21,Available: 3,Non-Lab Science,NA
+10394,BIOL,131,A,Evolution, Ecology and Biodiversity (Lab),0,D Haskell,MWF,900,950,T,1330,1630,Woods Laboratories 113,20,20,Closed,Lab Science,NA
+10395,BIOL,131,B,Evolution, Ecology and Biodiversity (Lab),0,C Butler,MWF,1000,1050,W,1330,1630,Woods Laboratories 121,20,17,Available: 3,Lab Science,NA
+10396,BIOL,131,C,Evolution, Ecology and Biodiversity (Lab),0,J Evans,MWF,1100,1150,R,1330,1630,Woods Laboratories 103,15,12,Available: 3,Lab Science; Writing Intensive,NA
+10397,BIOL,132,A,Cellular, Molecular and Physiological Biology (Lab),0,H Croom/N Berner,MWF,1100,1150,M,1330,1630,Woods Laboratories 113,20,20,Closed,Lab Science,NA
+10398,BIOL,132,B,Cellular, Molecular and Physiological Biology (Lab),0,H Croom/J Palisano,MWF,1100,1150,T,1330,1630,Woods Laboratories 113,20,16,Available: 4,Lab Science,NA
+10399,BIOL,203,A,Comparative Vertebrate Anatomy (Lab),4,N Berner,MWF,900,1050,,NA,NA,Woods Laboratories 128,16,11,Available: 5,Lab Science; Prerequisites: BIOL 131 or BIOL 132,NA
+10707,BIOL,213,A,Evolutionary Biology,4,D Haskell,TR,800,915,,NA,NA,Woods Laboratories 103,16,14,Available: 2,Non-Lab Science; Prerequisites: BIOL 131 and BIOL 132,NA
+10401,BIOL,221,A,Environmental Physiology of Plants (Lab),4,D McGrath,MWF,1100,1150,M,1330,1630,Woods Laboratories 128,16,12,Available: 4,Lab Science; Prerequisites: BIOL 131 (FORS 121 may be substituted for BIOL 131 with the permission of the instructor),NA
+10402,BIOL,301,A,Genetics,4,L Jones,TR,930,1045,,NA,NA,Woods Laboratories 103,24,17,Available: 7,Non-Lab Science; Open only to seniors,NA
+10403,BIOL,310,A,Plant Evolution and Systematics (Lab),4,J Evans,TR,1100,1215,T,1330,1630,Woods Laboratories G9,16,6,Available: 10,Lab Science; Prerequisites: One course in biology,NA
+10706,BIOL,321,A,Cellular Biology (Lab),4,H Croom,MWF,900,950,R,1330,1630,Woods Laboratories 103,16,2,Available: 14,Lab Science,NA
+10405,BIOL,330,A,Immunology (Lab),4,J Palisano,MWF,1000,1050,W,1330,1630,Woods Laboratories 103,16,11,Available: 5,Lab Science; Prerequisite: BIOL 132,NA
+Chemistry,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10406,CHEM,101,A,General Chemistry I (Lab),4,J Bordley,MWF,900,950,,NA,NA,Woods Laboratories BLACKMAN,36,25,Available: 11,Lab Science,NA
+10407,CHEM,101,B,General Chemistry I (Lab),4,D Miles,MWF,1000,1050,,NA,NA,Woods Laboratories BLACKMAN,36,27,Available: 9,Lab Science,NA
+10408,CHEM,101,L1,General Chemistry I (Lab),0,J Bordley,M,1330,1630,,NA,NA,Woods Laboratories 202,18,16,Available: 2,Lab Science,NA
+10409,CHEM,101,L2,General Chemistry I (Lab),0,D Miles,T,1330,1630,,NA,NA,Woods Laboratories 202,18,13,Available: 5,Lab Science,NA
+10410,CHEM,101,L3,General Chemistry I (Lab),0,C Fitz,W,1330,1630,,NA,NA,Woods Laboratories 202,18,10,Available: 8,Lab Science,NA
+10411,CHEM,101,L4,General Chemistry I (Lab),0,E Kirven,R,1330,1630,,NA,NA,Woods Laboratories 202,18,13,Available: 5,Lab Science,NA
+10412,CHEM,102,A,General Chemistry II (Lab),4,J Shibata/R Summers,MWF,900,950,M,1330,1630,Woods Laboratories 217,15,10,Available: 5,Lab Science; Prerequisite: CHEM 101,NA
+10413,CHEM,201,A,Organic Chemistry I (Lab),4,K Walsh,MWF,800,850,,NA,NA,Woods Laboratories 216,48,38,Available: 10,Lab Science; Prerequisite: CHEM 102,NA
+10414,CHEM,201,L1,Organic Chemistry I (Lab),0,E Kirven,M,1330,1630,,NA,NA,Woods Laboratories 205,16,13,Available: 3,Lab Science,NA
+10415,CHEM,201,L2,Organic Chemistry I (Lab),0,K Walsh,T,1330,1630,,NA,NA,Woods Laboratories 205,16,14,Available: 2,Lab Science,NA
+10416,CHEM,201,L3,Organic Chemistry I (Lab),0,K Walsh,W,1330,1630,,NA,NA,Woods Laboratories 205,16,12,Available: 4,Lab Science,NA
+10418,CHEM,307,A,Mechanistic Biochemistry (Lab),4,R Summers,MWF,1100,1150,W,1330,1630,Woods Laboratories 216,15,5,Available: 10,Lab Science; Prerequisites: BIOL 101 and BIOL 103 and BIOL 105 and BIOL 131 and BIOL 132; Pre- or Corequisites: CHEM 101 and CHEM 102 and CHEM 201 and CHEM 202 and CHEM 207,NA
+10417,CHEM,352,A,Thermodynamics and Kinetics (Lab),4,J Shibata,TR,800,915,R,1330,1630,Woods Laboratories 216,20,9,Available: 11,Lab Science; Prerequisites: CHEM 102 and MATH 102; Pre- or Corequisite: PHYS 102,NA
+10422,CHEM,405,A,Advanced Topics in Organic Chemistry,4,E Kirven,TR,1100,1215,,NA,NA,Woods Laboratories 217,15,4,Available: 11,Non-Lab Science; Prerequisite: CHEM 202,NA
+10777,CHEM,428,A,Advanced Topics in Analytical Chemistry,4,D Miles,TR,930,1045,,NA,NA,Woods Laboratories 217,15,1,Available: 14,Non-Lab Science; Pre- or Corequisite: CHEM 311 and CHEM 352,NA
+Classics,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10647,CLST,110,A,Myth and Monuments,4,D Huber,MWF,900,950,,NA,NA,St. Luke's 112,14,14,Closed,Writing Intensive,NA
+10648,GREK,103,A,Elementary Greek I,4,J Bruss,MWF,900,950,R,1300,1350,St. Luke's 104,20,3,Available: 17,,NA
+10649,GREK,203,A,Intermediate Greek,4,D Huber,MWF,1200,1250,R,1215,1300,St. Luke's 104,20,6,Available: 14,Prerequisite: GREK 104,NA
+10710,GREK,304,A,Greek Historians II,4,J Bruss,TBA,NA,NA,,NA,NA,TBA,20,2,Available: 18,Prerequisite: GREK 301,NA
+10651,LATN,103,A,Elementary Latin I,4,C McDonough,MWF,1100,1150,T,1300,1350,St. Luke's 112,30,23,Available: 7,,NA
+10652,LATN,104,A,Elementary Latin II,4,D Seiters,MWF,1100,1150,R,1300,1350,Walsh-Ellett Hall 312,25,12,Available: 13,Prerequisite: LATN 103,NA
+10653,LATN,203,A,Intermediate Latin,4,D Seiters,MWF,800,850,T,1300,1350,St. Luke's 202,25,21,Available: 4,Prerequisite: LATN 104,NA
+10654,LATN,301,A,Introduction to Latin Epic,4,J Bruss,MWF,1000,1050,,NA,NA,St. Luke's 204,25,17,Available: 8,Prerequisite: LATN 203,NA
+10655,LATN,305,A,Elegiac Poets,4,D Seiters,TR,1100,1215,,NA,NA,St. Luke's 202,20,11,Available: 9,Prerequisite: LATN 301,NA
+10656,LATN,409,A,Caesar,4,C McDonough,TR,930,1045,,NA,NA,St. Luke's 104,20,12,Available: 8,Prerequisite: LATN 301,NA
+Collegiate Courses,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10350,NOND,101,A,The Struggle between Good and Evil: Fairy Tales in Literature and Music,4,J Davidheiser/S Shrader,TR,1100,1215,,NA,NA,St. Luke's 214,14,14,Closed,Writing Intensive; Open only to freshmen,NA
+10420,NOND,102,A,The Science of Color,4,J Bordley,TR,930,1045,,NA,NA,Woods Laboratories 227,15,14,Available: 1,Non-Lab Science; Writing Intensive; Open only to freshmen; Prerequisites: MATH 101 and MATH 102 and MATH 204 and MATH 207 and MATH 210 and ENGL 101 and BIOL 300 and PHYS 200 and MUSC 101 and MUSC 102,NA
+10421,NOND,401,A,Literary Criticism,4,D Richardson,M,1400,1630,,NA,NA,Walsh-Ellett Hall 202,12,9,Available: 3,Writing Intensive,NA
+Computer Science,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10779,CSCI,101,A,Introduction to Computer Science,4,S Carl,MWF,900,950,,NA,NA,Woods Laboratories 136,15,4,Available: 11,,NA
+10704,CSCI,105,A,,4,L Dale,TR,1100,1215,,NA,NA,Woods Laboratories 136,14,9,Available: 5,Writing Intensive; Open only to freshmen,NA
+10684,CSCI,157,A,Introduction to Programming,4,W Haight/S Carl,TR,930,1045,R,1300,1600,Woods Laboratories 136,15,11,Available: 4,,NA
+10685,CSCI,257,A,Data Structures,4,S Carl,MWF,800,850,,NA,NA,Woods Laboratories 136,15,2,Available: 13,Prerequisite: CSCI 157,NA
+10686,CSCI,270,A,Computer Organization,4,L Dale,MWF,1100,1150,,NA,NA,Woods Laboratories 136,25,4,Available: 21,Prerequisite: CSCI 157,NA
+10687,CSCI,320,A,Analysis of Algorithms,4,L Dale,MWF,1000,1050,,NA,NA,Woods Laboratories 136,25,5,Available: 20,Prerequisites: CSCI 257 and MATH 215,NA
+10689,CSCI,411,A,Computer Networks and Architecture,4,L Lankewicz,TR,930,1045,,NA,NA,Woods Laboratories 119,25,2,Available: 23,Prerequisite: CSCI 270,NA
+Earth & Environmental Systems,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10351,FORS,121,A,Introduction to Forestry (Lab),4,D DeBell,MWF,1000,1050,W,1330,1630,Snowden Hall 211,24,19,Available: 5,Lab Science; Reserved Seats: returning freshmen-6 (2 available),NA
+10352,FORS,121,B,Introduction to Forestry (Lab),4,K Kuers,TR,930,1045,T,1330,1630,Snowden Hall 211,24,17,Available: 7,Lab Science; Reserved Seats: returning freshmen-6 (3 available),NA
+10353,FORS,211,A,Dendrology (Lab),4,K Kuers,MWF,900,950,M,1330,1630,Snowden Hall 211,18,14,Available: 4,Lab Science; Open only to sophomores, juniors, and seniors,NA
+10354,FORS,212,A,Forestry in the Developing World,4,K Smith,MWF,800,850,,NA,NA,Snowden Hall 211,18,21,Closed,Non-Lab Science,NA
+10355,FORS,240,A,Special Topics in Forestry: Forest Health,4,D DeBell,TR,1100,1215,,NA,NA,Snowden Hall 211,18,20,Closed,,NA
+10356,FORS,303,A,Soils (Lab),4,S Torreano,MWF,800,850,T,1330,1630,Snowden Hall 102,12,3,Available: 9,Lab Science; Prerequisites: GEOL 121 or FORS 121 or BIOL 131,NA
+10357,FORS,319,A,Natural Resource Management and Decisions,4,S Torreano,TR,930,1045,,NA,NA,Snowden Hall 209,15,18,Closed,Prerequisites: ECON 101 and FORS 121,NA
+10358,FORS,332,A,Junior Presentations,2,B Potter and others,MWF,1100,1150,,NA,NA,Snowden Hall 209,30,17,Available: 13,Open only to juniors pursuing majors in forestry, geology, natural resources, or natural resources and the environment,NA
+10359,GEOL,121,A,Physical Geology (Lab),4,B Potter,MWF,800,850,T,1330,1630,Snowden Hall 209,20,23,Closed,Lab Science; Open only to freshmen,NA
+10360,GEOL,121,B,Physical Geology (Lab),4,S Shaver,TR,1100,1215,R,1330,1630,Snowden Hall 102,20,19,Available: 1,Lab Science,NA
+10361,GEOL,225,A,Sedimentology (Lab),4,B Potter,MWF,1000,1050,W,1330,1630,Snowden Hall 102,24,14,Available: 10,Lab Science; Prerequisite: GEOL 121,NA
+10362,GEOL,230,A,Paleoecology,4,M Knoll,TR,1100,1215,,NA,NA,Snowden Hall 209,24,11,Available: 13,Non-Lab Science; Prerequisite: GEOL 121,NA
+10363,GEOL,235,A,Earth Systems and Climate Change,4,M Knoll,TR,800,915,,NA,NA,Snowden Hall 209,24,26,Closed,Non-Lab Science; Prerequisite: GEOL 121,NA
+10364,GEOL,332,A,Junior Presentations,2,B Potter and others,MWF,1100,1150,,NA,NA,Snowden Hall 209,30,17,Available: 13,Open only to juniors pursuing majors in forestry, geology, natural resources, or natural resources and the environment,NA
+Economics,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10314,ECON,101,A,Introduction to Economics,4,Y Mohiuddin,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 304,20,19,Available: 1,,NA
+10315,ECON,101,B,Introduction to Economics,4,B Ford,TR,930,1045,,NA,NA,Carnegie Hall 306,20,10,Available: 10,,NA
+10316,ECON,101,C,Introduction to Economics,4,J Ingles,MWF,900,950,,NA,NA,Walsh-Ellett Hall 310,20,12,Available: 8,,NA
+10317,ECON,101,D,Introduction to Economics,4,J Ingles,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 310,20,10,Available: 10,,NA
+10318,ECON,101,E,Introduction to Economics,4,J Bradbury,TR,800,915,,NA,NA,Walsh-Ellett Hall 304,20,17,Available: 3,,NA
+10319,ECON,101,F,Introduction to Economics,4,J Bradbury,TR,930,1045,,NA,NA,Walsh-Ellett Hall 304,20,19,Available: 1,,NA
+10320,ECON,101,G,Introduction to Economics,4,D Williams,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 210,20,20,Closed,,NA
+10778,ECON,110,A,Women, Family, and Work in the Muslim World,4,Y Mohiuddin,R,1400,1630,,NA,NA,Walsh-Ellett Hall 202,14,12,Available: 2,Writing Intensive,NA
+10321,ECON,215,A,Fundamentals of Financial Accounting,4,C Heinemann,MW,1400,1530,,NA,NA,Walsh-Ellett Hall 308,15,13,Available: 2,Prerequisite: ECON 101,NA
+10322,ECON,215,B,Fundamentals of Financial Accounting,4,C Heinemann,MW,1600,1730,,NA,NA,Walsh-Ellett Hall 308,15,12,Available: 3,Prerequisite: ECON 101,NA
+10329,ECON,302,A,Economics of Financial Markets,4,D Williams,MW,1100,1215,,NA,NA,St. Luke's 202,15,22,Closed,Prerequisite: ECON 101,NA
+10325,ECON,304,A,Labor Economics,4,D Williams,TR,930,1045,,NA,NA,Walsh-Ellett Hall 210,15,11,Available: 4,Prerequisite: ECON 101,NA
+10323,ECON,305,A,Microeconomic Theory,4,R Gottfried,TR,930,1045,,NA,NA,Walsh-Ellett Hall 310,15,14,Available: 1,Prerequisite: ECON 101,NA
+10324,ECON,305,B,Microeconomic Theory,4,R Gottfried,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 310,15,18,Closed,Prerequisite: ECON 101,NA
+10328,ECON,310,A,Economic Development in the Third World,4,Y Mohiuddin,TR,930,1045,,NA,NA,Walsh-Ellett Hall 306,15,18,Closed,Prerequisite: ECON 101,NA
+10326,ECON,335,A,Environmental Economics,4,R Gottfried,W,1300,1530,,NA,NA,Walsh-Ellett Hall 312,15,16,Closed,Prerequisite: ECON 101,NA
+10330,ECON,337,A,International Economics,4,S Ford,MT,1300,1415,,NA,NA,Walsh-Ellett Hall 310,20,20,Closed,Prerequisite: ECON 101,NA
+10331,ECON,340,A,Introduction to Mathematical Economics,4,S Ford,MT,1500,1615,,NA,NA,duPont Library SUMMIT,15,7,Available: 8,Prerequisites: ECON 101 and (ECON 201 or STAT 204),NA
+10716,ECON,410,A,Research Seminar,4,J Bradbury,MW,1245,1359,,NA,NA,Walsh-Ellett Hall 306,12,11,Available: 1,Open only to seniors pursuing majors in economics; Prerequisites: ECON 305 and ECON 306 and ECON 333 and (ECON 201 or STAT 204),NA
+10367,ECON,411,A,Literature Seminar in Economics,4,J Ingles,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 312,12,8,Available: 4,Writing Intensive; Open only to seniors pursuing majors in economics; Prerequisites: ECON 305 and ECON 306 and (ECON 201 or STAT 204),NA
+Education,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10791,EDUC,161,A,Introduction to Educational Psychology,4,M Wallace,TR,1100,1215,,NA,NA,Woods Laboratories 341,15,15,Closed,Writing Intensive,NA
+10369,EDUC,163,A,Exceptionality in the Classroom,2,E Meliza,TR,800,915,,NA,NA,Woods Laboratories 340,20,24,Closed,Course ends at midsemester,NA
+10370,EDUC,164,A,Introduction to Educational Assessment,2,E Meliza,TR,800,915,,NA,NA,Woods Laboratories 340,20,23,Closed,Course begins at midsemester,NA
+10368,EDUC,204,A,Anthropology of Education,4,M Wallace,M,1300,1530,,NA,NA,Woods Laboratories 340,12,12,Closed,Writing Intensive; Instructor permission required; Addl 2 hrs per week in local school TBA,NA
+10484,EDUC,220,A,Methods of Teaching Writing,1,B Clarkson,R,1240,1330,,NA,NA,St. Luke's 204,20,5,Available: 15,,NA
+10371,EDUC,341,A,Methods and Materials of Teaching,4,E Meliza,T,1330,1600,,NA,NA,duPont Library G9D,10,3,Available: 7,Prerequisites: One course in education; Addl observations in local schools TBA,NA
+English,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10518,ENGL,101,A,Literature and Composition,4,J Reishman,MWF,800,850,,NA,NA,Guerry Hall 1,15,15,Closed,Writing Intensive,NA
+10519,ENGL,101,B,Literature and Composition,4,B Benson,MWF,900,950,,NA,NA,Walsh-Ellett Hall 206,15,13,Available: 2,Writing Intensive,NA
+10520,ENGL,101,C,Literature and Composition,4,V Craighill,MWF,900,950,,NA,NA,Carnegie Hall 304,15,12,Available: 3,Writing Intensive,NA
+10521,ENGL,101,D,Literature and Composition,4,J Michael,MWF,1000,1050,,NA,NA,St. Luke's 102,15,15,Closed,Writing Intensive,NA
+10522,ENGL,101,E,Literature and Composition,4,J Grammer,MWF,1000,1050,,NA,NA,St. Luke's 202,15,15,Closed,Writing Intensive,NA
+10523,ENGL,101,F,Literature and Composition,4,V Craighill,MWF,1100,1150,,NA,NA,St. Luke's 100,15,13,Available: 2,Writing Intensive,NA
+10524,ENGL,101,G,Literature and Composition,4,B Clarkson,MWF,1100,1150,,NA,NA,St. Luke's 204,15,16,Closed,Writing Intensive,NA
+10525,ENGL,101,H,Literature and Composition,4,K Malone,MWF,1200,1250,,NA,NA,St. Luke's 204,15,15,Closed,Writing Intensive,NA
+10527,ENGL,101,J,Literature and Composition,4,B Engel,TR,800,915,,NA,NA,Carnegie Hall 302,15,13,Available: 2,Writing Intensive,NA
+10528,ENGL,101,K,Literature and Composition,4,E Grammer,TR,800,915,,NA,NA,St. Luke's 202,15,8,Available: 7,Writing Intensive,NA
+10529,ENGL,101,L,Literature and Composition,4,D Richardson,TR,930,1045,,NA,NA,Walsh-Ellett Hall 202,15,16,Closed,Writing Intensive,NA
+10530,ENGL,101,M,Literature and Composition,4,E Grammer,TR,930,1045,,NA,NA,St. Luke's 202,15,13,Available: 2,Writing Intensive,NA
+10531,ENGL,101,N,Literature and Composition,4,W Prunty,TR,1100,1215,,NA,NA,St. Luke's 100,15,15,Closed,Writing Intensive,NA
+10532,ENGL,101,O,Literature and Composition,4,B Engel,TR,1100,1215,,NA,NA,Carnegie Hall 302,15,14,Available: 1,Writing Intensive,NA
+10533,ENGL,101,P,Literature and Composition,4,T Carlson,TR,1400,1515,,NA,NA,duPont Library 215,15,14,Available: 1,Writing Intensive,NA
+10534,ENGL,200,A,Representative Masterpieces,4,B Benson,TR,930,1045,,NA,NA,Walsh-Ellett Hall 206,20,21,Closed,Prerequisites: ENGL 101 or (HUMN 101 and HUMN 102),NA
+10535,ENGL,200,B,Representative Masterpieces,4,T Carlson,TR,1100,1215,,NA,NA,duPont Library 215,15,11,Available: 4,Prerequisites: ENGL 101 or (HUMN 101 and HUMN 102),NA
+10553,ENGL,210,A,Studies in Poetry,4,J Michael,MWF,900,950,,NA,NA,St. Luke's ,15,7,Available: 8,Writing Intensive; Prerequisites: ENGL 101 or (HUMN 101 and HUMN 102),NA
+10536,ENGL,211,A,Studies in Fiction,4,V Craighill,MWF,1200,1250,,NA,NA,St. Luke's 112,20,23,Closed,Prerequisites: ENGL 101 or (HUMN 101 and HUMN 102),NA
+10537,ENGL,352,A,Chaucer,4,B Benson,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 206,25,25,Closed,,NA
+10708,ENGL,353,A,English Drama to 1642,4,B Engel,TR,930,1045,,NA,NA,Carnegie Hall 302,20,13,Available: 7,,NA
+10538,ENGL,357,A,Shakespeare I,4,P Macfie,MWF,900,950,,NA,NA,Walsh-Ellett Hall 308,20,20,Closed,,NA
+10539,ENGL,357,B,Shakespeare I,4,D Richardson,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 202,20,21,Closed,,NA
+10540,ENGL,357,C,Shakespeare I,4,K Malone,TR,930,1045,,NA,NA,St. Luke's 210,20,22,Closed,Waitlist - contact instructor,NA
+10541,ENGL,359,A,Renaissance Literature I,4,P Macfie,MWF,1100,1150,,NA,NA,Carnegie Hall 302,20,19,Available: 1,,NA
+10542,ENGL,367,A,Origins and Development of the English Novel I,4,J Reishman,TR,930,1045,,NA,NA,Guerry Hall 1,15,11,Available: 4,Writing Intensive,NA
+10543,ENGL,371,A,Blake,4,J Michael,T,1400,1630,,NA,NA,St. Luke's 204,20,18,Available: 2,,NA
+10544,ENGL,373,A,Victorian Prose and Poetry,4,J Reishman,MWF,1000,1050,,NA,NA,Guerry Hall 1,30,21,Available: 9,,NA
+10545,ENGL,377,A,American Literature I,4,J Grammer,MWF,900,950,,NA,NA,St. Luke's 202,25,16,Available: 9,,NA
+10547,ENGL,391,A,Modern American Poetry,4,B Clarkson,MWF,900,950,,NA,NA,St. Luke's 204,25,26,Closed,,NA
+10548,ENGL,393,A,Faulkner,4,T Carlson,W,1400,1630,,NA,NA,duPont Library 215,15,13,Available: 2,Writing Intensive,NA
+10549,ENGL,398,A,Contemporary American Poetry,4,W Prunty,T,1400,1630,,NA,NA,St. Luke's 100,20,17,Available: 3,,NA
+10550,ENGL,409,A,Creative Writing: Poetry,4,P Stephens,R,1400,1630,,NA,NA,St. Luke's 100,15,9,Available: 6,Writing Intensive,NA
+10551,ENGL,410,A,Creative Writing: Fiction,4,K Nelson,W,1400,1630,,NA,NA,St. Luke's 100,15,14,Available: 1,Writing Intensive,NA
+10552,ENGL,411,A,Creative Writing: Playwriting,4,D Foote,M,1400,1630,,NA,NA,St. Luke's 100,15,2,Available: 13,Writing Intensive,NA
+Environmental Studies,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10296,ENST,100,A,Walking the Land,4,B Potter,M,1300,1700,,NA,NA,Van Ness Hall 121,14,14,Closed,Writing Intensive; Open only to freshmen,NA
+10297,ENST,200,A,Introduction to Environmental Studies,4,D McGrath,TR,1100,1215,,NA,NA,Woods Laboratories 103,16,21,Closed,,NA
+French,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10436,FREN,103,A,Elementary French I,4,G Poe,MWF,900,950,T,1300,1350,Guerry Hall 205,20,18,Available: 2,,NA
+10437,FREN,103,B,Elementary French I,4,G Poe,MWF,1000,1050,T,1400,1450,Guerry Hall 205,20,19,Available: 1,,NA
+10438,FREN,104,A,Elementary French II,4,K Mills,MWF,800,850,T,1300,1350,Guerry Hall 216,15,11,Available: 4,Prerequisite: FREN 103,NA
+10439,FREN,104,B,Elementary French II,4,K Mills,MWF,900,950,T,1400,1450,Guerry Hall 216,15,14,Available: 1,Prerequisite: FREN 103,NA
+10440,FREN,203,A,Intermediate French,4,D Rung,MWF,900,950,T,1300,1350,Guerry Hall 1,20,14,Available: 6,Prerequisite: FREN 104,NA
+10441,FREN,203,B,Intermediate French,4,D Rung,MWF,1000,1050,T,1400,1450,Guerry Hall 129,20,19,Available: 1,Prerequisite: FREN 104,NA
+10442,FREN,300,A,Advanced French,4,A Glacet,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 206,20,22,Closed,Prerequisite: FREN 203,NA
+10443,FREN,300,B,Advanced French,4,L Ramsey,MWF,1100,1150,,NA,NA,Guerry Hall 205,20,10,Available: 10,Prerequisite: FREN 203,NA
+10444,FREN,311,A,Composition,4,A Glacet,MW,1100,1215,,NA,NA,duPont Library G10,15,8,Available: 7,Writing Intensive; Prerequisite: FREN 300,NA
+10445,FREN,312,A,Conversation,4,L Ramsey,MWF,1300,1350,,NA,NA,Guerry Hall 216,15,12,Available: 3,Prerequisite: FREN 300,NA
+10446,FREN,314,A,Introduction to Literature of the French-Speaking World,4,D Rung,TR,1100,1215,,NA,NA,Guerry Hall 216,15,6,Available: 9,Prerequisite: FREN 300,NA
+10447,FREN,322,A,Explication de Textes,4,K Mills,MF,1100,1215,,NA,NA,Carnegie Hall 304,15,6,Available: 9,Prerequisites: one course in French numbered 311 or higher,NA
+10448,FREN,403,A,The Eighteenth Century,4,G Poe,TR,930,1045,,NA,NA,Guerry Hall 216,15,7,Available: 8,Prerequisites: FREN 314 and one other French course numbered 311 or higher,NA
+10702,FREN,417,A,Topics in Francophone Studies,4,A Glacet,MW,1300,1415,,NA,NA,St. Luke's 204,15,5,Available: 10,Prerequisites: one course in French numbered 311 or higher,NA
+German,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10345,GRMN,103,A,Elementary German I,4,J Davidheiser,MWF,1000,1050,R,1300,1350,Snowden Hall 209,25,21,Available: 4,,NA
+10346,GRMN,203,A,Intermediate German,4,R Zachau,MWF,900,950,T,1300,1350,Snowden Hall 209,25,18,Available: 7,Prerequisite: GRMN 104,NA
+10347,GRMN,301,A,Advanced Readings I,4,R Zachau,MWF,1100,1150,,NA,NA,Snowden Hall 208,20,11,Available: 9,,NA
+10348,GRMN,305,A,Brecht and the Modern Theatre,4,R Zachau,TR,930,1045,,NA,NA,Snowden Hall 208,20,15,Available: 5,,NA
+10349,GRMN,410,A,Goethe Seminar,4,J Davidheiser,MW,1300,1415,,NA,NA,Snowden Hall 208,20,7,Available: 13,Writing Intensive; Prerequisites: One course in German numbered 300 or higher,NA
+History,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10554,HIST,100,A,Topics in Western Civilization: World in the 20th Century,4,H Goldberg,TR,800,915,,NA,NA,Walsh-Ellett Hall 308,23,24,Closed,Open only to freshmen,NA
+10555,HIST,100,B,Topics in Western Civilization: World in the 20th Century,4,H Goldberg,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 308,23,25,Closed,Open only to freshmen,NA
+10556,HIST,100,C,Topics in Western Civilization: The Environment in History,4,R Levine,MWF,900,950,,NA,NA,Walsh-Ellett Hall 304,20,20,Closed,,NA
+10557,HIST,100,D,Topics in Western Civilization: Discovering America,4,W Register,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 204,15,12,Available: 3,Writing Intensive; Open only to freshmen,NA
+10558,HIST,100,E,Topics in Western Civilization: Problems of Democracy,4,B Patterson,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 304,15,15,Closed,Writing Intensive,NA
+10559,HIST,100,F,Topics in Western Civilization: Civil Disobedience from Ancient Greece to Modern Africa,4,H Roberson,TR,800,915,,NA,NA,Walsh-Ellett Hall 202,20,20,Closed,,NA
+10560,HIST,100,G,Topics in Western Civilization: Consumer Culture and Its Discontents, 17th-20th Centuries,4,A Mansker,MWF,900,950,,NA,NA,Walsh-Ellett Hall 210,20,17,Available: 3,,NA
+10561,HIST,100,H,Topics in Western Civilization: Modern Times,4,J Willis,MWF,1000,1050,,NA,NA,Woods Laboratories 340,20,20,Closed,Open only to freshmen,NA
+10562,HIST,100,I,Topics in Western Civilization: Modern Times,4,J Willis,MWF,1100,1150,,NA,NA,Woods Laboratories 342,20,17,Available: 3,Open only to freshmen,NA
+10563,HIST,100,J,Topics in Western Civilization: Freedom and Slavery,4,C Israel,MWF,900,950,,NA,NA,Walsh-Ellett Hall 306,20,14,Available: 6,Open only to freshmen,NA
+10564,HIST,100,K,Topics in Western Civilization: Age of Discovery,4,C McEvoy,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 206,20,20,Closed,,NA
+10565,HIST,100,L,Topics in Western Civilization: Twentieth-Century Europe,4,A Knoll,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 306,15,14,Available: 1,Writing Intensive; Open only to freshmen,NA
+10568,HIST,201,A,History of the United States I,4,C Israel,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 306,25,27,Closed,,NA
+10566,HIST,205,A,History of England I,4,C Perry,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 302,26,24,Available: 2,,NA
+10567,HIST,211,A,History of China and East Asia I,4,H Goldberg,TR,930,1045,,NA,NA,Walsh-Ellett Hall 308,22,25,Closed,,NA
+10582,HIST,220,A,Modern Africa 1880-Present,4,R Levine,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 304,20,16,Available: 4,,NA
+10709,HIST,224,A,Latin American History Since 1826,4,C McEvoy,TR,1400,1515,,NA,NA,Walsh-Ellett Hall 206,22,15,Available: 7,,NA
+10569,HIST,232,A,African-American History since 1865,4,H Roberson,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 202,20,17,Available: 3,,NA
+10570,HIST,238,A,Women in U.S. History, 1870 to the Present,4,J Berebitsky,TR,930,1045,,NA,NA,St. Luke's 102,22,20,Available: 2,,NA
+10572,HIST,295,A,Modern Warfare from the U. S. Civil War to the Present,4,A Knoll,TR,930,1045,,NA,NA,Walsh-Ellett Hall 312,15,14,Available: 1,Writing Intensive,NA
+10695,HIST,313,A,Family, Gender, and Sexuality in Early Modern Europe,4,A Creasman,M,1330,1600,,NA,NA,Woods Laboratories 103,15,9,Available: 6,,NA
+10696,HIST,314,A,Law and Social Discipline, 1400-1800,4,A Creasman,W,1330,1600,,NA,NA,Woods Laboratories 103,12,11,Available: 1,,NA
+10574,HIST,317,A,African-American Intellectual History,4,H Roberson,M,1400,1630,,NA,NA,Walsh-Ellett Hall 204,15,13,Available: 2,,NA
+10575,HIST,333,A,Topics in American History: Colonial North America,4,C Israel,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 302,15,15,Closed,,NA
+10583,HIST,344,A,Twentieth-Century Britain,4,C Perry,R,1400,1630,,NA,NA,Walsh-Ellett Hall 302,15,13,Available: 2,,NA
+10691,HIST,349,A,American Women,4,J Berebitsky,W,1400,1630,,NA,NA,Walsh-Ellett Hall 306,15,16,Closed,,NA
+10576,HIST,352,A,Junior Tutorial,4,C Perry,W,1400,1530,,NA,NA,Walsh-Ellett Hall 302,12,10,Available: 2,Writing Intensive,NA
+10577,HIST,352,B,Junior Tutorial,4,S Ridyard,R,1400,1530,,NA,NA,Walsh-Ellett Hall 312,12,9,Available: 3,Writing Intensive,NA
+10581,HIST,360,A,Latin American Topics: Intellectuals and Politics in Latin America,4,C McEvoy,M,1400,1630,,NA,NA,Walsh-Ellett Hall 206,15,8,Available: 7,,NA
+10578,HIST,368,A,Saints and Society in Late Antiquity and the Middle Ages,4,S Ridyard,TR,930,1045,,NA,NA,duPont Library 217,15,12,Available: 3,,NA
+10579,HIST,371,A,Tudor England 1485-1603,4,B Patterson,T,1330,1600,,NA,NA,Walsh-Ellett Hall 312,15,8,Available: 7,,NA
+10580,HIST,375,A,British India,4,A Knoll,M,1400,1630,,NA,NA,Walsh-Ellett Hall 312,15,13,Available: 2,,NA
+10698,HIST,380,A,Crimes and Scandals in the Historical Imagination, 18th,4,A Mansker,T,1400,1630,,NA,NA,Walsh-Ellett Hall 308,15,16,Closed,,NA
+10699,HIST,385,A,Missionaries, Mullahs, and Marabouts:  African Encounters with Christianity and Islam,4,R Levine,T,1300,1530,,NA,NA,Walsh-Ellett Hall 208,15,4,Available: 11,,NA
+10697,HIST,389,A,European Cultural and Intellectual History, 1750-1890,4,A Mansker,TR,1100,1215,,NA,NA,Woods Laboratories 113,20,15,Available: 5,,NA
+10573,HIST,394,A,Reconstructing the South,4,J Willis,TR,1100,1215,,NA,NA,Woods Laboratories 238,15,14,Available: 1,Writing Intensive,NA
+10713,HIST,440,A,Honors Seminar,4,W Register,F,1300,1530,,NA,NA,Walsh-Ellett Hall 302,15,14,Available: 1,,NA
+Humanities,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10335,HUMN,101,A,Tradition and Criticism in Western Culture--The Ancient World,4,D Huber,MWF,1000,1050,,NA,NA,St. Luke's 214,79,16,Available: 63,Writing Intensive,NA
+10336,HUMN,101,B,Tradition and Criticism in Western Culture--The Ancient World,4,M Brennecke,MWF,1000,1050,,NA,NA,Carnegie Hall 304,15,14,Available: 1,Writing Intensive,NA
+10337,HUMN,101,C,Tradition and Criticism in Western Culture--The Ancient World,4,C McDonough,MWF,1000,1050,,NA,NA,St. Luke's 100,15,15,Closed,Writing Intensive,NA
+10338,HUMN,101,D,Tradition and Criticism in Western Culture--The Ancient World,4,G McKeen,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 312,15,16,Closed,Writing Intensive,NA
+10339,HUMN,101,E,Tradition and Criticism in Western Culture--The Ancient World,4,J Peters,MWF,1000,1050,,NA,NA,St. Luke's 210,15,15,Closed,Writing Intensive,NA
+10340,HUMN,201,A,Tradition and Criticism in Western Culture--The Early Modern World,4,S Miller,MWF,900,950,,NA,NA,St. Luke's 214,15,14,Available: 1,Writing Intensive; Prerequisite: HUMN 102,NA
+10341,HUMN,201,B,Tradition and Criticism in Western Culture--The Early Modern World,4,K Malone,MWF,900,950,,NA,NA,Woods Laboratories 340,15,14,Available: 1,Writing Intensive,NA
+10342,HUMN,201,C,Tradition and Criticism in Western Culture--The Early Modern World,4,C Mansfield,MWF,900,950,,NA,NA,Carnegie Hall 302,15,13,Available: 2,Writing Intensive,NA
+10343,HUMN,201,D,Tradition and Criticism in Western Culture--The Early Modern World,4,A Creasman,MWF,900,950,,NA,NA,Walsh-Ellett Hall 204,15,14,Available: 1,Writing Intensive,NA
+10344,HUMN,201,E,Tradition and Criticism in Western Culture--The Early Modern World,4,L Ramsey,MWF,900,950,,NA,NA,Walsh-Ellett Hall 312,15,12,Available: 3,Writing Intensive,NA
+International & Global Studies,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10711,ANTH,305,A,Cultures of Latin America,4,D Murdock,MWF,1000,1050,,NA,NA,Woods Laboratories 342,15,16,Closed,,NA
+10328,ECON,310,A,Economic Development in the Third World,4,Y Mohiuddin,TR,930,1045,,NA,NA,Walsh-Ellett Hall 306,15,18,Closed,Prerequisite: ECON 101,NA
+10326,ECON,335,A,Environmental Economics,4,R Gottfried,W,1300,1530,,NA,NA,Walsh-Ellett Hall 312,15,16,Closed,Prerequisite: ECON 101,NA
+10446,FREN,314,A,Introduction to Literature of the French-Speaking World,4,D Rung,TR,1100,1215,,NA,NA,Guerry Hall 216,15,6,Available: 9,Prerequisite: FREN 300,NA
+10702,FREN,417,A,Topics in Francophone Studies,4,A Glacet,MW,1300,1415,,NA,NA,St. Luke's 204,15,5,Available: 10,Prerequisites: one course in French numbered 311 or higher,NA
+10702,FREN,417,A,Topics in Francophone Studies,4,A Glacet,MW,1300,1415,,NA,NA,St. Luke's 204,15,5,Available: 10,Prerequisites: one course in French numbered 311 or higher,NA
+10582,HIST,220,A,Modern Africa 1880-Present,4,R Levine,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 304,20,16,Available: 4,,NA
+10582,HIST,220,A,Modern Africa 1880-Present,4,R Levine,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 304,20,16,Available: 4,,NA
+10709,HIST,224,A,Latin American History Since 1826,4,C McEvoy,TR,1400,1515,,NA,NA,Walsh-Ellett Hall 206,22,15,Available: 7,,NA
+10581,HIST,360,A,Latin American Topics: Intellectuals and Politics in Latin America,4,C McEvoy,M,1400,1630,,NA,NA,Walsh-Ellett Hall 206,15,8,Available: 7,,NA
+10699,HIST,385,A,Missionaries, Mullahs, and Marabouts:  African Encounters with Christianity and Islam,4,R Levine,T,1300,1530,,NA,NA,Walsh-Ellett Hall 208,15,4,Available: 11,,NA
+10697,HIST,389,A,European Cultural and Intellectual History, 1750-1890,4,A Mansker,TR,1100,1215,,NA,NA,Woods Laboratories 113,20,15,Available: 5,,NA
+10616,POLS,227,A,Africa in World Politics,4,E Dunn,MW,1100,1215,,NA,NA,Walsh-Ellett Hall 204,25,9,Available: 16,,NA
+10616,POLS,227,A,Africa in World Politics,4,E Dunn,MW,1100,1215,,NA,NA,Walsh-Ellett Hall 204,25,9,Available: 16,,NA
+10615,POLS,230,A,Politics in Nigeria and South Africa,4,E Dunn,TR,930,1045,,NA,NA,St. Luke's 100,25,4,Available: 21,,NA
+10609,POLS,333,A,Human Rights,4,S Swimelar,W,1500,1730,,NA,NA,St. Luke's 204,15,12,Available: 3,Writing Intensive,NA
+10609,POLS,333,A,Human Rights,4,S Swimelar,W,1500,1730,,NA,NA,St. Luke's 204,15,12,Available: 3,Writing Intensive,NA
+10612,POLS,366,A,International Political Economy,4,S Wilson,MW,1300,1415,,NA,NA,St. Luke's 112,25,11,Available: 14,,NA
+10617,POLS,422,A,Seminar on Topics in International Organization,4,E Dunn,TR,1400,1515,,NA,NA,St. Luke's 112,15,7,Available: 8,Writing Intensive,NA
+10606,POLS,430,A,Research Seminar: Topics in International Security,4,B Ward,TR,1100,1215,,NA,NA,St. Luke's 204,15,16,Closed,Writing Intensive,NA
+10629,RELG,220,A,Holocaust, Religion, Morality,4,T Parker,MW,1100,1215,,NA,NA,Walsh-Ellett Hall 208,22,20,Available: 2,Waitlist - contact instructor,NA
+10630,RELG,262,A,Buddhism,4,S Brown,MW,1400,1515,,NA,NA,Walsh-Ellett Hall 208,18,19,Closed,,NA
+10464,SPAN,301,A,Introduction to Spanish Literature I,4,P Bonds,TR,1100,1215,,NA,NA,Guerry Hall 129,18,19,Closed,Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10465,SPAN,302,A,Introduction to Spanish Literature II,4,T Spaccarelli,MWF,800,850,,NA,NA,Walsh-Ellett Hall 308,18,20,Closed,Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10466,SPAN,303,A,Introduction to Latin American Literature I,4,M Natal,TR,930,1045,,NA,NA,Guerry Hall 205,18,21,Closed,Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10467,SPAN,311,A,Hispanic Culture and Civilization I,4,R Sanchez-Imizcoz,MWF,1100,1150,,NA,NA,Guerry Hall 129,16,9,Available: 7,Writing Intensive; Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10468,SPAN,311,B,Hispanic Culture and Civilization I,4,T Spaccarelli,MWF,1100,1150,,NA,NA,Guerry Hall 131,15,12,Available: 3,Writing Intensive; Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+Italian,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10282,ITAL,103,A,Elementary Italian I,4,L Richardson,MWF,1200,1250,T,1300,1350,Guerry Hall 1,15,18,Closed,Instructor permission required,NA
+10283,ITAL,203,A,Intermediate Italian,4,L Richardson,MWF,1000,1050,T,1400,1450,TBA,20,13,Available: 7,Prerequisite: ITAL 104,NA
+Library Resources,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10284,LIBR,101,A,Library Resources,2,H Syler,T,1400,1600,,NA,NA,duPont Library G10,15,15,Closed,Pass/Fail Only,NA
+Mathematics,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10662,MATH,100,A,Topics in Mathematics: Finite Mathematics,4,W Haight,MWF,1000,1050,,NA,NA,Woods Laboratories 234,25,26,Closed,,NA
+10663,MATH,100,B,Topics in Mathematics: Finite Mathematics,4,W Haight,MWF,1100,1150,,NA,NA,Woods Laboratories 234,25,24,Available: 1,,NA
+10664,MATH,100,C,Topics in Mathematics: Introduction to Mathematical Thought,4,H Craft,MWF,800,850,,NA,NA,Woods Laboratories 230,25,25,Closed,,NA
+10665,MATH,101,A,Calculus I,4,F Croom,MWF,800,850,,NA,NA,Woods Laboratories 234,25,21,Available: 4,,NA
+10666,MATH,101,B,Calculus I,4,F Croom,MWF,900,950,,NA,NA,Woods Laboratories 234,22,24,Closed,,NA
+10667,MATH,101,C,Calculus I,4,C Parrish,MWF,1000,1050,,NA,NA,Woods Laboratories 134,22,19,Available: 3,,NA
+10668,MATH,101,D,Calculus I,4,C Parrish,MWF,1100,1150,,NA,NA,Woods Laboratories 134,25,20,Available: 5,,NA
+10669,MATH,101,E,Calculus I,4,J Cunningham,TR,800,915,,NA,NA,Woods Laboratories 234,22,27,Closed,,NA
+10670,MATH,101,F,Calculus I,4,T Cunningham,TR,930,1045,,NA,NA,Woods Laboratories 234,25,26,Closed,,NA
+10671,MATH,102,A,Calculus II,4,D Drinen,MWF,900,950,,NA,NA,Woods Laboratories 230,25,10,Available: 15,,NA
+10672,MATH,102,B,Calculus II,4,D Drinen,MWF,1000,1050,,NA,NA,Woods Laboratories 230,25,18,Available: 7,,NA
+10673,MATH,102,C,Calculus II,4,K Cavagnaro,TR,800,915,,NA,NA,Woods Laboratories 230,25,16,Available: 9,,NA
+10674,MATH,102,D,Calculus II,4,M Priestley,MWF,900,950,,NA,NA,Woods Laboratories 238,15,6,Available: 9,Writing Intensive; Instructor permission required,NA
+10700,MATH,107,A,Secure Messages: Secure and Insecure Encryption,4,L Alvarez,MWF,800,850,,NA,NA,Woods Laboratories 238,14,13,Available: 1,Writing Intensive; Open only to freshmen,NA
+10675,MATH,207,A,Multidimensional Calculus,4,K Cavagnaro,TR,930,1045,,NA,NA,Woods Laboratories 230,25,15,Available: 10,Prerequisites: MATH 102 or MATH 103,NA
+10676,MATH,210,A,Linear Algebra,4,F Croom,MWF,1100,1150,,NA,NA,Woods Laboratories 230,25,11,Available: 14,Prerequisites: MATH 102 or MATH 103,NA
+10677,MATH,212,A,Differential Equations,4,C Parrish,TR,930,1045,,NA,NA,Woods Laboratories 134,25,3,Available: 22,Prerequisite: MATH 207,NA
+10678,MATH,215,A,Discrete Mathematical Structures,4,D Drinen,TR,1100,1215,,NA,NA,Woods Laboratories 234,25,5,Available: 20,Prerequisites: MATH 102 or MATH 103,NA
+10679,MATH,303,A,Analysis I,4,E Puckette,MWF,1100,1150,,NA,NA,Woods Laboratories 238,25,5,Available: 20,Prerequisites: MATH 207 and MATH 215,NA
+10680,MATH,305,A,Abstract Algebra I,4,K Cavagnaro,MWF,1000,1050,,NA,NA,Woods Laboratories 238,25,12,Available: 13,Prerequisite: MATH 215,NA
+Music,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10471,MUSC,101,A,Music of Western Civilization,4,K Lehman,MWF,1100,1150,,NA,NA,St. Luke's 214,20,19,Available: 1,,NA
+10472,MUSC,101,B,Music of Western Civilization,4,K Lehman,MWF,1200,1250,,NA,NA,St. Luke's 214,20,18,Available: 2,,NA
+10473,MUSC,101,C,Music of Western Civilization,4,S Shrader,TR,930,1045,,NA,NA,St. Luke's 214,20,21,Closed,,NA
+10474,MUSC,102,A,Fundamentals of Music I,2,J Carlson,T,930,1045,T,1330,1400,St. Luke's A,10,10,Closed,,NA
+10721,MUSC,103,A,Fundamentals of Music II,2,J Carlson,R,930,1045,R,1330,1400,St. Luke's A,10,2,Available: 8,Prerequisite: MUSC 102; Instructor permission required,NA
+10475,MUSC,223,A,American Music,4,S Miller,TR,1100,1215,,NA,NA,Guerry Hall 1,20,20,Closed,Prerequisites: MUSC 101 or HUMN 202,NA
+10476,MUSC,241,A,Listening to Asia,4,J Oba,TR,1230,1345,,NA,NA,St. Luke's 214,20,5,Available: 15,Prerequisites: MUSC 101 or MUSC 105 or ASIA 100,NA
+10012,MUSC,251,A,University Choir,1,R Delcamp,TR,1701,1815,MW,1701,1800,St. Luke's 214,99,38,Available: 61,,NA
+10013,MUSC,253,A,University Orchestra,1,S Shrader,T,1900,2100,,NA,NA,Guerry Hall AUD,99,11,Available: 88,,NA
+10478,MUSC,261,A,Musicianship III,4,J Carlson,TR,1100,1215,,NA,NA,St. Luke's A,10,6,Available: 4,Prerequisite: MUSC 260,NA
+10014,MUSC,271,A,Piano,1,S Shrader,TBA,NA,NA,,NA,NA,TBA,8,2,Available: 6,Prerequisites: MUSC 102 and MUSC 260; Instructor permission required,NA
+10015,MUSC,271,B,Piano,1,J Oba,TBA,NA,NA,,NA,NA,TBA,8,0,Available: 8,Prerequisites: MUSC 102 and MUSC 260; Instructor permission required,NA
+10016,MUSC,273,A,Applied Organ,1,R Delcamp,TBA,NA,NA,,NA,NA,TBA,8,0,Available: 8,Prerequisites: MUSC 102 and MUSC 260; Instructor permission required,NA
+10251,MUSC,275,A,Applied Voice,1,S Rupert,TBA,NA,NA,,NA,NA,TBA,8,4,Available: 4,Prerequisites: MUSC 102 and MUSC 260; Instructor permission required,NA
+10017,MUSC,277,A,Applied Strings,1,K Lehman,TBA,NA,NA,,NA,NA,TBA,8,2,Available: 6,Prerequisites: MUSC 102 and MUSC 260; Instructor permission required,NA
+10479,MUSC,277,B,Applied Strings,1,K Lehman,TBA,NA,NA,,NA,NA,TBA,8,0,Available: 8,Instructor permission required,NA
+10477,MUSC,301,A,History of Music I,4,S Miller,W,1330,1600,,NA,NA,TBA,8,7,Available: 1,Prerequisites: MUSC 101 or (HUMN 201 or HUMN 202),NA
+10019,MUSC,371,A,Applied Piano,2,S Shrader,TBA,NA,NA,,NA,NA,TBA,8,1,Available: 7,Prerequisites: MUSC 261 and MUSC 360; Instructor permission required,NA
+10020,MUSC,371,B,Applied Piano,2,J Oba,TBA,NA,NA,,NA,NA,TBA,8,6,Available: 2,Prerequisites: MUSC 261 and MUSC 360; Instructor permission required,NA
+10021,MUSC,373,A,Applied Organ,2,R Delcamp,TBA,NA,NA,,NA,NA,TBA,8,2,Available: 6,Prerequisites: MUSC 261 and MUSC 360; Instructor permission required,NA
+10022,MUSC,375,A,Applied Voice,2,S Rupert,TBA,NA,NA,,NA,NA,TBA,8,4,Available: 4,Prerequisites: MUSC 261 and MUSC 360; Instructor permission required,NA
+10023,MUSC,377,A,Applied Strings,2,K Lehman,TBA,NA,NA,,NA,NA,TBA,8,0,Available: 8,Prerequisites: MUSC 261 and MUSC 360; Instructor permission required,NA
+10480,MUSC,377,B,Applied Strings,2,K Lehman,TBA,NA,NA,,NA,NA,TBA,8,0,Available: 8,Prerequisites: MUSC 261 and MUSC 360; Instructor permission required,NA
+10703,MUSC,405,A,Counterpoint and Fugue,4,R Delcamp,TBA,NA,NA,,NA,NA,St. Luke's A,10,2,Available: 8,Prerequisite: MUSC 360; Instructor permission required,NA
+Philosophy,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10584,PHIL,101,A,Topics in Philosophy: God, Death and the Meaning of Life,4,C Conn,TR,800,915,,NA,NA,Walsh-Ellett Hall 302,20,17,Available: 3,,NA
+10585,PHIL,101,B,Topics in Philosophy: Classical Theories and Comtemporary Issues,4,B Garland,MWF,900,950,,NA,NA,St. Luke's 100,20,22,Closed,,NA
+10586,PHIL,101,C,Topics in Philosophy: Why Be Moral?,4,A Moser,TR,1100,1215,,NA,NA,St. Luke's 210,20,14,Available: 6,Writing Intensive,NA
+10587,PHIL,101,D,Topics in Philosophy: Ethics in Campus Life,4,J Peterman,MF,1100,1215,,NA,NA,duPont Library G9D,20,14,Available: 6,Writing Intensive,NA
+10588,PHIL,202,A,Ethics,4,B Garland,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 310,20,19,Available: 1,,NA
+10589,PHIL,203,A,Ancient Philosophy from Homer to Augustine,4,J Peters,MWF,900,950,,NA,NA,St. Luke's 210,20,15,Available: 5,,NA
+10593,PHIL,210,A,Philosophical Issues in Christianity,4,C Conn,TR,1230,1345,,NA,NA,St. Luke's 210,20,15,Available: 5,,NA
+10596,PHIL,220,A,The Self,4,A Moser,TR,930,1045,,NA,NA,St. Luke's 204,20,17,Available: 3,,NA
+10590,PHIL,230,A,Environmental Ethics,4,J Peters,MW,1100,1215,,NA,NA,St. Luke's 210,24,29,Closed,Reserved Seats: seniors-8 (none available), juniors-8 (none available), sophomores-8 (none available),NA
+10591,PHIL,302,A,Medieval Philosophy,4,C Conn,MW,1230,1345,,NA,NA,St. Luke's 100,20,6,Available: 14,Prerequisites: One course in philosophy at the 100- or 200-level (excluding PHIL 201),NA
+10592,PHIL,306,A,Epistemology,4,J Peterman,W,1400,1530,,NA,NA,St. Luke's 210,20,7,Available: 13,Writing Intensive; Open only to students pursuing majors in philosophy,NA
+10594,PHIL,319,A,Nineteenth-Century Philosophy,4,B Garland,R,1400,1630,,NA,NA,St. Luke's 210,20,6,Available: 14,,NA
+10595,PHIL,415,A,Nietzsche,4,A Moser,M,1400,1630,,NA,NA,St. Luke's 210,20,7,Available: 13,Prerequisites: One course in philosophy at the 100- or 200-level (excluding PHIL 201),NA
+Physical Education,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10485,PHED,102,A,Racquetball,0,S Baker,TR,930,1045,,NA,NA,Fowler Center ,6,5,Available: 1,,NA
+10487,PHED,103,A,Weight Exercise,0,H Windham,MW,700,800,,NA,NA,Fowler Center ,20,16,Available: 4,,NA
+10489,PHED,106,A,Beginning Fencing,0,M Webb,TR,1900,2000,,NA,NA,Fowler Center ,15,16,Closed,,NA
+10490,PHED,106,B,Advanced Fencing,0,M Webb,TR,2000,2100,,NA,NA,Fowler Center ,15,3,Available: 12,,NA
+10491,PHED,108,A,Beginning Handball,0,T Spaccarelli,TR,1300,1400,,NA,NA,Fowler Center ,15,5,Available: 10,,NA
+10492,PHED,108,B,Advanced Handball,0,J Reishman,TR,1400,1500,,NA,NA,Fowler Center ,15,3,Available: 12,,NA
+10493,PHED,110,A,Aerobics,0,M Webb,MW,1600,1700,,NA,NA,Fowler Center ,25,14,Available: 11,Physical Education Fee: $60,NA
+10494,PHED,110,B,Aerobics,0,M Webb,TR,1600,1700,,NA,NA,Fowler Center ,25,18,Available: 7,Physical Education Fee: $60,NA
+10495,PHED,115,A,Beginning Riding,0,M Taylor,W,1400,1600,,NA,NA,Equestrian Center ,10,5,Available: 5,Riding Fee: $525,NA
+10496,PHED,115,B,Beginning Riding,0,M Taylor,TR,1130,1230,,NA,NA,Equestrian Center ,10,3,Available: 7,Riding Fee: $525,NA
+10497,PHED,124,A,Basketball,0,D McCarthy,TR,1100,1200,,NA,NA,Fowler Center ,20,7,Available: 13,,NA
+10498,PHED,150,A,Running,0,J Heitzenrater,TR,1100,1155,,NA,NA,Fowler Center ,20,25,Closed,,NA
+10499,PHED,150,B,Lifetime of Fitness: Beginning Golf,0,C Cardwell,MW,1000,1059,,NA,NA,Fowler Center ,20,14,Available: 6,,NA
+10503,PHED,150,F,Mountain Biking,0,J Thoni,MW,1300,1400,,NA,NA,Fowler Center ,20,0,Available: 20,,NA
+10302,PHED,154,A,Beginning Modern Dance,0,P Pearigen,MW,1300,1415,,NA,NA,Tennessee Williams Center ,15,14,Available: 1,,NA
+10504,PHED,155,A,Advanced Beginning Riding,0,M Taylor,MW,1300,1400,,NA,NA,Equestrian Center ,10,4,Available: 6,Riding Fee: $525,NA
+10505,PHED,165,A,Beginning Jumping,0,M Taylor,MW,1100,1200,,NA,NA,Equestrian Center ,10,4,Available: 6,Riding Fee: $525,NA
+10506,PHED,170,A,Stretch and Relax,0,P Van Dyke,TR,1400,1500,,NA,NA,Fowler Center ,25,16,Available: 9,Physical Education Fee: $175,NA
+10507,PHED,175,A,Novice Riding,0,M Taylor,TR,1300,1400,,NA,NA,Equestrian Center ,10,5,Available: 5,Riding Fee: $525,NA
+10508,PHED,180,A,Sport Aviation,0,M Webb,F,1300,1600,,NA,NA,Sewanee Airport ,10,7,Available: 3,Aviation Fee: $1450,NA
+10509,PHED,190,A,Beginning Bouldering,0,M Knoll,TR,1300,1430,,NA,NA,Fowler Center ,10,9,Available: 1,Physical Education Fee: $130,NA
+10510,PHED,200,A,Martial Arts,0,H Goldberg,MW,1700,1830,,NA,NA,Fowler Center ,20,11,Available: 9,Physical Education Fee: $140,NA
+10304,PHED,204,A,Intermediate Ballet,0,P Pearigen,MW,1100,1215,,NA,NA,Tennessee Williams Center ,15,5,Available: 10,Prerequisites: PHED 104 or THTR 104; Instructor permission required,NA
+10718,PHED,205,A,Intermediate Tennis,0,J Shackelford,TR,800,915,,NA,NA,Fowler Center ,12,9,Available: 3,,NA
+10511,PHED,215,A,Intermediate Riding,0,M Taylor,TR,1400,1500,,NA,NA,Equestrian Center ,10,11,Closed,Riding Fee: $525,NA
+10514,PHED,251,A,Scuba,0,D Backlund,W,1800,2200,,NA,NA,St. Luke's 100,12,7,Available: 5,Physical Education Fee: $225,NA
+10515,PHED,270,A,T'ai Chi,0,C Jiang,MR,1900,2000,,NA,NA,Fowler Center ,18,14,Available: 4,Physical Education Fee: $160,NA
+10516,PHED,315,A,Advanced Riding,0,M Taylor,M,1400,1600,,NA,NA,Equestrian Center ,10,8,Available: 2,Riding Fee: $525,NA
+10517,PHED,315,B,Advanced Riding,0,M Taylor,TR,1000,1100,,NA,NA,Equestrian Center ,10,3,Available: 7,Riding Fee: $525,NA
+10717,PHED,403,A,Advanced Weight Training,0,B McCorkle,TR,1800,1900,,NA,NA,Fowler Center ,20,4,Available: 16,,NA
+Physics and Astronomy,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10285,PHYS,101,A,General Physics I (Lab),4,B Szapiro,MWF,900,950,,NA,NA,Woods Laboratories 216,30,13,Available: 17,Lab Science; Pre- or Corequisites: MATH 101 or MATH 102 or MATH 103 or MATH 204,NA
+10286,PHYS,101,B,General Physics I (Lab),4,F Hart,TR,930,1045,,NA,NA,Woods Laboratories 216,35,27,Available: 8,Lab Science,NA
+10287,PHYS,101,L1,General Physics I (Lab),0,F Hart,T,1400,1700,,NA,NA,Woods Laboratories 227,25,14,Available: 11,Lab Science,NA
+10288,PHYS,101,L2,General Physics I (Lab),0,B Szapiro,W,1400,1700,,NA,NA,Woods Laboratories 227,20,13,Available: 7,Lab Science,NA
+10289,PHYS,101,L3,General Physics I (Lab),0,F Hart,R,1400,1700,,NA,NA,Woods Laboratories 227,20,13,Available: 7,Lab Science,NA
+10290,PHYS,110,A,Our Place in the Universe: An Introduction to the Science of Astronomy,4,D Durig,MWF,1200,1250,,NA,NA,Woods Laboratories 134,14,14,Closed,Non-Lab Science; Open only to freshmen,NA
+10701,PHYS,120,A,The Science of Music,4,B Szapiro,TR,1100,1215,,NA,NA,Woods Laboratories 227,15,13,Available: 2,Non-Lab Science; Writing Intensive; Open only to freshmen,NA
+10291,PHYS,201,A,Optics (Lab),4,R Peterson,MWF,1100,1150,W,1400,1700,Woods Laboratories 217,20,6,Available: 14,Lab Science; Prerequisite: PHYS 102,NA
+10292,PHYS,203,A,Intermediate Electricity and Magnetism I,4,R Peterson,MWF,900,950,,NA,NA,Woods Laboratories 140,12,7,Available: 5,Lab Science; Prerequisites: PHYS 102 and MATH 102,NA
+10293,PHYS,250,A,Introductory Astronomy I (Lab),4,D Durig,TR,1300,1415,T,1900,2200,Woods Laboratories 134,14,13,Available: 1,Lab Science,NA
+10294,PHYS,303,A,Mechanics,4,B Szapiro,MWF,1000,1050,,NA,NA,Woods Laboratories 217,20,4,Available: 16,Non-Lab Science; Prerequisites: PHYS 102 and MATH 207,NA
+10806,PHYS,312,A,Junior Seminar,2,R Peterson,TBA,NA,NA,,NA,NA,TBA,1,1,Closed,,NA
+10295,PHYS,421,A,Advanced Electromagnetic Theory,4,F Hart,TBA,NA,NA,,NA,NA,TBA,20,0,Available: 20,Non-Lab Science; Prerequisites: MATH 212 and PHYS 204,NA
+Politics,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10597,POLS,101,A,American Government and Politics,4,M Gunning,MW,1100,1215,,NA,NA,Walsh-Ellett Hall 308,25,27,Closed,,NA
+10598,POLS,101,B,American Government and Politics,4,P Schneider,TR,930,1045,,NA,NA,Woods Laboratories 113,25,23,Available: 2,,NA
+10719,POLS,101,C,American Government and Politics,4,M Gunning,TR,1100,1215,,NA,NA,Woods Laboratories 230,25,26,Closed,,NA
+10602,POLS,103,A,Comparative Politics,4,S Wilson,TR,930,1045,,NA,NA,St. Luke's 112,25,25,Closed,,NA
+10603,POLS,103,B,Comparative Politics,4,S Wilson,TR,1100,1215,,NA,NA,St. Luke's 112,25,25,Closed,,NA
+10714,POLS,110,A,Campaigns and Elections in the United States,4,P Schneider,WF,1100,1215,,NA,NA,duPont Library 217,14,14,Closed,Writing Intensive,NA
+10599,POLS,150,A,World Politics,4,S Swimelar,MWF,1000,1050,,NA,NA,Walsh-Ellett Hall 210,25,23,Available: 2,,NA
+10600,POLS,150,B,World Politics,4,S Swimelar,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 210,25,19,Available: 6,,NA
+10616,POLS,227,A,Africa in World Politics,4,E Dunn,MW,1100,1215,,NA,NA,Walsh-Ellett Hall 204,25,9,Available: 16,,NA
+10615,POLS,230,A,Politics in Nigeria and South Africa,4,E Dunn,TR,930,1045,,NA,NA,St. Luke's 100,25,4,Available: 21,,NA
+10604,POLS,260,A,European Political Relations,4,B Ward,MWF,900,950,,NA,NA,Walsh-Ellett Hall 302,25,19,Available: 6,,NA
+10607,POLS,302,A,Recent Political Theory,4,G McKeen,MWF,1300,1350,,NA,NA,Walsh-Ellett Hall 304,25,13,Available: 12,,NA
+10605,POLS,322,A,United States Foreign Policy,4,B Ward,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 302,25,29,Closed,,NA
+10720,POLS,328,A,Political Campaigning and Elections,4,M Gunning,TR,930,1045,,NA,NA,Woods Laboratories 238,25,11,Available: 14,Prerequisite: POLS 101,NA
+10611,POLS,331,A,Introduction to Constitutional Law,4,R Pearigen,TR,800,915,,NA,NA,Walsh-Ellett Hall 210,25,13,Available: 12,,NA
+10609,POLS,333,A,Human Rights,4,S Swimelar,W,1500,1730,,NA,NA,St. Luke's 204,15,12,Available: 3,Writing Intensive,NA
+10608,POLS,344,A,Myth America,4,G McKeen,MW,1400,1515,,NA,NA,Walsh-Ellett Hall 304,25,23,Available: 2,,NA
+10612,POLS,366,A,International Political Economy,4,S Wilson,MW,1300,1415,,NA,NA,St. Luke's 112,25,11,Available: 14,,NA
+10610,POLS,408,A,Research Seminar on Southern Politics,4,P Schneider,TR,1400,1515,,NA,NA,Walsh-Ellett Hall 306,15,13,Available: 2,Prerequisite: POLS 101,NA
+10617,POLS,422,A,Seminar on Topics in International Organization,4,E Dunn,TR,1400,1515,,NA,NA,St. Luke's 112,15,7,Available: 8,Writing Intensive,NA
+10606,POLS,430,A,Research Seminar: Topics in International Security,4,B Ward,TR,1100,1215,,NA,NA,St. Luke's 204,15,16,Closed,Writing Intensive,NA
+10741,POLS,450,F,Honors Tutorial,2 - 4,P Schneider,TBA,NA,NA,,NA,NA,TBA,99,0,Available: 99,Special form required,NA
+Psychology,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10423,PSYC,107,A,Psychology I. Perception and Behavior,4,H Craft/T Keith-Lucas,MWF,900,950,W,1400,1700,Woods Laboratories 324,25,26,Closed,Non-Lab Science; Reserved Seats: sophomores-11 (1 available), returning freshmen-11 (none available); Waitlist - contact instructor,NA
+10424,PSYC,107,B,Psychology I. Perception and Behavior,4,T Keith-Lucas,MWF,1100,1150,W,1400,1700,Woods Laboratories 313,14,16,Closed,Non-Lab Science; Writing Intensive,NA
+10425,PSYC,108,A,Psychology II. Development and Personality,4,N Barenbaum/C Peyser,MWF,900,950,M,1400,1700,Woods Laboratories 341,24,26,Closed,Non-Lab Science; Reserved Seats: sophomores-11 (none available), returning freshmen-11 (none available),NA
+10426,PSYC,108,B,Psychology II. Development and Personality,4,B Lohr,TR,930,1045,M,1400,1700,Woods Laboratories 324,23,29,Closed,Non-Lab Science; Reserved Seats: sophomores-11 (none available), returning freshmen-11 (none available),NA
+10780,PSYC,108,C,Psychology II. Development and Personality,4,H Craft/C Peyser,TR,1100,1215,T,1400,1700,Woods Laboratories 324,26,26,Closed,Non-Lab Science; Waitlist - contact instructor,NA
+10427,PSYC,201,A,Theories of Personality,4,N Barenbaum,TR,930,1045,,NA,NA,Woods Laboratories 341,26,21,Available: 5,,NA
+10428,PSYC,203,A,Social Psychology,4,H Bateman,TR,800,915,,NA,NA,Woods Laboratories 341,26,16,Available: 10,,NA
+10429,PSYC,208,A,Cognitive Psychology,4,K Yu,MWF,1000,1050,,NA,NA,Woods Laboratories 324,26,25,Available: 1,,NA
+10430,PSYC,213,A,Comparative Sexual Behavior,4,C Peyser,MWF,1100,1150,,NA,NA,Woods Laboratories 341,26,14,Available: 12,,NA
+10431,PSYC,251,A,Research Methods,4,K Yu,MWF,1100,1150,,NA,NA,Woods Laboratories 324,26,13,Available: 13,,NA
+10432,PSYC,254,A,Neuropsychology,0,T Keith-Lucas,MWF,800,850,,NA,NA,Woods Laboratories 313,26,13,Available: 13,,NA
+10433,PSYC,357,A,Child Development (Lab),4,H Bateman,TR,1100,1215,W,1400,1700,Woods Laboratories 340,16,18,Closed,Lab Science; Writing Intensive; Prerequisites: PSYC 108 and PSYC 251,NA
+10434,PSYC,406,A,Case Studies in Personality,4,N Barenbaum,T,1400,1650,,NA,NA,Woods Laboratories 340,16,12,Available: 4,Prerequisites: PSYC 201 and three other courses in psychology,NA
+10435,PSYC,409,A,Seminar in Behavior Modification,4,C Peyser,R,1400,1650,,NA,NA,Woods Laboratories 340,16,10,Available: 6,Prerequisites: Four courses in psychology,NA
+Religious Studies,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10618,RELG,100,A,Memory, Place, Life,4,J Smith,M,1300,1600,,NA,NA,TBA,14,14,Closed,Writing Intensive,NA
+10619,RELG,105,A,Faith After the Holocaust,4,P Kelley,TR,1245,1355,,NA,NA,Walsh-Ellett Hall 204,14,17,Closed,Writing Intensive,NA
+10620,RELG,111,A,Introduction to Religion,4,L Carden,MWF,800,850,,NA,NA,Walsh-Ellett Hall 208,15,15,Closed,Writing Intensive,NA
+10621,RELG,111,B,Introduction to Religion,4,S Brown,MWF,900,950,,NA,NA,Walsh-Ellett Hall 202,20,18,Available: 2,,NA
+10622,RELG,111,C,Introduction to Religion,4,S Brown,MWF,1100,1150,,NA,NA,Walsh-Ellett Hall 202,20,21,Closed,Reserved Seats: sophomores-10 (none available), returning freshmen-10 (none available),NA
+10623,RELG,121,A,The Responsible Self,4,T Parker,TR,800,915,,NA,NA,Walsh-Ellett Hall 204,22,17,Available: 5,,NA
+10624,RELG,121,B,The Responsible Self,4,T Parker,TR,930,1045,,NA,NA,Walsh-Ellett Hall 302,22,20,Available: 2,,NA
+10625,RELG,143,A,Introduction to the Bible I: Old Testament,4,P Kelley,TR,930,1045,,NA,NA,Walsh-Ellett Hall 208,25,28,Closed,,NA
+10626,RELG,143,B,Introduction to the Bible I: Old Testament,4,P Kelley,TR,1100,1215,,NA,NA,Walsh-Ellett Hall 208,25,29,Closed,,NA
+10627,RELG,145,A,In the Eye of the Beholder: Images of Jesus Through Gospel and Film,4,G Phillips,TR,930,1045,,NA,NA,Walsh-Ellett Hall 204,14,15,Closed,Writing Intensive; Open only to freshmen,NA
+10628,RELG,151,A,Philosophy of Religion,4,L Carden,MWF,900,950,,NA,NA,Walsh-Ellett Hall 208,22,22,Closed,,NA
+10629,RELG,220,A,Holocaust, Religion, Morality,4,T Parker,MW,1100,1215,,NA,NA,Walsh-Ellett Hall 208,22,20,Available: 2,Waitlist - contact instructor,NA
+10630,RELG,262,A,Buddhism,4,S Brown,MW,1400,1515,,NA,NA,Walsh-Ellett Hall 208,18,19,Closed,,NA
+10631,RELG,324,A,Faith Seeking Foundations,4,L Carden,TR,800,915,,NA,NA,Walsh-Ellett Hall 208,22,10,Available: 12,Prerequisites: One course in religion, philosophy, or humanities,NA
+10632,RELG,343,A,Popular Culture and Religion in America,4,J Smith,MWF,900,950,,NA,NA,duPont Library G31,15,17,Closed,,NA
+10633,RELG,393,A,Rural Religion,4,J Smith,MW,1100,1215,R,1300,1600,duPont Library G31,12,20,Closed,,NA
+10634,RELG,401,A,Seminar for Majors I,4,G Phillips,W,1400,1630,,NA,NA,Walsh-Ellett Hall 204,25,14,Available: 11,Open only to students pursuing majors in religion,NA
+Russian,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10657,RUSN,103,A,Elementary Russian I,4,N Koloyartseva,MWF,900,950,T,1300,1350,St. Luke's 102,22,26,Closed,,NA
+10658,RUSN,203,A,Intermediate Russian,4,N Koloyartseva,MWF,1100,1150,R,1300,1350,St. Luke's 102,22,15,Available: 7,Prerequisite: RUSN 104,NA
+10659,RUSN,361,A,Tolstoy in Translation,4,D Lumpkins,TR,1100,1215,,NA,NA,St. Luke's 104,15,9,Available: 6,,NA
+10661,RUSN,402,A,The Nineteenth Century II,4,D Lumpkins,TR,1300,1415,,NA,NA,TBA,20,2,Available: 18,Prerequisite: RUSN 302,NA
+10794,RUSN,444,C,Independent Study,2 - 4,N Koloyartseva,TBA,NA,NA,,NA,NA,TBA,4,4,Closed,,NA
+10801,RUSN,444,D,Independent Study,2 - 4,N Koloyartseva,TBA,NA,NA,,NA,NA,TBA,1,1,Closed,,NA
+School of Theology,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10635,BIBL,331,A,Elementary Biblical Hebrew I,3,M Christian,TF,1300,1415,,NA,NA,TBA,25,2,Available: 23,,NA
+Social Science-Foreign Lang,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10030,SSFL,450,A,Honors Tutorial,2 - 4,M Natal,TBA,NA,NA,,NA,NA,TBA,15,0,Available: 15,Writing Intensive; Instructor permission required,NA
+Spanish,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10449,SPAN,103,A,Elementary Spanish I,4,A Jordan,MF,800,850,TR,800,850,Guerry Hall 131,20,14,Available: 6,,NA
+10451,SPAN,103,C,Elementary Spanish I,4,A Jordan,MF,900,950,TR,930,1020,Guerry Hall 131,20,16,Available: 4,,NA
+10452,SPAN,103,D,Elementary Spanish I,4,B Sandlin,MWF,1000,1050,T,1400,1450,Guerry Hall 131,20,18,Available: 2,,NA
+10453,SPAN,103,E,Elementary Spanish I,4,K Fisher,MW,1300,1350,TR,1300,1350,Guerry Hall 131,20,18,Available: 2,,NA
+10454,SPAN,104,A,Elementary Spanish II,4,R Sanchez-Imizcoz,MWF,800,850,T,1400,1450,Guerry Hall 204,20,22,Closed,Prerequisite: SPAN 103,NA
+10455,SPAN,104,B,Elementary Spanish II,4,T Prinkey,MWF,900,950,T,930,1020,Guerry Hall 204,20,12,Available: 8,Prerequisite: SPAN 103,NA
+10456,SPAN,104,C,Elementary Spanish II,4,T Prinkey,MWF,1000,1050,R,1000,1050,Guerry Hall 204,20,13,Available: 7,Prerequisite: SPAN 103,NA
+10457,SPAN,203,A,Intermediate Spanish,4,A Jordan,MF,1100,1150,TR,1100,1150,Guerry Hall 204,18,15,Available: 3,Prerequisite: SPAN 104,NA
+10458,SPAN,203,B,Intermediate Spanish,4,T Spaccarelli,MW,1200,1250,TR,1200,1250,Guerry Hall 131,18,24,Closed,Prerequisite: SPAN 104,NA
+10459,SPAN,203,C,Intermediate Spanish,4,P Bonds,MF,800,850,TR,800,915,Guerry Hall 129,18,12,Available: 6,Prerequisite: SPAN 104,NA
+10460,SPAN,203,D,Intermediate Spanish,4,P Bonds,MF,900,950,TR,930,1020,Guerry Hall 129,18,18,Closed,Prerequisite: SPAN 104,NA
+10461,SPAN,203,E,Intermediate Spanish,4,M Natal,MW,800,850,TR,800,850,Guerry Hall 205,18,16,Available: 2,Prerequisite: SPAN 104,NA
+10462,SPAN,300,A,Introduction to Hispanic Literature,4,B Sandlin,MWF,1100,1150,,NA,NA,Guerry Hall 216,18,19,Closed,Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10463,SPAN,300,B,Introduction to Hispanic Literature,4,T Prinkey,TR,800,915,,NA,NA,Guerry Hall 204,18,17,Available: 1,Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10793,SPAN,300,C,Introduction to Hispanic Literature,4,B Sandlin,MWF,800,850,,NA,NA,Walsh-Ellett Hall 210,18,11,Available: 7,Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10464,SPAN,301,A,Introduction to Spanish Literature I,4,P Bonds,TR,1100,1215,,NA,NA,Guerry Hall 129,18,19,Closed,Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10465,SPAN,302,A,Introduction to Spanish Literature II,4,T Spaccarelli,MWF,800,850,,NA,NA,Walsh-Ellett Hall 308,18,20,Closed,Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10466,SPAN,303,A,Introduction to Latin American Literature I,4,M Natal,TR,930,1045,,NA,NA,Guerry Hall 205,18,21,Closed,Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10467,SPAN,311,A,Hispanic Culture and Civilization I,4,R Sanchez-Imizcoz,MWF,1100,1150,,NA,NA,Guerry Hall 129,16,9,Available: 7,Writing Intensive; Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10468,SPAN,311,B,Hispanic Culture and Civilization I,4,T Spaccarelli,MWF,1100,1150,,NA,NA,Guerry Hall 131,15,12,Available: 3,Writing Intensive; Prerequisites: One course in Spanish numbered 203 or higher or placement,NA
+10469,SPAN,415,A,Spanish Prose Fiction I,4,R Sanchez-Imizcoz,MW,1400,1515,,NA,NA,Guerry Hall 129,18,8,Available: 10,,NA
+10470,SPAN,431,A,The Contemporary Hispanic World,4,M Natal,T,1530,1810,,NA,NA,Guerry Hall 129,18,20,Closed,,NA
+Statistics,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10681,STAT,204,A,Elementary Statistics,4,E Puckette,TR,800,915,,NA,NA,Woods Laboratories 113,40,30,Available: 10,,NA
+Theatre and Dance,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10298,THTR,101,A,Introduction to Theatre,4,M Cook,TR,800,915,,NA,NA,duPont Library G26,20,17,Available: 3,,NA
+10299,THTR,111,A,Elements of Production,4,J Matthews/J Piccard,MWF,1200,1250,M,1400,1700,Tennessee Williams Center ,8,8,Closed,Open only to freshmen and sophomores,NA
+10300,THTR,112,A,Elements of Performance,4,P Smith,TR,800,915,,NA,NA,Tennessee Williams Center ,12,12,Closed,Open only to freshmen and sophomores,NA
+10301,THTR,154,A,Beginning Modern Dance,2,P Pearigen,MW,1300,1415,,NA,NA,Tennessee Williams Center ,15,14,Available: 1,,NA
+10303,THTR,204,A,Intermediate Ballet Technique,2,P Pearigen,MW,1100,1215,,NA,NA,Tennessee Williams Center ,15,5,Available: 10,Prerequisites: THTR 104 or PHED 104; Instructor permission required,NA
+10305,THTR,221,A,Theatre History,4,P Smith,TR,1100,1215,,NA,NA,Tennessee Williams Center ,15,14,Available: 1,Writing Intensive; Open only to sophomores, juniors, and seniors,NA
+10334,THTR,226,A,Asian Theatre,4,D Backlund,T,1400,1700,,NA,NA,Tennessee Williams Center ,18,9,Available: 9,,NA
+10306,THTR,233,A,Shakespeare and the Actor,4,D Landon,MW,1415,1645,,NA,NA,Tennessee Williams Center ,8,8,Closed,,NA
+10307,THTR,245,A,The Audition Process,2,D Landon,F,1330,1530,,NA,NA,Tennessee Williams Center ,8,2,Available: 6,Prerequisite: THTR 231; Instructor permission required,NA
+10308,THTR,337,A,Writing for Solo Performance,4,D Landon,R,1400,1700,,NA,NA,Tennessee Williams Center ,6,6,Closed,Writing Intensive,NA
+10309,THTR,342,A,Scene Design,4,Staff,TR,930,1045,R,1400,1700,TBA,9,4,Available: 5,Prerequisite: THTR 114,NA
+10311,THTR,361,A,Costume Design,4,J Matthews,MWF,1100,1150,W,1400,1700,Tennessee Williams Center ,9,7,Available: 2,Prerequisite: THTR 114,NA
+10312,THTR,362,A,Advanced Costume Design,4,J Matthews,MWF,1100,1150,W,1400,1700,Tennessee Williams Center ,8,2,Available: 6,Prerequisite: THTR 361,NA
+10313,THTR,431,A,Projects in Performance,4,P Smith,TBA,NA,NA,,NA,NA,TBA,20,3,Available: 17,Open only to juniors and seniors,NA
+Women's and Gender Studies,,NA,,,,,,NA,NA,,NA,NA,,NA,NA,,,NA
+10538,ENGL,357,A,Shakespeare I,4,P Macfie,MWF,900,950,,NA,NA,Walsh-Ellett Hall 308,20,20,Closed,,NA
+10541,ENGL,359,A,Renaissance Literature I,4,P Macfie,MWF,1100,1150,,NA,NA,Carnegie Hall 302,20,19,Available: 1,,NA
+10570,HIST,238,A,Women in U.S. History, 1870 to the Present,4,J Berebitsky,TR,930,1045,,NA,NA,St. Luke's 102,22,20,Available: 2,,NA
+10695,HIST,313,A,Family, Gender, and Sexuality in Early Modern Europe,4,A Creasman,M,1330,1600,,NA,NA,Woods Laboratories 103,15,9,Available: 6,,NA
+10691,HIST,349,A,American Women’s Cultural and Intellectual History,4,J Berebitsky,W,1400,1630,,NA,NA,Walsh-Ellett Hall 306,15,16,Closed,,NA
+10698,HIST,380,A,Crimes and Scandals in the Historical Imagination, 18th–20th Centuries,4,A Mansker,T,1400,1630,,NA,NA,Walsh-Ellett Hall 308,15,16,Closed,,NA
+10608,POLS,344,A,Myth America,4,G McKeen,MW,1400,1515,,NA,NA,Walsh-Ellett Hall 304,25,23,Available: 2,,NA
+10482,WMST,100,A,Introduction to Women's Studies,4,J Berebitsky,TR,1230,1345,,NA,NA,Walsh-Ellett Hall 308,20,20,Closed,,NA
+10483,WMST,111,A,Introduction to Lesbian, Gay, Bisexual, and Transgender Studies,4,T Spaccarelli,M,1400,1630,,NA,NA,Guerry Hall 1,18,19,Closed,,NA
