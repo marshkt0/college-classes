@@ -1,6 +1,8 @@
 
 # start with advent2002 ; easter 2002 not available
 
+# this is not so good -- should use tidyverse instead! 
+
 url <- "http://registrar.sewanee.edu/schedule/export.csv?semester=Advent+Semester+2002&college=College+of+Arts+and+Sciences" ;
 write.csv( read.csv(url,header=T), "csvs/advent02.csv", quote=F, row.names=F ) ;
 
